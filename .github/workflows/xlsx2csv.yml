@@ -20,7 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           
       - name: execute py script # run xlsx2csv.py to get the latest data
-        run: python xlsx2csv.py -q 'nonnumeric' procedimientos_liraec.xlsx procedimientos_liraec.csv
+        run: python xlsx2csv.py -q 'nonnumeric' -d ';' procedimientos_liraec.xlsx procedimientos_liraec.csv
           
       - name: commit files
         run: |
