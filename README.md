@@ -1,3 +1,11 @@
+<div align="center">
+	<div>
+		<img width="500" src="media/logo.svg" alt="LIC-AEC">
+	</div>
+	<br>
+	<hr>
+</div>
+
 Procedimientos LIR·AEC
 =============
 
