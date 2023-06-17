@@ -36,9 +36,3 @@
 ehthumbs.db
 Thumbs.db
 ~$*
-
-
-# Ignore Excel and CSV #
-######################
-*.xlsx
-*.csv
