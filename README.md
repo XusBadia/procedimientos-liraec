@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="500" src="media/logo.svg" alt="LIC-AEC">
+		<img width="350" src="media/logo.svg" alt="LIC-AEC">
 	</div>
 </div>
 
