@@ -4,10 +4,10 @@
 	</div>
 </div>
 
-Procedimientos LIR·AEC
+Procedimientos LIC·AEC
 =============
 
-Este listado de procedimientos (basado en [CIE-9](https://eciemaps.mscbs.gob.es/ecieMaps/browser/index_9_mc.html)) para el Libro Informático del Residente.
+Este listado de procedimientos (basado en [CIE-9](https://eciemaps.mscbs.gob.es/ecieMaps/browser/index_9_mc.html)) para el Libro Informático del Cirujano.
 
 ## Contribuir a la lista
 Si hay algun procedimiento que eches en falta, puedes hacer una aportación al repositorio o abrir una Issue.
