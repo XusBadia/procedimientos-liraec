@@ -1534,126 +1534,126 @@
       "cieId": "06.11",
       "descripcion": "BIOPSIA DE GLANDULA TIROIDES",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5bf72134f92b810125"},
       "cieId": "06.13",
       "descripcion": "BIOPSIA DE GLANDULA PARATIROIDES",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b01e2bfb54ba7a785"},
       "cieId": "06.2",
       "descripcion": "HEMITIROIDECTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5bd2b566cb67554691"},
       "cieId": "06.4",
       "descripcion": "TIROIDECTOMIA TOTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5bc9db229a90863136"},
       "cieId": "06.6",
       "descripcion": "EXCISION DE TIROIDES LINGUAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b326f5c3495ec77a5"},
       "cieId": "06.7",
       "descripcion": "EXCISION DEL CONDUCTO TIROGLOSO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b2e814b24795269e8"},
       "cieId": "06.8",
       "descripcion": "PARATIROIDECTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b2efece5c6844882e"},
       "cieId": "06.91",
       "descripcion": "DIVISION DEL ISTMO TIROIDEO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b130e881e26955c1a"},
       "cieId": "06.92",
       "descripcion": "LIGADURA DE VASOS TIROIDEOS",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b252ebd1739b26cb5"},
       "cieId": "06.95",
       "descripcion": "REIMPLANTACION DE TEJIDO PARATIROIDEO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5bfdcb3fa4c3ffbbad"},
       "cieId": "07.11",
       "descripcion": "BIOPSIA DE GLANDULA SUPRARRENAL",
       "especialidad": ["CIRGEN", "UROLOGIA"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5bedbf48155b2c8e7e"},
       "cieId": "07.13",
       "descripcion": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO TRANSFRONTAL",
       "especialidad": ["NEUROCIRUGIA"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b7598a30ed0ad43bb"},
       "cieId": "07.14",
       "descripcion": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO TRANSESFENOIDAL",
       "especialidad": ["NEUROCIRUGIA"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5bf9fe70618d29053d"},
       "cieId": "07.15",
       "descripcion": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO NO ESPECIFICADO",
       "especialidad": ["NEUROCIRUGIA"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b8b2db924560330ad"},
       "cieId": "07.16",
       "descripcion": "BIOPSIA DE TIMO",
       "especialidad": ["CIRGEN", "UROLOGIA"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b620a923624cc5b32"},
       "cieId": "07.17",
       "descripcion": "BIOPSIA DE GLANDULA PINEAL",
       "especialidad": ["NEUROCIRUGIA"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5bd293e15c3826a981"},
       "cieId": "07.22",
       "descripcion": "SUPRARRENALECTOMIA",
       "especialidad": ["CIRGEN", "UROLOGIA"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5b6c2365a45f213e9d"},
       "cieId": "07.43",
       "descripcion": "LIGADURA DE VASOS SUPRARRENALES",
       "especialidad": ["CIRGEN", "UROLOGIA"],
-      "subespecialidad": "ENDOCRINO"
+      "subespecialidad": ["ENDOCRINO"]
     },
     {
       "_id": {"$oid": "64d25b5ba229bb0a679fe5f6"},
@@ -3863,7 +3863,7 @@
       "descripcion": "HERNIOPLASTIA LAPAROSCOPICA (TAPP)",
       "sinonimos": ["HERNIOPLASTIA LAPAROSCOPICA TRANSABDOMINAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b37194518617d12be"},
@@ -3871,7 +3871,7 @@
       "descripcion": "HERNIOPLASTIA LAPAROSCOPICA (TEP)",
       "sinonimos": ["HERNIOPLASTIA LAPAROSCOPICA PREPERITONEAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5bb94c1051fb450321"},
@@ -3879,7 +3879,7 @@
       "descripcion": "HERNIOPLASTIA LAPAROSCOPICA BILATERAL (TAPP)",
       "sinonimos": ["HERNIOPLASTIA LAPAROSCOPICA TRANSABDOMINAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b4bab618b0b4f1951"},
@@ -3887,42 +3887,42 @@
       "descripcion": "HERNIOPLASTIA LAPAROSCOPICA BILATERAL (TEP)",
       "sinonimos": ["HERNIOPLASTIA LAPAROSCOPICA PREPERITONEAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b282ce05e420df1da"},
       "cieId": "17.32",
       "descripcion": "CECECTOMIA LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b1f04c67599b898dc"},
       "cieId": "17.33",
       "descripcion": "HEMICOLECTOMIA DERECHA LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bb16de42ffc3f7a97"},
       "cieId": "17.34",
       "descripcion": "RESECCION LAPAROSCOPICA DE COLON TRANSVERSO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5ba58be002060c24b2"},
       "cieId": "17.35",
       "descripcion": "HEMICOLECTOMIA IZQUIERDA LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bff0f06698dfb2fb7"},
       "cieId": "17.36",
       "descripcion": "SIGMOIDECTOMIA LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bf905ef1f72fa4595"},
@@ -3935,7 +3935,7 @@
       "cieId": "17.37",
       "descripcion": "COLECTOMIA SUBTOTAL LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b80ebba534c241843"},
@@ -9122,119 +9122,119 @@
       "cieId": "42.0",
       "descripcion": "ESOFAGOTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5be4aa1e557b685e40"},
       "cieId": "42.1",
       "descripcion": "ESOFAGOSTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5bb9111564be73b32e"},
       "cieId": "42.21",
       "descripcion": "ESOFAGOSCOPIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b12b4df95a1484936"},
       "cieId": "42.24",
       "descripcion": "BIOPSIA ENDOSCOPICA DE ESOFAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b623e1fad908af2e2"},
       "cieId": "42.25",
       "descripcion": "BIOPSIA ABIERTA DE ESOFAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b99c75bd63723b6ec"},
       "cieId": "42.3",
       "descripcion": "EXCISION LOCAL DE ESOFAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b4653be0d04de63a1"},
       "cieId": "42.31",
       "descripcion": "EXCISION LOCAL DE DIVERTICULO ESOFAGICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b1a8266d0caaf5458"},
       "cieId": "42.41",
       "descripcion": "ESOFAGECTOMIA PARCIAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5bcd700c57a99f7c51"},
       "cieId": "42.42",
       "descripcion": "ESOFAGECTOMIA TOTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5bc8f0d370e20fffa1"},
       "cieId": "42.51",
       "descripcion": "ANASTOMOSIS INTRATORACICA ESOFAGOESOFAGICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b24fe4f7eb712768d"},
       "cieId": "42.52",
       "descripcion": "ANASTOMOSIS INTRATORACICA ESOFAGOGASTRICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5ba56a0216ad5d311b"},
       "cieId": "42.53",
       "descripcion": "ANASTOMOSIS INTRATORACICA ESOFAGOYEYUNAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b6b0fef90b777ac16"},
       "cieId": "42.55",
       "descripcion": "ANASTOMOSIS INTRATORACICA COLOESOFAGICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b5e5d3364e14e49a2"},
       "cieId": "42.61",
       "descripcion": "ANASTOMOSIS PREESTERNAL ESOFAGOESOFAGICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b3def74c4bf7d83f0"},
       "cieId": "42.62",
       "descripcion": "ANASTOMOSIS PREESTERNAL ESOFAGOGASTRICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5ba63c040acd81096f"},
       "cieId": "42.63",
       "descripcion": "ANASTOMOSIS PREESTERNAL ESOFAGOYEYUNAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b75c8bcd869e4aed9"},
       "cieId": "42.65",
       "descripcion": "ANASTOMOSIS PREESTERNAL COLOESOFAGICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b6e97f8351f2763cf"},
@@ -9242,84 +9242,84 @@
       "descripcion": "MIOTOMIA DE HELLER",
       "sinonimos": ["ESOFAGOMIOTOMIA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5bb88b223dcc94d24d"},
       "cieId": "42.82",
       "descripcion": "SUTURA DE LACERACION DE ESOFAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b8d46d855290abb29"},
       "cieId": "42.83",
       "descripcion": "CIERRE DE ESOFAGOSTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b6cbdcffbdc1a5eee"},
       "cieId": "42.84",
       "descripcion": "REPARACION DE FISTULA ESOFAGICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b94e6349550bce743"},
       "cieId": "42.85",
       "descripcion": "REPARACION DE ESTENOSIS ESOFAGICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b3b0f96f0c3a1ee9c"},
       "cieId": "42.91",
       "descripcion": "LIGADURA DE VARICES ESOFAGICAS",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5bdbeae27f5ec86f82"},
       "cieId": "42.92",
       "descripcion": "DILATACION DE ESOFAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "ESOFAGO"
+      "subespecialidad": ["ESOFAGO"]
     },
     {
       "_id": {"$oid": "64d25b5b9122836cb1d3077b"},
       "cieId": "43.0",
       "descripcion": "GASTROTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bbb6bb5882bb611e9"},
       "cieId": "43.1",
       "descripcion": "GASTROSTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b04c03d3c81e69d9e"},
       "cieId": "43.11",
       "descripcion": "GASTROSTOMIA PERCUTANEA ENDOSCOPICA (PEG)",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b439637aa9bb428ed"},
       "cieId": "43.3",
       "descripcion": "PILOROMIOTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bbf42f5c84873ff96"},
       "cieId": "43.4",
       "descripcion": "EXCISION LOCAL ENDOSCOPICA DE LESION DEL ESTOMAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bc97b9d01e1285e6a"},
@@ -9327,7 +9327,7 @@
       "descripcion": "GASTRECTOMIA PARCIAL CON ANASTOMOSIS ESOFAGOGASTRICA",
       "sinonimos": ["GASTRECTOMIA SUBTOTAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b03b9982d11560205"},
@@ -9335,7 +9335,7 @@
       "descripcion": "GASTRECTOMIA PARCIAL CON ANASTOMOSIS GASTRODUODENAL",
       "sinonimos": ["GASTRECTOMIA SUBTOTAL", "ANTRECTOMIA", "BILLROTH II"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b016bf7353bae382d"},
@@ -9343,7 +9343,7 @@
       "descripcion": "GASTRECTOMIA PARCIAL CON ANASTOMOSIS GASTROYEYUNAL",
       "sinonimos": ["GASTRECTOMIA SUBTOTAL", "ANTRECTOMIA", "Y-DE-ROUX"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b43f329de7c65094c"},
@@ -9351,7 +9351,7 @@
       "descripcion": "GASTRECTOMIA VERTICAL LAPAROSCÓPICA",
       "sinonimos": ["SLEEVE GASTRECTOMY", "GASTRECTOMIA TUBULAR", "GASTRECTOMIA EN MANGA", "GASTROPLASTIA LAPAROSCOPICA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b81ef25e23a87768e"},
@@ -9359,7 +9359,7 @@
       "descripcion": "GASTRECTOMIA VERTICAL",
       "sinonimos": ["SLEEVE GASTRECTOMY", "GASTRECTOMIA TUBULAR", "GASTRECTOMIA EN MANGA", "GASTROPLASTIA LAPAROSCOPICA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bef238ff54677297a"},
@@ -9367,7 +9367,7 @@
       "descripcion": "BYPASS GASTRICO LAPAROSCÓPICO",
       "sinonimos": ["Y-DE-ROUX"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5ba85d63d1096244c6"},
@@ -9375,84 +9375,84 @@
       "descripcion": "BYPASS GASTRICO",
       "sinonimos": ["Y-DE-ROUX"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b1ceeac54003312c4"},
       "cieId": "43.9",
       "descripcion": "GASTRECTOMIA TOTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5ba4d213e20a0eac57"},
       "cieId": "43.92",
       "descripcion": "GASTRECTOMIA TOTAL LAPAROSCÓPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b34455c32d8da1444"},
       "cieId": "44.01",
       "descripcion": "VAGOTOMIA TRONCULAR",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b3f73a8041a81fe4d"},
       "cieId": "44.02",
       "descripcion": "VAGOTOMIA SUPRASELECTIVA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b2bb8a072028b76e6"},
       "cieId": "44.11",
       "descripcion": "GASTROSCOPIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b4ef92144b693141a"},
       "cieId": "44.14",
       "descripcion": "BIOPSIA ENDOSCOPICA DE ESTOMAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b4a811ddd0132fda1"},
       "cieId": "44.15",
       "descripcion": "BIOPSIA DE ESTOMAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bce185527bde18009"},
       "cieId": "44.2",
       "descripcion": "PILOROPLASTIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b642115b6f75fdef9"},
       "cieId": "44.22",
       "descripcion": "DILATACION ENDOSCOPICA DE PILORO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5baafe891e3dd01947"},
       "cieId": "44.32",
       "descripcion": "GASTROYEYUNOSTOMIA ENDOSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b93518febebc6431e"},
       "cieId": "44.38",
       "descripcion": "GASTROENTEROSTOMIA LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bb478d7e6a73027ed"},
@@ -9460,7 +9460,7 @@
       "descripcion": "SUTURA DE ULCERA GASTRICA",
       "sinonimos": ["SUTURA DE ULCUS GASTRICO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b8ccddca7dc6bdc37"},
@@ -9468,42 +9468,42 @@
       "descripcion": "SUTURA DE ULCERA DUODENAL",
       "sinonimos": ["SUTURA DE ULCUS DUODENAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bab6307a6daf38dd6"},
       "cieId": "44.43",
       "descripcion": "CONTROL ENDOSCOPICO DE HEMORRAGIA GASTRICA O DUODENAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b0100739fbdf99c5d"},
       "cieId": "44.44",
       "descripcion": "EMBOLIZACION TRANSCATETER POR HEMORRAGIA GASTRICA O DUODENAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bd0f29c805aee9c25"},
       "cieId": "44.61",
       "descripcion": "SUTURA DE DESGARRO DEL ESTOMAGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b8c47964ee42cd1f4"},
       "cieId": "44.62",
       "descripcion": "CIERRE DE GASTROSTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5ba5773fde0609368a"},
       "cieId": "44.64",
       "descripcion": "GASTROPEXIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b355cf612c27750d4"},
@@ -9525,35 +9525,35 @@
       "cieId": "44.91",
       "descripcion": "LIGADURA DE VARICES GASTRICAS",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b9d115dea85eadd06"},
       "cieId": "44.93",
       "descripcion": "INSERCION DE BALON GASTRICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b70d7b3832bb288e6"},
       "cieId": "44.94",
       "descripcion": "EXTRACCION DE BALON GASTRICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b9ae7015379db43fe"},
       "cieId": "44.95",
       "descripcion": "INSERCION DE BANDA GASTRICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5bf1d80d951311f195"},
       "cieId": "44.97",
       "descripcion": "RETIRADA DE BANDA GASTRICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "GASTRICA"
+      "subespecialidad": ["GASTRICA"]
     },
     {
       "_id": {"$oid": "64d25b5b91010ffe1848856c"},
@@ -9596,42 +9596,42 @@
       "cieId": "45.21",
       "descripcion": "ENDOSCOPIA TRANSABDOMINAL DE INTESTINO GRUESO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5be12e1b760d3a337d"},
       "cieId": "45.22",
       "descripcion": "COLONOSCOPIA A TRAVES DE ESTOMA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b0f4632bffbfc9562"},
       "cieId": "45.23",
       "descripcion": "COLONOSCOPIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b178f691850fd7a28"},
       "cieId": "45.24",
       "descripcion": "SIGMOIDOSCOPIA FLEXIBLE",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bbc7c63186a3220e8"},
       "cieId": "45.25",
       "descripcion": "BIOPSIA ENDOSCOPICA DE INTESTINO GRUESO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b003acf2680c7f682"},
       "cieId": "45.26",
       "descripcion": "BIOPSIA ABIERTA DE INTESTINO GRUESO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b8563fbe5cf28f247"},
@@ -9650,14 +9650,14 @@
       "cieId": "45.41",
       "descripcion": "RESECCION ENDOSCOPIA DE INTESTINO GRUESO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bcaaa0749e8a0f954"},
       "cieId": "45.42",
       "descripcion": "POLIPECTOMIA ENDOSCOPICA DE INTESTINO GRUESO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5be1d1f58e54ed9f11"},
@@ -9671,70 +9671,70 @@
       "cieId": "45.72",
       "descripcion": "CECECTOMIA ABIERTA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b2ddade2e951ac9c0"},
       "cieId": "45,721",
       "descripcion": "CECECTOMIA CONVERTIDA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bd451336cb26865b6"},
       "cieId": "45.73",
       "descripcion": "HEMICOLECTOMIA DERECHA ABIERTA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b082cd3dcaf0dc21a"},
       "cieId": "45,731",
       "descripcion": "HEMICOLECTOMIA DERECHA CONVERTIDA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b6a2cd462e1e66a65"},
       "cieId": "45.74",
       "descripcion": "RESECCION DE COLON TRANSVERSO ABIERTA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b4cb0399a7bd8c687"},
       "cieId": "45,741",
       "descripcion": "RESECCION DE COLON TRANSVERSO CONVERTIDA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bcca86596626f450f"},
       "cieId": "45.75",
       "descripcion": "HEMICOLECTOMIA IZQUIERDA ABIERTA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5ba729a901301f62f1"},
       "cieId": "45,751",
       "descripcion": "HEMICOLECTOMIA IZQUIERDA CONVERTIDA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bd51143904eb5ea1f"},
       "cieId": "45.76",
       "descripcion": "SIGMOIDECTOMIA ABIERTA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b36ad9b7d03d49d81"},
       "cieId": "45,761",
       "descripcion": "SIGMOIDECTOMIA CONVERTIDA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b02638d378d325348"},
@@ -9747,21 +9747,21 @@
       "cieId": "45.81",
       "descripcion": "COLECTOMIA TOTAL LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b1a2a716aa242abf9"},
       "cieId": "45.82",
       "descripcion": "COLECTOMIA TOTAL ABIERTA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bba162dbcaa9aff03"},
       "cieId": "45.90",
       "descripcion": "ANASTOMOSIS INTESTINAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b5568377d29d5497f"},
@@ -9769,7 +9769,7 @@
       "descripcion": "ANASTOMOSIS ILEOCOLICA",
       "sinonimos": ["ANASTOMOSIS DE INTESTINO DELGADO A INTESTINO DELGADO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5baccbe6dbbefaeed5"},
@@ -9777,7 +9777,7 @@
       "descripcion": "ANASTOMOSIS ILIORECTAL",
       "sinonimos": ["ANASTOMOSIS DE INTESTINO DELGADO AL MUÑON RECTAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5be2b47bf6eba4e0ad"},
@@ -9785,7 +9785,7 @@
       "descripcion": "ANASTOMOSIS COLOCOLICA",
       "sinonimos": ["ANASTOMOSIS DE INTESTINO GRUESO A INTESTINO GRUESO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b32b752a7cb453cae"},
@@ -9793,14 +9793,14 @@
       "descripcion": "ANASTOMOSIS COLOANAL",
       "sinonimos": ["ANASTOMOSIS AL ANO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b3040d1d48b80f811"},
       "cieId": "46.10",
       "descripcion": "COLOSTOMIA TERMINAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b63d13bdc0166ae3a"},
@@ -9808,28 +9808,28 @@
       "descripcion": "COLOSTOMIA LATERAL",
       "sinonimos": ["COLOSTOMIA DE DESCARGA", "COLOSTOMIA EN CAÑON DE ESCOPETA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b82de6260d732da88"},
       "cieId": "46.20",
       "descripcion": "ILEOSTOMIA TERMINAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b4e1f1ce40ef50a65"},
       "cieId": "46.21",
       "descripcion": "ILEOSTOMIA LATERAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bef164db0be276ff3"},
       "cieId": "46.22",
       "descripcion": "ILEOSTOMIA CONTINENTE",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b7ca7c0fe7d6f7ae1"},
@@ -9855,7 +9855,7 @@
       "descripcion": "REPARACION DE HERNIA PARAESTOMAL",
       "sinonimos": ["HERNIOPLASTIA PARAESTOMAL", "HERNIOPLASTIA PARAOSTOMAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b475c50488ada86e3"},
@@ -9863,7 +9863,7 @@
       "descripcion": "CIERRE DE ILEOSTOMÍA",
       "sinonimos": ["CIERRE DE ESTOMA DE INTESTINO DELGADO", "RECONSTRUCCIÓN DEL TRÁNSITO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b540a2fa7b97e5311"},
@@ -9871,7 +9871,7 @@
       "descripcion": "CIERRE DE COLOSTOMÍA",
       "sinonimos": ["CIERRE DE ESTOMA DE INTESTINO GRUESO", "RECONSTRUCCIÓN DEL TRÁNSITO", "RECONSTRUCCIÓN DE HARTMANN"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b2341e2729d96425c"},
@@ -9923,21 +9923,21 @@
       "cieId": "46.76",
       "descripcion": "CIERRE DE FISTULA CÓLICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bbf30f5add0c11bc5"},
       "cieId": "46.85",
       "descripcion": "DILATACION DE COLON",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bc78b54b656d59d75"},
       "cieId": "46.86",
       "descripcion": "INSERCION ENDOSCOPICA DE ENDOPROTESIS DE COLON",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bc95492a8dd3f5bcc"},
@@ -9974,77 +9974,77 @@
       "cieId": "48.21",
       "descripcion": "PROCTOSIGMOIDOSCOPIA TRANSABDOMINAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bdf82a7409b590722"},
       "cieId": "48.22",
       "descripcion": "PROCTOSIGMOIDOSCOPIA A TRAVES DE ESTOMA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bbcb854632464de2d"},
       "cieId": "48.23",
       "descripcion": "PROCTOSIGMOIDOSCOPIA RIGIDA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bf2a8b494d4a3e79f"},
       "cieId": "48.24",
       "descripcion": "BIOPSIA ENDOSCOPICA DE RECTO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b9b7636b24658a449"},
       "cieId": "48.26",
       "descripcion": "BIOPSIA DE TEJIDO PERIRRECTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b8168d0c8e1dd7bb0"},
       "cieId": "48.31",
       "descripcion": "ELECTROCOAGULACION DE LESION RECTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5babb62ca28a4b18a6"},
       "cieId": "48.33",
       "descripcion": "ELIMINACION DE LESION O TEJIDO RECTAL POR LASER",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b0f8718bfe1ad9f12"},
       "cieId": "48.34",
       "descripcion": "ELIMINACION DE LESION O TEJIDO RECTAL POR CRIOCIRUGIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bc609a51551288b27"},
       "cieId": "48.35",
       "descripcion": "EXCISION LOCAL DE LESION RECTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b20bc4831cbdab58f"},
       "cieId": "48.36",
       "descripcion": "POLIPECTOMIA ENDOSCOPICA DE LESIÓN RECTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bb6793abc79c255fb"},
       "cieId": "48.41",
       "descripcion": "DESCENSO ENDORECTAL TRANSANAL DE SOAVE",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b77986862e9eee330"},
@@ -10052,7 +10052,7 @@
       "descripcion": "RESECCION DE RECTO CON ANASTOMOSIS TIPO PULL THROUGH LAPAROSCOPICA",
       "sinonimos": ["TURNBULL-CUTAIT"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5ba7ca5ab1ff4a2c4f"},
@@ -10060,7 +10060,7 @@
       "descripcion": "RESECCION DE RECTO CON ANASTOMOSIS TIPO PULL THROUGH ABIERTA",
       "sinonimos": ["TURNBULL-CUTAIT"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b3f84c309b588b637"},
@@ -10068,7 +10068,7 @@
       "descripcion": "RESECCION ABDOMINOPERINEAL DE RECTO LAPAROSCOPICA",
       "sinonimos": ["MILES LAPAROSCOPICO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bae4e8e8b90975626"},
@@ -10076,7 +10076,7 @@
       "descripcion": "RESECCION ABDOMINOPERINEAL DE RECTO ABIERTA",
       "sinonimos": ["MILES ABIERTO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bc141eb35fef0b2a6"},
@@ -10084,7 +10084,7 @@
       "descripcion": "RESECCION ANTERIOR ALTA DE RECTO ABIERTA",
       "sinonimos": ["RAA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bfe3ecf7e843b131c"},
@@ -10092,7 +10092,7 @@
       "descripcion": "RESECCION ANTERIOR ALTA DE RECTO LAPAROSCOPICA",
       "sinonimos": ["RAA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b2dd14c2ca451d988"},
@@ -10100,7 +10100,7 @@
       "descripcion": "RESECCION ANTERIOR BAJA DE RECTO ABIERTA",
       "sinonimos": ["RAB"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b1b934befbdda71a8"},
@@ -10108,7 +10108,7 @@
       "descripcion": "RESECCION ANTERIOR BAJA DE RECTO LAPAROSCOPICA",
       "sinonimos": ["RAB"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b0522d6e3ea1dccb8"},
@@ -10116,7 +10116,7 @@
       "descripcion": "RESECCION ANTERIOR ULTRABAJA DE RECTO ABIERTA",
       "sinonimos": ["RAuB"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bc2de142894ef2425"},
@@ -10124,28 +10124,28 @@
       "descripcion": "RESECCION ANTERIOR ULTRABAJA DE RECTO LAPAROSCOPICA",
       "sinonimos": ["RAuB"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bca30ba7b227a4f87"},
       "cieId": "48.65",
       "descripcion": "RESECCION DE RECTO DE DUHAMEL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b36566f39d5fb4e46"},
       "cieId": "48.71",
       "descripcion": "SUTURA DE LESION RECTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b82358fe893507247"},
       "cieId": "48.77",
       "descripcion": "COLPOSACROPEXIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b6a234abed461851e"},
@@ -10153,7 +10153,7 @@
       "descripcion": "DRENAJE DE ABSCESO PERIANAL",
       "sinonimos": ["INCISION DE ABSCESO PERIANAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b8f6a87addb0fe330"},
@@ -10161,7 +10161,7 @@
       "descripcion": "RESECCIÓN DE TAGS CUTANEOS PERIANALES",
       "sinonimos": ["EXCISION DE COLGAJOS CUTANEOS PERIANALES"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bf956d2f56b2aa4db"},
@@ -10169,7 +10169,7 @@
       "descripcion": "FISTULOTOMIA ANAL",
       "sinonimos": ["REPARACION DE FISTULA PERIANAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b6198dee421bea449"},
@@ -10177,7 +10177,7 @@
       "descripcion": "FISTULECTOMIA ANAL",
       "sinonimos": ["REPARACION DE FISTULA PERIANAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bf23ef388e4c32b0a"},
@@ -10185,7 +10185,7 @@
       "descripcion": "LIGADURA INTERESFINTERIANA DEL TRAYECTO FISTULOSO (LIFT)",
       "sinonimos": ["REPARACION DE FISTULA PERIANAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5ba4244e93fbed856b"},
@@ -10193,7 +10193,7 @@
       "descripcion": "COLGAJO DE AVANCE ENDORRECTAL",
       "sinonimos": ["REPARACION DE FISTULA PERIANAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b951321a8f2d54d4b"},
@@ -10201,56 +10201,56 @@
       "descripcion": "COLOCACIÓN DE SETON EN FISTULA PERIANAL",
       "sinonimos": ["REPARACION DE FISTULA PERIANAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b8567dc20314eeb8b"},
       "cieId": "49.21",
       "descripcion": "ANOSCOPIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bae738c598797b146"},
       "cieId": "49.22",
       "descripcion": "BIOPSIA DE TEJIDO PERIANAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b63821830570f8fd6"},
       "cieId": "49.3",
       "descripcion": "EXCISION LOCAL DE LESION ANAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b12a8aa331a634c9d"},
       "cieId": "49.31",
       "descripcion": "EXCISION ENDOSCOPICA DE LESION ANAL (TAMIS)",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d4b4c9e3abcac67f16a1b2"},
       "cieId": "49.32",
       "descripcion": "EXCISION ENDOSCOPICA DE LESION ANAL (TEM)",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d4b4cb7ad9aa55c58315e3"},
       "cieId": "49.33",
       "descripcion": "EXCISION ENDOSCOPICA DE LESION ANAL (TEO)",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b6482391b83a6d3ae"},
       "cieId": "49.41",
       "descripcion": "REDUCCION DE HEMORROIDES",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b797fe37e348ef830"},
@@ -10258,7 +10258,7 @@
       "descripcion": "LIGADURA DE HEMORROIDES",
       "sinonimos": ["BANDING HEMORROIDAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b46044f4ee527cc8d"},
@@ -10266,21 +10266,21 @@
       "descripcion": "HEMORROIDECTOMIA MILLIGAN-MORGAN",
       "sinonimos": ["EXCISION DE HEMORROIDES"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b957c48b8f5e851c1"},
       "cieId": "49.47",
       "descripcion": "EVACUACION DE HEMORROIDES TROMBOSADAS",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b07fdaf36934c8667"},
       "cieId": "49.48",
       "descripcion": "HEMORROIDECTOMIA TIPO LONGO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bba3b417738588680"},
@@ -10288,112 +10288,112 @@
       "descripcion": "ESFINTEROTOMIA ANAL LATERAL INTERNA",
       "sinonimos": ["ELI"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bc7f1745918c711ba"},
       "cieId": "49.71",
       "descripcion": "SUTURA DE LACERACION DE ANO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5ba8dcd4d36942909a"},
       "cieId": "49.79",
       "descripcion": "ESFINTEROPLASTIA ANAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b36cf67e5ca7b921f"},
       "cieId": "49.91",
       "descripcion": "INCISION DE TABIQUE ANAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5bc5b9a43e25fab78c"},
       "cieId": "49.92",
       "descripcion": "INSERCION DE ESTIMULADOR ANAL ELECTRICO SUBCUTANEO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b59caa9ccf0cb651d"},
       "cieId": "49.94",
       "descripcion": "REDUCCION DE PROLAPSO ANAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "COLOPROCTOLOGIA"
+      "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b1f6751ec23fb2249"},
       "cieId": "50.0",
       "descripcion": "HEPATOTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b10e3da9742eb5192"},
       "cieId": "50.11",
       "descripcion": "BIOPSIA PERCUTANEA DE HIGADO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b62474cfae10479b1"},
       "cieId": "50.12",
       "descripcion": "BIOPSIA ABIERTA DE HIGADO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b68c3318e878a1da7"},
       "cieId": "50.13",
       "descripcion": "BIOPSIA HEPATICA TRANSYUGULAR",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bed9906b073704fb3"},
       "cieId": "50.14",
       "descripcion": "BIOPSIA HEPATICA LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b7701925ae5552e4e"},
       "cieId": "50.22",
       "descripcion": "HEPATECTOMIA PARCIAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b2322cc7ef3cfc3c3"},
       "cieId": "50.23",
       "descripcion": "ABLACION ABIERTA DE LESION HEPÁTICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b9298f3a1b838f3ae"},
       "cieId": "50.24",
       "descripcion": "ABLACION PERCUTANEA DE LESION HEPÁTICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bc7c352aeb792d84e"},
       "cieId": "50.25",
       "descripcion": "ABLACION LAPAROSCOPICA DE LESION HEPÁTICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b48c97ef7b7dec56d"},
       "cieId": "50.3",
       "descripcion": "LOBECTOMIA DE HIGADO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bf14c1e60c9baeac7"},
@@ -10401,7 +10401,7 @@
       "descripcion": "EXPLANTE DE HIGADO",
       "sinonimos": ["TRASPLANTE HEPÁTICO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b266272b55701c554"},
@@ -10409,84 +10409,84 @@
       "descripcion": "IMPLANTE DE HIGADO",
       "sinonimos": ["TRASPLANTE HEPÁTICO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bd663169bd8dfb3df"},
       "cieId": "50.61",
       "descripcion": "SUTURA DE LESION HEPATICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bb2fdf2c9c7712fe5"},
       "cieId": "51.02",
       "descripcion": "COLECISTOSTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bba7f57d14d5bbb7d"},
       "cieId": "51.10",
       "descripcion": "COLANGIO PANCREATOGRAFIA RETROGRADA ENDOSCOPICA (CPRE)",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bb50e9ef5bdbe0fca"},
       "cieId": "51.12",
       "descripcion": "BIOPSIA PERCUTANEA DE VESICULA BILIAR O VIAS BILIARES",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b4b2172b2196b0aeb"},
       "cieId": "51.13",
       "descripcion": "BIOPSIA ABIERTA DE VESICULA BILIAR O VIAS BILIARES",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bf8f2924351eeff85"},
       "cieId": "51.15",
       "descripcion": "MANOMETRIA DEL ESFINTER DE ODDI",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b60c5e7bfa4068a8f"},
       "cieId": "51.16",
       "descripcion": "COLANGIOGRAFÍA TRANSPARIETOHEPÁTICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b0fd044048cb2414b"},
       "cieId": "51.22",
       "descripcion": "COLECISTECTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5ba06a955208f61b49"},
       "cieId": "51.23",
       "descripcion": "COLECISTECTOMIA LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b8dc1d7cb93c75d4c"},
       "cieId": "51.24",
       "descripcion": "COLECISTECTOMIA SUBTOTAL LAPAROSCOPICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bdc6ca36fe862da40"},
       "cieId": "51.25",
       "descripcion": "COLECISTECTOMIA SUBTOTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bd09e064848e53ce0"},
@@ -10494,7 +10494,7 @@
       "descripcion": "HEPATICOYEYUNOSTOMÍA",
       "sinonimos": ["ANASTOMOSIS DE VESICULA BILIAR A INTESTINO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5be8b6838d48c1917b"},
@@ -10502,21 +10502,21 @@
       "descripcion": "COLEDOCODUODENOSTOMÍA",
       "sinonimos": ["COLEDOCOENTEROSTOMIA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bdc8072b6c32a20d2"},
       "cieId": "51.41",
       "descripcion": "EXPLORACION DE LA VIA BILIAR",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b7c334ad46bbcfd6a"},
       "cieId": "51.42",
       "descripcion": "COLEDOCOSCOPIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b7340ef277b7eeb44"},
@@ -10524,14 +10524,14 @@
       "descripcion": "INSERCIÓN DE TUBO DE KEHR",
       "sinonimos": ["INSERCION DE TUBO COLEDOCOHEPATICO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b3a1eafb71d89e663"},
       "cieId": "51.44",
       "descripcion": "COLEDOCOTOMÍA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bdcb64e296e59e8cd"},
@@ -10539,14 +10539,14 @@
       "descripcion": "EXCISION DE MUÑON CISTICO",
       "sinonimos": ["EXCISION DE CONDUCTO CISTICO REMANENTE"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b53e96c6a5390aa1f"},
       "cieId": "51.62",
       "descripcion": "AMPULECTOMÍA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5baa90cc3b0e60dbf2"},
@@ -10554,133 +10554,133 @@
       "descripcion": "COLEDOCORRAFIA",
       "sinonimos": ["SUTURA SIMPLE DE COLEDOCO"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bb5ac88a3ad112508"},
       "cieId": "51.72",
       "descripcion": "COLEDOCOPLASTIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b777d92dc891d6c0d"},
       "cieId": "51.81",
       "descripcion": "DILATACION DE ESFINTER DE ODDI",
       "especialidad": ["DIGESTIVO"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b4c4946deefe58b77"},
       "cieId": "51.82",
       "descripcion": "ESFINTEROTOMIA PANCREATICA",
       "especialidad": ["DIGESTIVO"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bbf63734e2f288d2e"},
       "cieId": "51.83",
       "descripcion": "ESFINTEROPLASTIA PANCREATICA",
       "especialidad": ["DIGESTIVO"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b6f46447230997889"},
       "cieId": "51.84",
       "descripcion": "DILATACION ENDOSCOPICA DE AMPOLLA Y CONDUCTO BILIAR",
       "especialidad": ["DIGESTIVO"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b6d991789b0422547"},
       "cieId": "51.85",
       "descripcion": "PAPILOTOMIA ENDOSCOPICA",
       "especialidad": ["DIGESTIVO"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bbde2022024b6c78d"},
       "cieId": "51.86",
       "descripcion": "INSERCION ENDOSCOPICA DE TUBO DE DRENAJE NASOBILIAR",
       "especialidad": ["DIGESTIVO"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5be0d75429253fa42f"},
       "cieId": "51.87",
       "descripcion": "INSERCION ENDOSCOPICA DE STENT BILIAR",
       "especialidad": ["DIGESTIVO"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b3ee8d14ea8352993"},
       "cieId": "51.88",
       "descripcion": "EXTRACCION ENDOSCOPICA DE CALCULOS DE LA VÍA BILIAR",
       "especialidad": ["DIGESTIVO"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b61db809a7f83b401"},
       "cieId": "51.92",
       "descripcion": "CIERRE DE COLECISTOSTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5bcffa8cec4bdef797"},
       "cieId": "51.95",
       "descripcion": "EXTRACCION DE PROTESIS BILIAR",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "HEPATOBILIAR"
+      "subespecialidad": ["HEPATOBILIAR"]
     },
     {
       "_id": {"$oid": "64d25b5b977eda052480712d"},
       "cieId": "52.01",
       "descripcion": "DRENAJE DE QUISTE PANCREATICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5bf4dc71b83839c0a3"},
       "cieId": "52.11",
       "descripcion": "PAAF DE PANCREAS",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5bf08c3909d1c635a6"},
       "cieId": "52.12",
       "descripcion": "BIOPSIA PANCREÁTICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5baed95dee243680e6"},
       "cieId": "52.14",
       "descripcion": "BIOPSIA ENDOSCOPICA DEL CONDUCTO PANCREATICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5b24371c18acd46e20"},
       "cieId": "52.21",
       "descripcion": "EXCISIÓ ENDOSCÓPICA DE LESIÓN DEL CONDUCTO PANCREÁTICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5b72cbb4db4d229335"},
       "cieId": "52.3",
       "descripcion": "MARSUPIALIZACION DE QUISTE PANCREATICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5bd2b064cda1aa5643"},
       "cieId": "52.51",
       "descripcion": "PANCREATECTOMIA PROXIMAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5b18d03756284e4777"},
@@ -10688,14 +10688,14 @@
       "descripcion": "PANCREATECTOMIA DISTAL",
       "sinonimos": ["PANCREATECTOMÍA CORPOROCAUDAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5b6851d1f67c1e8224"},
       "cieId": "52.6",
       "descripcion": "PANCREATECTOMIA TOTAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5b34b0026ffd44e075"},
@@ -10703,35 +10703,35 @@
       "descripcion": "DUODENOPANCREATECTOMÍA CEFÁLICA",
       "sinonimos": ["DPC", "INTERVENCIÓN DE WHIPPLE"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5be678155dc526120f"},
       "cieId": "52.8",
       "descripcion": "TRASPLANTE DE PANCREAS",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5b901b8b6eccc8359a"},
       "cieId": "52.86",
       "descripcion": "TRASPLANTE DE CELULAS DE LOS ISLOTES DE LANGERHANS",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5b47df8b46b470d20f"},
       "cieId": "52.94",
       "descripcion": "EXTRACCION ENDOSCOPICA DE CALCULOS DEL CONDUCTO PANCREATICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5bc68025fec7252efe"},
       "cieId": "52.98",
       "descripcion": "DILATACION ENDOSCOPICA DE DUCTO PANCREATICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PANCREAS"
+      "subespecialidad": ["PANCREAS"]
     },
     {
       "_id": {"$oid": "64d25b5b2013d7e746507cef"},
@@ -10739,7 +10739,7 @@
       "descripcion": "HERNIOPLASTIA INGUINAL ABIERTA (LICHTENSTEIN)",
       "sinonimos": ["REPARACION UNILATERAL DE HERNIA INGUINAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b51403785c88aa765"},
@@ -10747,7 +10747,7 @@
       "descripcion": "HERNIOPLASTIA INGUINAL BILATERAL ABIERTA (LICHTENSTEIN)",
       "sinonimos": ["REPARACION BILATERAL DE HERNIA INGUINAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b3234e65e70a0289d"},
@@ -10755,7 +10755,7 @@
       "descripcion": "HERNIOPLASTIA INGUINAL BILATERAL ABIERTA (RIVES)",
       "sinonimos": ["REPARACION BILATERAL DE HERNIA INGUINAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b4b1f39c305a3e8f5"},
@@ -10763,7 +10763,7 @@
       "descripcion": "HERNIOPLASTIA FEMORAL (PLUG)",
       "sinonimos": ["REPARACION HERNIA FEMORAL", "HERNIOPLASTIA CRURAL ABIERTA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b3c0af1f96baccf8c"},
@@ -10771,7 +10771,7 @@
       "descripcion": "HERNIOPLASTIA FEMORAL (NYHUS)",
       "sinonimos": ["REPARACION HERNIA FEMORAL", "HERNIOPLASTIA CRURAL ABIERTA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b5df6cd8954cfee36"},
@@ -10779,7 +10779,7 @@
       "descripcion": "HERNIORRAFIA CRURAL",
       "sinonimos": ["HERNIORRAFIA FEMORAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b946591afb6edc341"},
@@ -10787,7 +10787,7 @@
       "descripcion": "HERNIOPLASTIA FEMORAL BILATERAL (RIVES)",
       "sinonimos": ["REPARACION HERNIA FEMORAL", "HERNIOPLASTIA CRURAL ABIERTA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b9be624681ea62d13"},
@@ -10795,7 +10795,7 @@
       "descripcion": "HERNIOPLASTIA FEMORAL BILATERAL (PLUG)",
       "sinonimos": ["REPARACION HERNIA FEMORAL", "HERNIOPLASTIA CRURAL ABIERTA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b91510fedfee64f25"},
@@ -10803,7 +10803,7 @@
       "descripcion": "HERNIOPLASTIA FEMORAL BILATERAL (NYHUS)",
       "sinonimos": ["REPARACION HERNIA FEMORAL", "HERNIOPLASTIA CRURAL ABIERTA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b766ee4cc3792c232"},
@@ -10811,7 +10811,7 @@
       "descripcion": "HERNIOPLASTIA UMBILICAL",
       "sinonimos": ["REPARACION HERNIA UMBILICAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b1ab762e4edb52852"},
@@ -10819,7 +10819,7 @@
       "descripcion": "HERNIOPLASTIA UMBILICAL LAPAROSCOPICA",
       "sinonimos": ["REPARACION HERNIA UMBILICAL LAPAROSCOPICA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5ba2d5caaa1a275582"},
@@ -10827,7 +10827,7 @@
       "descripcion": "EVENTROPLASTIA",
       "sinonimos": ["REPARACION EVENTRACION", "REPARACION HERNIA INCISIONAL"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b41b8ed6078576e4f"},
@@ -10835,56 +10835,56 @@
       "descripcion": "EVENTROPLASTIA LAPAROSCOPICA (IPOM)",
       "sinonimos": ["REPARACION EVENTRACION LAPAROSCOPICA", "REPARACION HERNIA INCISIONAL LAPAROSCOPICA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b2f9a3d66b657b0e7"},
       "cieId": "53.7",
       "descripcion": "REPARACION DE HERNIA DIAFRAGMATICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b6c7d9fe539008064"},
       "cieId": "53.71",
       "descripcion": "REPARACION LAPAROSCOPICA DE HERNIA DIAFRAGMATICA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b4ba3f77c6ece5e66"},
       "cieId": "53.8",
       "descripcion": "REPARACION DE HERNIA DIAFRAGMATICA, ACCESO TORACICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b220557bbc3e2ba55"},
       "cieId": "53.81",
       "descripcion": "PLICATURA DE DIAFRAGMA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b3e258488015e6406"},
       "cieId": "53.82",
       "descripcion": "REPARACION DE HERNIA PARAESTERNAL (MORGAGNI)",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b84dfada7f2197d2e"},
       "cieId": "53.83",
       "descripcion": "REPARACION LAPAROSCOPICA DE HERNIA DIAFRAGMATICA, CON ACCESO TORACICO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b76d7437002e39889"},
       "cieId": "54.1",
       "descripcion": "LAPAROTOMIA",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5bd4a5004a4b2787c7"},
@@ -10898,7 +10898,7 @@
       "cieId": "54.13",
       "descripcion": "PACKING ABDOMINAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "TRAUMA"
+      "subespecialidad": ["TRAUMA"]
     },
     {
       "_id": {"$oid": "64d25b5bf94b6172e930a422"},
@@ -10931,7 +10931,7 @@
       "descripcion": "LAVADO PERITONEAL",
       "sinonimos": ["PERITONEAL LAVAGE"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "TRAUMA"
+      "subespecialidad": ["TRAUMA"]
     },
     {
       "_id": {"$oid": "64d25b5b53ea166b605b56b3"},
@@ -10939,7 +10939,7 @@
       "descripcion": "ABDOMEN ABIERTO",
       "sinonimos": ["LAPAROSTOMIA"],
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "TRAUMA"
+      "subespecialidad": ["TRAUMA"]
     },
     {
       "_id": {"$oid": "64d25b5b99ca02bccffebe35"},
@@ -10990,14 +10990,14 @@
       "cieId": "54.96",
       "descripcion": "PNEUMOPERITONEO",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b5d624e68fef62c2d"},
       "cieId": "54.98",
       "descripcion": "INSERCIÓN DE CATÉTER DE DIALISIS PERITONEAL",
       "especialidad": ["CIRGEN"],
-      "subespecialidad": "PARED"
+      "subespecialidad": ["PARED"]
     },
     {
       "_id": {"$oid": "64d25b5b01c9e414264aa7ac"},
@@ -19362,14 +19362,14 @@
       "cieId": "85.11",
       "descripcion": "BIOPSIA PERCUTANEA DE MAMA",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5bd2940282fab6f1e9"},
       "cieId": "85.12",
       "descripcion": "BIOPSIA ABIERTA DE MAMA",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b410e18ee2a42c874"},
@@ -19377,7 +19377,7 @@
       "descripcion": "TUMORECTOMIA MAMA",
       "sinonimos": ["TUMORECTOMIA MAMA"],
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b19be60f460915189"},
@@ -19385,105 +19385,105 @@
       "descripcion": "RESECCION DE CUADRANTE DE MAMA",
       "sinonimos": ["CUADRANTECTOMÍA MAMA"],
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b65c9f0a7a0d1c932"},
       "cieId": "85.23",
       "descripcion": "MASTECTOMIA SUBTOTAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b8262cb80148798e7"},
       "cieId": "85.24",
       "descripcion": "EXCISON DE TEJIDO MAMARIO ECTOPICO",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b1ccbb9b6011c2d5b"},
       "cieId": "85.25",
       "descripcion": "EXCISION DE PEZON",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b3d177aea83a7817d"},
       "cieId": "85.31",
       "descripcion": "MAMOPLASTIA DE REDUCCION UNILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b628cd804aafbd69d"},
       "cieId": "85.32",
       "descripcion": "MAMOPLASTIA DE REDUCCION BILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b511bf4dccbefd298"},
       "cieId": "85.33",
       "descripcion": "MASTECTOMIA SUBCUTANEA UNILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b320bb115dccd5d40"},
       "cieId": "85.35",
       "descripcion": "MASTECTOMIA SUBCUTANEA BILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b2f86a037cf358f33"},
       "cieId": "85.41",
       "descripcion": "MASTECTOMIA SIMPLE UNILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5beaafe01b5c8c7c55"},
       "cieId": "85.42",
       "descripcion": "MASTECTOMIA SIMPLE BILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b44c3535cbccb1771"},
       "cieId": "85.45",
       "descripcion": "MASTECTOMIA RADICAL UNILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5bfba7b77ab2a3ae3d"},
       "cieId": "85.46",
       "descripcion": "MASTECTOMIA RADICAL BILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5bb8db973697b6e785"},
       "cieId": "85.50",
       "descripcion": "MAMOPLASTIA DE AUMENTO",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5bb0e0ce27a5fef273"},
       "cieId": "85.53",
       "descripcion": "IMPLANTE MAMARIO UNILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b96074fecfe249bcd"},
       "cieId": "85.54",
       "descripcion": "IMPLANTE MAMARIO BILATERAL",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b79e3045db90438d5"},
@@ -19491,77 +19491,77 @@
       "descripcion": "LIPOFILLING",
       "sinonimos": ["INJERTO DE GRASA EN MAMA"],
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b921dc62a1d824c20"},
       "cieId": "85.6",
       "descripcion": "MASTOPEXIA",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5bf244fa91cb486d62"},
       "cieId": "85.71",
       "descripcion": "COLGAJO MIOCUTANEO DE DORSAL ANCHO",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b0d7ec751ddb96aee"},
       "cieId": "85.73",
       "descripcion": "COLGAJO MIOCUTANEO RECTO ABDOMINAL TRANSVERSO (TRAM)",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b306f6982b246736f"},
       "cieId": "85.74",
       "descripcion": "COLGAJO DE PERFORANTE DE LA ARTERIA EPIGASTRICA INFERIOR PROFUNDA (DIEP)",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5bb7f84f99fbb7e92d"},
       "cieId": "85.75",
       "descripcion": "COLGAJO DE LA ARTERIA EPIGASTRICA INFERIOR SUPERFICIAL (SIEA)",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b46ebe822c392ba92"},
       "cieId": "85.76",
       "descripcion": "COLGAJO DE PERFORANTE DE LA ARTERIA GLUTEA (GAP)",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b4f09c03e0b1cc1a8"},
       "cieId": "85.86",
       "descripcion": "TRASPOSICION DE PEZON",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b7e0b01dcf51290dc"},
       "cieId": "85.94",
       "descripcion": "EXTRACCION DE IMPLANTE DE MAMA",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b41727b7eed016922"},
       "cieId": "85.95",
       "descripcion": "INSERCION DE EXPANSOR MAMARIO",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5b71f965bcbfd39d07"},
       "cieId": "85.96",
       "descripcion": "EXTRACCION DE EXPANSOR MAMARIO",
       "especialidad": ["CIRGEN", "GINECOLOGIA"],
-      "subespecialidad": "MAMA"
+      "subespecialidad": ["MAMA"]
     },
     {
       "_id": {"$oid": "64d25b5bd35c2345aae45a4a"},
