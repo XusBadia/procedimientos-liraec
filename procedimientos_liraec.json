@@ -3926,7 +3926,7 @@
     },
     {
       "_id": {"$oid": "64d25b5bf905ef1f72fa4595"},
-      "cieId": "17,361",
+      "cieId": "17.361",
       "descripcion": "SIGMOIDECTOMIA LAPAROSCOPICA CON COLOSTOMIA",
       "sinonimos": ["HARTMANN LAPAROSCOPICO"]
     },
@@ -9675,7 +9675,7 @@
     },
     {
       "_id": {"$oid": "64d25b5b2ddade2e951ac9c0"},
-      "cieId": "45,721",
+      "cieId": "45.721",
       "descripcion": "CECECTOMIA CONVERTIDA",
       "especialidad": ["CIRGEN"],
       "subespecialidad": ["COLOPROCTOLOGIA"]
@@ -9689,7 +9689,7 @@
     },
     {
       "_id": {"$oid": "64d25b5b082cd3dcaf0dc21a"},
-      "cieId": "45,731",
+      "cieId": "45.731",
       "descripcion": "HEMICOLECTOMIA DERECHA CONVERTIDA",
       "especialidad": ["CIRGEN"],
       "subespecialidad": ["COLOPROCTOLOGIA"]
@@ -9703,7 +9703,7 @@
     },
     {
       "_id": {"$oid": "64d25b5b4cb0399a7bd8c687"},
-      "cieId": "45,741",
+      "cieId": "45.741",
       "descripcion": "RESECCION DE COLON TRANSVERSO CONVERTIDA",
       "especialidad": ["CIRGEN"],
       "subespecialidad": ["COLOPROCTOLOGIA"]
@@ -9717,7 +9717,7 @@
     },
     {
       "_id": {"$oid": "64d25b5ba729a901301f62f1"},
-      "cieId": "45,751",
+      "cieId": "45.751",
       "descripcion": "HEMICOLECTOMIA IZQUIERDA CONVERTIDA",
       "especialidad": ["CIRGEN"],
       "subespecialidad": ["COLOPROCTOLOGIA"]
@@ -9731,14 +9731,14 @@
     },
     {
       "_id": {"$oid": "64d25b5b36ad9b7d03d49d81"},
-      "cieId": "45,761",
+      "cieId": "45.761",
       "descripcion": "SIGMOIDECTOMIA CONVERTIDA",
       "especialidad": ["CIRGEN"],
       "subespecialidad": ["COLOPROCTOLOGIA"]
     },
     {
       "_id": {"$oid": "64d25b5b02638d378d325348"},
-      "cieId": "45,762",
+      "cieId": "45.762",
       "descripcion": "SIGMOIDECTOMIA CON COLOSTOMIA",
       "sinonimos": ["HARTMANN"]
     },
@@ -10088,7 +10088,7 @@
     },
     {
       "_id": {"$oid": "64d25b5bfe3ecf7e843b131c"},
-      "cieId": "48,611",
+      "cieId": "48.611",
       "descripcion": "RESECCION ANTERIOR ALTA DE RECTO LAPAROSCOPICA",
       "sinonimos": ["RAA"],
       "especialidad": ["CIRGEN"],
@@ -10104,7 +10104,7 @@
     },
     {
       "_id": {"$oid": "64d25b5b1b934befbdda71a8"},
-      "cieId": "48,621",
+      "cieId": "48.621",
       "descripcion": "RESECCION ANTERIOR BAJA DE RECTO LAPAROSCOPICA",
       "sinonimos": ["RAB"],
       "especialidad": ["CIRGEN"],
@@ -10120,7 +10120,7 @@
     },
     {
       "_id": {"$oid": "64d25b5bc2de142894ef2425"},
-      "cieId": "48,631",
+      "cieId": "48.631",
       "descripcion": "RESECCION ANTERIOR ULTRABAJA DE RECTO LAPAROSCOPICA",
       "sinonimos": ["RAuB"],
       "especialidad": ["CIRGEN"],
