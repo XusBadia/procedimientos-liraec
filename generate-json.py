@@ -1,3 +1,4 @@
+import pandas as pd
 import json
 from bson import ObjectId
 
@@ -6,15 +7,23 @@ def add_object_id(obj):
     obj['_id'] = {'$oid': str(ObjectId())}
     return obj
 
-# Read the original JSON file
-with open('v1/procedimientos_liraec.json', 'r', encoding='utf-8') as file:
-    data = json.load(file)
+# Function to convert Excel to JSON with ObjectIds
+def excel_to_json_with_objectid(excel_file, json_file):
+    # Read the Excel file
+    df = pd.read_excel(excel_file)
 
-# Add ObjectId to each object in the list
-modified_data = [add_object_id(obj) for obj in data]
+    # Convert DataFrame to list of dictionaries
+    data = df.to_dict('records')
 
-# Write the modified data to a new JSON file
-with open('procedimientos_liraec.json', 'w', encoding='utf-8') as file:
-    json.dump(modified_data, file, ensure_ascii=False, indent=2)
+    # Add ObjectId to each object
+    for item in data:
+        item = add_object_id(item)
 
-print("New JSON file with ObjectIds has been created: procedimientos_liraec_with_id.json")
+    # Write the data to a JSON file
+    with open(json_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print(f"JSON file with ObjectIds has been created: {json_file}")
+
+# Use the function
+excel_to_json_with_objectid('procedimientos_liraec.xlsx', 'procedimientos_liraec.json')
