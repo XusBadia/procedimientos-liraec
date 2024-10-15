@@ -16,7 +16,7 @@ def generate_json_from_excel():
     # Convert DataFrame to list of dictionaries
     data = df.to_dict('records')
 
-    # Add ObjectId to each row and process 'especialidad', 'sinonimos', and 'subespecialidad'
+    # Add ObjectId to each row and process 'especialidad', 'sinonimos', 'subespecialidad', and 'cieId'
     for item in data:
         item['_id'] = {"$oid": str(ObjectId())}
         
@@ -27,6 +27,10 @@ def generate_json_from_excel():
                 item[field] = values if values else []
             else:
                 item[field] = []
+        
+        # Convert 'cieId' to string
+        if 'cieId' in item:
+            item['cieId'] = str(item['cieId'])
 
     # Write to JSON file
     with open('procedimientos_liraec.json', 'w', encoding='utf-8') as f:
