@@ -34,9 +34,9 @@ def generate_json_from_excel():
             else:
                 item[field] = []
         
-        # Handle 'cieId' as a string directly
+        # Handle 'cieId' as a string, preserving leading zeros and decimal points
         if 'cieId' in item and item['cieId']:
-            item['cieId'] = str(item['cieId'])
+            item['cieId'] = str(item['cieId']).strip()
         else:
             item['cieId'] = ''
 
