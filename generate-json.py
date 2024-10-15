@@ -34,9 +34,11 @@ def generate_json_from_excel():
             else:
                 item[field] = []
         
-        # Convert 'cieId' to string
-        if 'cieId' in item:
+        # Handle 'cieId' as a string directly
+        if 'cieId' in item and item['cieId']:
             item['cieId'] = str(item['cieId'])
+        else:
+            item['cieId'] = ''
 
     # Write to JSON file
     with open('procedimientos_liraec.json', 'w', encoding='utf-8') as f:
