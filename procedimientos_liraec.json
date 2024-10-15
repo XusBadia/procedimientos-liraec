@@ -3,7 +3,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2a"
     },
-    "cieId": "17.0",
+    "cieId": 17,
     "descripcion": "OTROS PROCEDIMIENTOS DIVERSOS",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -16,7 +16,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2b"
     },
-    "cieId": "48.0",
+    "cieId": 48,
     "descripcion": "OPERACIONES SOBRE RECTO, RECTOSIGMOIDE Y TEJIDO PERIRRECTAL",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -31,7 +31,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2c"
     },
-    "cieId": "62.0",
+    "cieId": 62,
     "descripcion": "OPERACIONES SOBRE TESTICULOS",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -44,7 +44,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2d"
     },
-    "cieId": "85.0",
+    "cieId": 85,
     "descripcion": "OPERACIONES SOBRE LA MAMA",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -58,7 +58,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2e"
     },
-    "cieId": "86.0",
+    "cieId": 86,
     "descripcion": "OPERACIONES SOBRE PIEL Y TEJIDO SUBCUTANEO",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -72,7 +72,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2f"
     },
-    "cieId": "100.0",
+    "cieId": 100,
     "descripcion": "DAMAGE CONTROL",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -89,7 +89,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc30"
     },
-    "cieId": "17361.0",
+    "cieId": 17361,
     "descripcion": "SIGMOIDECTOMIA LAPAROSCOPICA CON COLOSTOMIA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -106,7 +106,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc31"
     },
-    "cieId": "45721.0",
+    "cieId": 45721,
     "descripcion": "CECECTOMIA CONVERTIDA",
     "descripcionOriginal": "CECECTOMIA ABIERTA Y OTRAS",
     "sinonimos": [],
@@ -121,7 +121,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc32"
     },
-    "cieId": "45731.0",
+    "cieId": 45731,
     "descripcion": "HEMICOLECTOMIA DERECHA CONVERTIDA",
     "descripcionOriginal": "HEMICOLECTOMIA DERECHA ABIERTA Y OTRAS",
     "sinonimos": [],
@@ -136,7 +136,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc33"
     },
-    "cieId": "45741.0",
+    "cieId": 45741,
     "descripcion": "RESECCION DE COLON TRANSVERSO CONVERTIDA",
     "descripcionOriginal": "RESECCION DE COLON TRANSVERSO ABIERTA Y OTRAS",
     "sinonimos": [],
@@ -151,7 +151,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc34"
     },
-    "cieId": "45751.0",
+    "cieId": 45751,
     "descripcion": "HEMICOLECTOMIA IZQUIERDA CONVERTIDA",
     "descripcionOriginal": "HEMICOLECTOMIA IZQUIERDA ABIERTA Y OTRAS",
     "sinonimos": [],
@@ -166,7 +166,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc35"
     },
-    "cieId": "45761.0",
+    "cieId": 45761,
     "descripcion": "SIGMOIDECTOMIA CONVERTIDA",
     "descripcionOriginal": "SIGMOIDECTOMIA",
     "sinonimos": [],
@@ -181,7 +181,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc36"
     },
-    "cieId": "45762.0",
+    "cieId": 45762,
     "descripcion": "SIGMOIDECTOMIA CON COLOSTOMIA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -198,7 +198,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc37"
     },
-    "cieId": "48611.0",
+    "cieId": 48611,
     "descripcion": "RESECCION ANTERIOR ALTA DE RECTO LAPAROSCOPICA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -215,7 +215,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc38"
     },
-    "cieId": "48621.0",
+    "cieId": 48621,
     "descripcion": "RESECCION ANTERIOR BAJA DE RECTO LAPAROSCOPICA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -232,7 +232,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc39"
     },
-    "cieId": "48631.0",
+    "cieId": 48631,
     "descripcion": "RESECCION ANTERIOR ULTRABAJA DE RECTO LAPAROSCOPICA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -249,7 +249,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc3a"
     },
-    "cieId": "0.0",
+    "cieId": "00.0",
     "descripcion": "ULTRASONIDO TERAPEUTICO",
     "descripcionOriginal": "ULTRASONIDO TERAPEUTICO",
     "sinonimos": [],
@@ -262,7 +262,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc3b"
     },
-    "cieId": "0.01",
+    "cieId": "00.01",
     "descripcion": "ULTRASONIDO TERAPEUTICO DE VASOS DE CABEZA Y CUELLO",
     "descripcionOriginal": "ULTRASONIDO TERAPEUTICO DE VASOS DE CABEZA Y CUELLO",
     "sinonimos": [],
@@ -275,7 +275,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc3c"
     },
-    "cieId": "0.02",
+    "cieId": "00.02",
     "descripcion": "ULTRASONIDO TERAPEUTICO CARDIACO",
     "descripcionOriginal": "ULTRASONIDO TERAPEUTICO CARDIACO",
     "sinonimos": [],
@@ -288,7 +288,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc3d"
     },
-    "cieId": "0.03",
+    "cieId": "00.03",
     "descripcion": "ULTRASONIDO TERAPEUTICO DE VASOS PERIFERICOS",
     "descripcionOriginal": "ULTRASONIDO TERAPEUTICO DE VASOS PERIFERICOS",
     "sinonimos": [],
@@ -301,7 +301,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc3e"
     },
-    "cieId": "0.09",
+    "cieId": "00.09",
     "descripcion": "OTRO ULTRASONIDO TERAPEUTICO",
     "descripcionOriginal": "OTRO ULTRASONIDO TERAPEUTICO",
     "sinonimos": [],
@@ -314,7 +314,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc3f"
     },
-    "cieId": "0.1",
+    "cieId": "00.1",
     "descripcion": "PROCEDIMIENTOS CON FARMACOS",
     "descripcionOriginal": "PROCEDIMIENTOS CON FARMACOS",
     "sinonimos": [],
@@ -327,7 +327,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc40"
     },
-    "cieId": "0.1",
+    "cieId": "00.10",
     "descripcion": "IMPLANTACION DE ANTINEOPLASICO",
     "descripcionOriginal": "IMPLANTACION DE ANTINEOPLASICO",
     "sinonimos": [],
@@ -340,7 +340,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc41"
     },
-    "cieId": "0.11",
+    "cieId": "00.11",
     "descripcion": "INFUSION DE DROTRECOGIN ALFA (ACTIVADA)",
     "descripcionOriginal": "INFUSION DE DROTRECOGIN ALFA (ACTIVADA)",
     "sinonimos": [],
@@ -353,7 +353,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc42"
     },
-    "cieId": "0.12",
+    "cieId": "00.12",
     "descripcion": "ADMINISTRACION DE OXIDO NITRICO INHALADO",
     "descripcionOriginal": "ADMINISTRACION DE OXIDO NITRICO INHALADO",
     "sinonimos": [],
@@ -366,7 +366,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc43"
     },
-    "cieId": "0.13",
+    "cieId": "00.13",
     "descripcion": "INYECCION O INFUSION DE NESIRITIDE",
     "descripcionOriginal": "INYECCION O INFUSION DE NESIRITIDE",
     "sinonimos": [],
@@ -379,7 +379,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc44"
     },
-    "cieId": "0.14",
+    "cieId": "00.14",
     "descripcion": "INYECCION O INFUSION DE ANTIBIOTICOS DEL GRUPO DE LA OXAZOLIDINONA",
     "descripcionOriginal": "INYECCION O INFUSION DE ANTIBIOTICOS DEL GRUPO DE LA OXAZOLIDINONA",
     "sinonimos": [],
@@ -392,7 +392,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc45"
     },
-    "cieId": "0.15",
+    "cieId": "00.15",
     "descripcion": "INFUSION DE DOSIS ALTA DE INTERLEUCINA 2 [IL 2]",
     "descripcionOriginal": "INFUSION DE DOSIS ALTA DE INTERLEUCINA 2 [IL 2]",
     "sinonimos": [],
@@ -405,7 +405,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc46"
     },
-    "cieId": "0.16",
+    "cieId": "00.16",
     "descripcion": "TRATAMIENTO PRESURIZADO DE INJERTO DE DERIVACION VENOSO (CONDUCTO) CON SUSTANCIA MEDICAMENTOSA",
     "descripcionOriginal": "TRATAMIENTO PRESURIZADO DE INJERTO DE DERIVACION VENOSO (CONDUCTO) CON SUSTANCIA MEDICAMENTOSA",
     "sinonimos": [],
@@ -418,7 +418,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc47"
     },
-    "cieId": "0.17",
+    "cieId": "00.17",
     "descripcion": "INFUSION DE AGENTE VASOPRESOR",
     "descripcionOriginal": "INFUSION DE AGENTE VASOPRESOR",
     "sinonimos": [],
@@ -431,7 +431,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc48"
     },
-    "cieId": "0.18",
+    "cieId": "00.18",
     "descripcion": "TERAPIA DE INFUSION DE ANTICUERPOS INMUNOSUPRESORES",
     "descripcionOriginal": "TERAPIA DE INFUSION DE ANTICUERPOS INMUNOSUPRESORES",
     "sinonimos": [],
@@ -444,7 +444,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc49"
     },
-    "cieId": "0.19",
+    "cieId": "00.19",
     "descripcion": "PERTURBACION DE LA BARRERA HEMATOENCEFALICA VIA INFUSION [BBBD]",
     "descripcionOriginal": "PERTURBACION DE LA BARRERA HEMATOENCEFALICA VIA INFUSION [BBBD]",
     "sinonimos": [],
@@ -457,7 +457,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc4a"
     },
-    "cieId": "0.2",
+    "cieId": "00.2",
     "descripcion": "IMAGEN INTRAVASCULAR DE VASOS SANGUINEOS",
     "descripcionOriginal": "IMAGEN INTRAVASCULAR DE VASOS SANGUINEOS",
     "sinonimos": [],
@@ -471,7 +471,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc4b"
     },
-    "cieId": "0.21",
+    "cieId": "00.21",
     "descripcion": "IMAGEN INTRAVASCULAR DE VASOS CEREBRALES EXTRACRANEALES",
     "descripcionOriginal": "IMAGEN INTRAVASCULAR DE VASOS CEREBRALES EXTRACRANEALES",
     "sinonimos": [],
@@ -485,7 +485,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc4c"
     },
-    "cieId": "0.22",
+    "cieId": "00.22",
     "descripcion": "IMAGEN INTRAVASCULAR DE VASOS INTRATORACICOS",
     "descripcionOriginal": "IMAGEN INTRAVASCULAR DE VASOS INTRATORACICOS",
     "sinonimos": [],
@@ -499,7 +499,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc4d"
     },
-    "cieId": "0.23",
+    "cieId": "00.23",
     "descripcion": "IMAGEN INTRAVASCULAR DE VASOS PERIFERICOS",
     "descripcionOriginal": "IMAGEN INTRAVASCULAR DE VASOS PERIFERICOS",
     "sinonimos": [],
@@ -513,7 +513,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc4e"
     },
-    "cieId": "0.24",
+    "cieId": "00.24",
     "descripcion": "IMAGEN INTRAVASCULAR DE VASOS CORONARIOS",
     "descripcionOriginal": "IMAGEN INTRAVASCULAR DE VASOS CORONARIOS",
     "sinonimos": [],
@@ -527,7 +527,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc4f"
     },
-    "cieId": "0.25",
+    "cieId": "00.25",
     "descripcion": "IMAGEN INTRAVASCULAR DE VASOS RENALES",
     "descripcionOriginal": "IMAGEN INTRAVASCULAR DE VASOS RENALES",
     "sinonimos": [],
@@ -541,7 +541,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc50"
     },
-    "cieId": "0.28",
+    "cieId": "00.28",
     "descripcion": "IMAGEN INTRAVASCULAR DE OTROS VASOS ESPECIFICADOS",
     "descripcionOriginal": "IMAGEN INTRAVASCULAR DE OTROS VASOS ESPECIFICADOS",
     "sinonimos": [],
@@ -555,7 +555,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc51"
     },
-    "cieId": "0.29",
+    "cieId": "00.29",
     "descripcion": "IMAGEN INTRAVASCULAR, VASO(S) NO ESPECIFICADOS",
     "descripcionOriginal": "IMAGEN INTRAVASCULAR, VASO(S) NO ESPECIFICADOS",
     "sinonimos": [],
@@ -569,7 +569,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc52"
     },
-    "cieId": "0.3",
+    "cieId": "00.3",
     "descripcion": "CIRUGIA ASISTIDA POR ORDENADOR [CAS]",
     "descripcionOriginal": "CIRUGIA ASISTIDA POR ORDENADOR [CAS]",
     "sinonimos": [],
@@ -582,7 +582,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc53"
     },
-    "cieId": "0.31",
+    "cieId": "00.31",
     "descripcion": "CIRUGIA ASISTIDA POR ORDENADOR CON TC/TAC",
     "descripcionOriginal": "CIRUGIA ASISTIDA POR ORDENADOR CON TC/TAC",
     "sinonimos": [],
@@ -595,7 +595,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc54"
     },
-    "cieId": "0.32",
+    "cieId": "00.32",
     "descripcion": "CIRUGIA ASISTIDA POR ORDENADOR CON RM/MRA",
     "descripcionOriginal": "CIRUGIA ASISTIDA POR ORDENADOR CON RM/MRA",
     "sinonimos": [],
@@ -608,7 +608,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc55"
     },
-    "cieId": "0.33",
+    "cieId": "00.33",
     "descripcion": "CIRUGIA ASISTIDA POR ORDENADOR CON RADIOSCOPIA",
     "descripcionOriginal": "CIRUGIA ASISTIDA POR ORDENADOR CON RADIOSCOPIA",
     "sinonimos": [],
@@ -621,7 +621,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc56"
     },
-    "cieId": "0.34",
+    "cieId": "00.34",
     "descripcion": "CIRUGIA ASISTIDA POR ORDENADOR SIN IMAGEN",
     "descripcionOriginal": "CIRUGIA ASISTIDA POR ORDENADOR SIN IMAGEN",
     "sinonimos": [],
@@ -634,7 +634,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc57"
     },
-    "cieId": "0.35",
+    "cieId": "00.35",
     "descripcion": "CIRUGIA ASISTIDA POR ORDENADOR CON MULTIPLES DATOS",
     "descripcionOriginal": "CIRUGIA ASISTIDA POR ORDENADOR CON MULTIPLES DATOS",
     "sinonimos": [],
@@ -647,7 +647,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc58"
     },
-    "cieId": "0.39",
+    "cieId": "00.39",
     "descripcion": "OTRA CIRUGIA ASISTIDA POR ORDENADOR",
     "descripcionOriginal": "OTRA CIRUGIA ASISTIDA POR ORDENADOR",
     "sinonimos": [],
@@ -660,7 +660,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc59"
     },
-    "cieId": "0.4",
+    "cieId": "00.4",
     "descripcion": "PROCEDIMIENTOS AUXILIARES SOBRE EL SISTEMA VASCULAR",
     "descripcionOriginal": "PROCEDIMIENTOS AUXILIARES SOBRE EL SISTEMA VASCULAR",
     "sinonimos": [],
@@ -673,7 +673,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc5a"
     },
-    "cieId": "0.4",
+    "cieId": "00.40",
     "descripcion": "PROCEDIMIENTO SOBRE UN SOLO VASO",
     "descripcionOriginal": "PROCEDIMIENTO SOBRE UN SOLO VASO",
     "sinonimos": [],
@@ -686,7 +686,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc5b"
     },
-    "cieId": "0.41",
+    "cieId": "00.41",
     "descripcion": "PROCEDIMIENTO SOBRE DOS VASOS",
     "descripcionOriginal": "PROCEDIMIENTO SOBRE DOS VASOS",
     "sinonimos": [],
@@ -699,7 +699,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc5c"
     },
-    "cieId": "0.42",
+    "cieId": "00.42",
     "descripcion": "PROCEDIMIENTO SOBRE TRES VASOS",
     "descripcionOriginal": "PROCEDIMIENTO SOBRE TRES VASOS",
     "sinonimos": [],
@@ -712,7 +712,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc5d"
     },
-    "cieId": "0.43",
+    "cieId": "00.43",
     "descripcion": "PROCEDIMIENTO SOBRE CUATRO O MAS VASOS",
     "descripcionOriginal": "PROCEDIMIENTO SOBRE CUATRO O MAS VASOS",
     "sinonimos": [],
@@ -725,7 +725,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc5e"
     },
-    "cieId": "0.44",
+    "cieId": "00.44",
     "descripcion": "PROCEDIMIENTO SOBRE BIFURCACION VASCULAR",
     "descripcionOriginal": "PROCEDIMIENTO SOBRE BIFURCACION VASCULAR",
     "sinonimos": [],
@@ -738,7 +738,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc5f"
     },
-    "cieId": "0.45",
+    "cieId": "00.45",
     "descripcion": "INSERCION DE UN STENT VASCULAR",
     "descripcionOriginal": "INSERCION DE UN STENT VASCULAR",
     "sinonimos": [],
@@ -751,7 +751,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc60"
     },
-    "cieId": "0.46",
+    "cieId": "00.46",
     "descripcion": "INSERCION DE DOS STENTS VASCULARES",
     "descripcionOriginal": "INSERCION DE DOS STENTS VASCULARES",
     "sinonimos": [],
@@ -764,7 +764,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc61"
     },
-    "cieId": "0.47",
+    "cieId": "00.47",
     "descripcion": "INSERCION DE TRES STENTS VASCULARES",
     "descripcionOriginal": "INSERCION DE TRES STENTS VASCULARES",
     "sinonimos": [],
@@ -777,7 +777,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc62"
     },
-    "cieId": "0.48",
+    "cieId": "00.48",
     "descripcion": "INSERCION DE CUATRO O MAS STENTS VASCULARES",
     "descripcionOriginal": "INSERCION DE CUATRO O MAS STENTS VASCULARES",
     "sinonimos": [],
@@ -790,7 +790,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc63"
     },
-    "cieId": "0.49",
+    "cieId": "00.49",
     "descripcion": "OXIGENOTERAPIA SUPERSATURADA",
     "descripcionOriginal": "OXIGENOTERAPIA SUPERSATURADA",
     "sinonimos": [],
@@ -803,7 +803,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc64"
     },
-    "cieId": "0.5",
+    "cieId": "00.5",
     "descripcion": "OTROS PROCEDIMIENTOS CARDIOVASCULARES",
     "descripcionOriginal": "OTROS PROCEDIMIENTOS CARDIOVASCULARES",
     "sinonimos": [],
@@ -816,7 +816,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc65"
     },
-    "cieId": "0.5",
+    "cieId": "00.50",
     "descripcion": "IMPLANTACION DE MARCAPASOS DE RESINCRONIZACION CARDIACA SIN MENCION DE DESFIBRILACION, SISTEMA TOTAL [CRT P]",
     "descripcionOriginal": "IMPLANTACION DE MARCAPASOS DE RESINCRONIZACION CARDIACA SIN MENCION DE DESFIBRILACION, SISTEMA TOTAL [CRT P]",
     "sinonimos": [],
@@ -829,7 +829,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc66"
     },
-    "cieId": "0.51",
+    "cieId": "00.51",
     "descripcion": "IMPLANTACION DE DESFIBRILADOR DE RESINCRONIZACION CARDIACA, SISTEMA TOTAL [CRT D]",
     "descripcionOriginal": "IMPLANTACION DE DESFIBRILADOR DE RESINCRONIZACION CARDIACA, SISTEMA TOTAL [CRT D]",
     "sinonimos": [],
@@ -842,7 +842,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc67"
     },
-    "cieId": "0.52",
+    "cieId": "00.52",
     "descripcion": "IMPLANTACION O SUSTITUCION DE ELECTRODO DENTRO DEL SISTEMA VENOSO CORONARIO VENTRICULAR IZQUIERDO",
     "descripcionOriginal": "IMPLANTACION O SUSTITUCION DE ELECTRODO DENTRO DEL SISTEMA VENOSO CORONARIO VENTRICULAR IZQUIERDO",
     "sinonimos": [],
@@ -855,7 +855,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc68"
     },
-    "cieId": "0.53",
+    "cieId": "00.53",
     "descripcion": "IMPLANTACION O SUSTITUCION DE MARCAPASOS DE RESINCRONIZACION CARDIACA SOLO GENERADOR DE PULSO [CRT P]",
     "descripcionOriginal": "IMPLANTACION O SUSTITUCION DE MARCAPASOS DE RESINCRONIZACION CARDIACA SOLO GENERADOR DE PULSO [CRT P]",
     "sinonimos": [],
@@ -868,7 +868,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc69"
     },
-    "cieId": "0.54",
+    "cieId": "00.54",
     "descripcion": "IMPLANTACION O SUSTITUCION DE DESFIBRILADOR DE RESINCRONIZACION CARDIACA, SOLO DISPOSITIVO GENERADOR DE PULSO [CRT D]",
     "descripcionOriginal": "IMPLANTACION O SUSTITUCION DE DESFIBRILADOR DE RESINCRONIZACION CARDIACA, SOLO DISPOSITIVO GENERADOR DE PULSO [CRT D]",
     "sinonimos": [],
@@ -881,7 +881,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc6a"
     },
-    "cieId": "0.55",
+    "cieId": "00.55",
     "descripcion": "INSERCION DE STENT(S) LIBERADOR(ES) DE FARMACO(S) EN OTRO(S) VASO(S) PERIFERICO(S)",
     "descripcionOriginal": "INSERCION DE STENT(S) LIBERADOR(ES) DE FARMACO(S) EN OTRO(S) VASO(S) PERIFERICO(S)",
     "sinonimos": [],
@@ -894,7 +894,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc6b"
     },
-    "cieId": "0.56",
+    "cieId": "00.56",
     "descripcion": "INSERCION O SUSTITUCION DE SENSOR DE PRESION IMPLANTABLE (ELECTRODO) PARA MONITORIZACION HEMODINAMICA INTRACARDIACA O DE GRANDES VASOS",
     "descripcionOriginal": "INSERCION O SUSTITUCION DE SENSOR DE PRESION IMPLANTABLE (ELECTRODO) PARA MONITORIZACION HEMODINAMICA INTRACARDIACA O DE GRANDES VASOS",
     "sinonimos": [],
@@ -907,7 +907,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc6c"
     },
-    "cieId": "0.57",
+    "cieId": "00.57",
     "descripcion": "IMPLANTACION O SUSTITUCION DE DISPOSITIVO SUBCUTANEO PARA MONITORIZACION HEMODINAMICA INTRACARDIACA O DE GRANDES VASOS",
     "descripcionOriginal": "IMPLANTACION O SUSTITUCION DE DISPOSITIVO SUBCUTANEO PARA MONITORIZACION HEMODINAMICA INTRACARDIACA O DE GRANDES VASOS",
     "sinonimos": [],
@@ -920,7 +920,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc6d"
     },
-    "cieId": "0.58",
+    "cieId": "00.58",
     "descripcion": "INSERCION DE UN DISPOSITIVO DE MONITORIZACION DE LA PRESION DENTRO DEL SACO DEL ANEURISMA (INTRAOPERATORIO)",
     "descripcionOriginal": "INSERCION DE UN DISPOSITIVO DE MONITORIZACION DE LA PRESION DENTRO DEL SACO DEL ANEURISMA (INTRAOPERATORIO)",
     "sinonimos": [],
@@ -933,7 +933,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc6e"
     },
-    "cieId": "0.59",
+    "cieId": "00.59",
     "descripcion": "MEDICION DE PRESION INTRAVASCULAR DE ARTERIAS CORONARIAS",
     "descripcionOriginal": "MEDICION DE PRESION INTRAVASCULAR DE ARTERIAS CORONARIAS",
     "sinonimos": [],
@@ -946,7 +946,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc6f"
     },
-    "cieId": "0.6",
+    "cieId": "00.6",
     "descripcion": "PROCEDIMIENTOS SOBRE VASOS SANGUINEOS",
     "descripcionOriginal": "PROCEDIMIENTOS SOBRE VASOS SANGUINEOS",
     "sinonimos": [],
@@ -959,7 +959,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc70"
     },
-    "cieId": "0.6",
+    "cieId": "00.60",
     "descripcion": "INSERCION DE STENT(S) LIBERADOR DE FARMACOS DE ARTERIA FEMORAL SUPERFICIAL",
     "descripcionOriginal": "INSERCION DE STENT(S) LIBERADOR DE FARMACOS DE ARTERIA FEMORAL SUPERFICIAL",
     "sinonimos": [],
@@ -972,7 +972,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc71"
     },
-    "cieId": "0.61",
+    "cieId": "00.61",
     "descripcion": "ANGIOPLASTIA PERCUTANEA DE VASO(S) PRECEREBRAL(ES) (EXTRACRANEALES)",
     "descripcionOriginal": "ANGIOPLASTIA PERCUTANEA DE VASO(S) PRECEREBRAL(ES) (EXTRACRANEALES)",
     "sinonimos": [],
@@ -985,7 +985,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc72"
     },
-    "cieId": "0.62",
+    "cieId": "00.62",
     "descripcion": "ANGIOPLASTIA PERCUTANEA DE VASO(S) INTRACRANEAL(ES)",
     "descripcionOriginal": "ANGIOPLASTIA PERCUTANEA DE VASO(S) INTRACRANEAL(ES)",
     "sinonimos": [],
@@ -998,7 +998,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc73"
     },
-    "cieId": "0.63",
+    "cieId": "00.63",
     "descripcion": "INSERCION PERCUTANEA DE STENT(S) DE ARTERIA CAROTIDA",
     "descripcionOriginal": "INSERCION PERCUTANEA DE STENT(S) DE ARTERIA CAROTIDA",
     "sinonimos": [],
@@ -1011,7 +1011,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc74"
     },
-    "cieId": "0.64",
+    "cieId": "00.64",
     "descripcion": "INSERCION PERCUTÁNEA DE STENT (S) DE OTRA ARTERIA (EXTRACRANEAL)",
     "descripcionOriginal": "INSERCION PERCUTÁNEA DE STENT (S) DE OTRA ARTERIA (EXTRACRANEAL)",
     "sinonimos": [],
@@ -1024,7 +1024,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc75"
     },
-    "cieId": "0.65",
+    "cieId": "00.65",
     "descripcion": "INSERCION PERCUTANEA DE STENT(S) VASCULAR INTRACRANEAL",
     "descripcionOriginal": "INSERCION PERCUTANEA DE STENT(S) VASCULAR INTRACRANEAL",
     "sinonimos": [],
@@ -1037,7 +1037,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc76"
     },
-    "cieId": "0.66",
+    "cieId": "00.66",
     "descripcion": "ANGIOPLASTIA CORONARIA TRANSLUMINAL PERCUTANEA [ACTP]",
     "descripcionOriginal": "ANGIOPLASTIA CORONARIA TRANSLUMINAL PERCUTANEA [ACTP]",
     "sinonimos": [],
@@ -1050,7 +1050,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc77"
     },
-    "cieId": "0.67",
+    "cieId": "00.67",
     "descripcion": "MEDICION DE LA PRESION INTRAVASCULAR DE ARTERIAS INTRATORACICAS",
     "descripcionOriginal": "MEDICION DE LA PRESION INTRAVASCULAR DE ARTERIAS INTRATORACICAS",
     "sinonimos": [],
@@ -1063,7 +1063,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc78"
     },
-    "cieId": "0.68",
+    "cieId": "00.68",
     "descripcion": "MEDICION DE PRESION INTRAVASCULAR DE ARTERIAS PERIFERICAS",
     "descripcionOriginal": "MEDICION DE PRESION INTRAVASCULAR DE ARTERIAS PERIFERICAS",
     "sinonimos": [],
@@ -1076,7 +1076,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc79"
     },
-    "cieId": "0.69",
+    "cieId": "00.69",
     "descripcion": "MEDICION DE LA PRESION INTRAVASCULAR DE OTROS VASOS ESPECIFICADOS Y DE LOS NO ESPECIFICADOS",
     "descripcionOriginal": "MEDICION DE LA PRESION INTRAVASCULAR DE OTROS VASOS ESPECIFICADOS Y DE LOS NO ESPECIFICADOS",
     "sinonimos": [],
@@ -1089,7 +1089,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc7a"
     },
-    "cieId": "0.7",
+    "cieId": "00.7",
     "descripcion": "OTROS PROCEDIMIENTOS SOBRE CADERA",
     "descripcionOriginal": "OTROS PROCEDIMIENTOS SOBRE CADERA",
     "sinonimos": [],
@@ -1102,7 +1102,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc7b"
     },
-    "cieId": "0.7",
+    "cieId": "00.70",
     "descripcion": "REVISION DE SUSTITUCION DE CADERA, COMPONENTES ACETABULAR Y FEMORAL",
     "descripcionOriginal": "REVISION DE SUSTITUCION DE CADERA, COMPONENTES ACETABULAR Y FEMORAL",
     "sinonimos": [],
@@ -1115,7 +1115,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc7c"
     },
-    "cieId": "0.71",
+    "cieId": "00.71",
     "descripcion": "REVISION DE SUSTITUCION DE CADERA, COMPONENTE ACETABULAR",
     "descripcionOriginal": "REVISION DE SUSTITUCION DE CADERA, COMPONENTE ACETABULAR",
     "sinonimos": [],
@@ -1128,7 +1128,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc7d"
     },
-    "cieId": "0.72",
+    "cieId": "00.72",
     "descripcion": "REVISION DE SUSTITUCION DE CADERA, COMPONENTE FEMORAL",
     "descripcionOriginal": "REVISION DE SUSTITUCION DE CADERA, COMPONENTE FEMORAL",
     "sinonimos": [],
@@ -1141,7 +1141,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc7e"
     },
-    "cieId": "0.73",
+    "cieId": "00.73",
     "descripcion": "REVISION DE SUSTITUCION DE CADERA, SOLO ALINEADOR ACETABULAR Y/O CABEZA FEMORAL",
     "descripcionOriginal": "REVISION DE SUSTITUCION DE CADERA, SOLO ALINEADOR ACETABULAR Y/O CABEZA FEMORAL",
     "sinonimos": [],
@@ -1154,7 +1154,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc7f"
     },
-    "cieId": "0.74",
+    "cieId": "00.74",
     "descripcion": "SUPERFICIE DE APOYO DE CADERA, METAL SOBRE POLIETILENO",
     "descripcionOriginal": "SUPERFICIE DE APOYO DE CADERA, METAL SOBRE POLIETILENO",
     "sinonimos": [],
@@ -1167,7 +1167,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc80"
     },
-    "cieId": "0.75",
+    "cieId": "00.75",
     "descripcion": "SUPERFICIE DE APOYO DE CADERA, METAL SOBRE METAL",
     "descripcionOriginal": "SUPERFICIE DE APOYO DE CADERA, METAL SOBRE METAL",
     "sinonimos": [],
@@ -1180,7 +1180,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc81"
     },
-    "cieId": "0.76",
+    "cieId": "00.76",
     "descripcion": "SUPERFICIE DE APOYO DE CADERA, CERAMICA SOBRE CERAMICA",
     "descripcionOriginal": "SUPERFICIE DE APOYO DE CADERA, CERAMICA SOBRE CERAMICA",
     "sinonimos": [],
@@ -1193,7 +1193,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc82"
     },
-    "cieId": "0.77",
+    "cieId": "00.77",
     "descripcion": "SUPERFICIE DE APOYO DE CADERA, CERAMICA SOBRE POLIETILENO",
     "descripcionOriginal": "SUPERFICIE DE APOYO DE CADERA, CERAMICA SOBRE POLIETILENO",
     "sinonimos": [],
@@ -1206,7 +1206,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc83"
     },
-    "cieId": "0.8",
+    "cieId": "00.8",
     "descripcion": "OTROS PROCEDIMIENTOS DE RODILLA Y CADERA",
     "descripcionOriginal": "OTROS PROCEDIMIENTOS DE RODILLA Y CADERA",
     "sinonimos": [],
@@ -1219,7 +1219,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc84"
     },
-    "cieId": "0.8",
+    "cieId": "00.80",
     "descripcion": "REVISION DE SUSTITUCION DE RODILLA, TOTAL (TODOS LOS COMPONENTES)",
     "descripcionOriginal": "REVISION DE SUSTITUCION DE RODILLA, TOTAL (TODOS LOS COMPONENTES)",
     "sinonimos": [],
@@ -1232,7 +1232,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc85"
     },
-    "cieId": "0.81",
+    "cieId": "00.81",
     "descripcion": "REVISION DE SUSTITUCION DE RODILLA, COMPONENTE TIBIAL",
     "descripcionOriginal": "REVISION DE SUSTITUCION DE RODILLA, COMPONENTE TIBIAL",
     "sinonimos": [],
@@ -1245,7 +1245,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc86"
     },
-    "cieId": "0.82",
+    "cieId": "00.82",
     "descripcion": "REVISION DE SUSTITUCION DE RODILLA, COMPONENTE FEMORAL",
     "descripcionOriginal": "REVISION DE SUSTITUCION DE RODILLA, COMPONENTE FEMORAL",
     "sinonimos": [],
@@ -1258,7 +1258,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc87"
     },
-    "cieId": "0.83",
+    "cieId": "00.83",
     "descripcion": "REVISION DE SUSTITUCION DE RODILLA, COMPONENTE ROTULIANO",
     "descripcionOriginal": "REVISION DE SUSTITUCION DE RODILLA, COMPONENTE ROTULIANO",
     "sinonimos": [],
@@ -1271,7 +1271,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc88"
     },
-    "cieId": "0.84",
+    "cieId": "00.84",
     "descripcion": "REVISION DE SUSTITUCION TOTAL DE RODILLA, INSERCION (ALINEADOR) TIBIAL",
     "descripcionOriginal": "REVISION DE SUSTITUCION TOTAL DE RODILLA, INSERCION (ALINEADOR) TIBIAL",
     "sinonimos": [],
@@ -1284,7 +1284,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc89"
     },
-    "cieId": "0.85",
+    "cieId": "00.85",
     "descripcion": "RECUBRIMIENTO TOTAL DE CADERA, ACETABULO Y CABEZA FEMORAL",
     "descripcionOriginal": "RECUBRIMIENTO TOTAL DE CADERA, ACETABULO Y CABEZA FEMORAL",
     "sinonimos": [],
@@ -1297,7 +1297,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc8a"
     },
-    "cieId": "0.86",
+    "cieId": "00.86",
     "descripcion": "RECUBRIMIENTO PARCIAL DE CADERA, CABEZA FEMORAL",
     "descripcionOriginal": "RECUBRIMIENTO PARCIAL DE CADERA, CABEZA FEMORAL",
     "sinonimos": [],
@@ -1310,7 +1310,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc8b"
     },
-    "cieId": "0.87",
+    "cieId": "00.87",
     "descripcion": "RECUBRIMIENTO PARCIAL DE CADERA, ACETABULO",
     "descripcionOriginal": "RECUBRIMIENTO PARCIAL DE CADERA, ACETABULO",
     "sinonimos": [],
@@ -1323,7 +1323,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc8c"
     },
-    "cieId": "0.9",
+    "cieId": "00.9",
     "descripcion": "OTROS PROCEDIMIENTOS E INTERVENCIONES",
     "descripcionOriginal": "OTROS PROCEDIMIENTOS E INTERVENCIONES",
     "sinonimos": [],
@@ -1336,7 +1336,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc8d"
     },
-    "cieId": "0.91",
+    "cieId": "00.91",
     "descripcion": "TRASPLANTE PROCEDENTE DE DONANTE VIVO EMPARENTADO",
     "descripcionOriginal": "TRASPLANTE PROCEDENTE DE DONANTE VIVO EMPARENTADO",
     "sinonimos": [],
@@ -1349,7 +1349,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc8e"
     },
-    "cieId": "0.92",
+    "cieId": "00.92",
     "descripcion": "TRASPLANTE PROCEDENTE DE DONANTE VIVO NO EMPARENTADO",
     "descripcionOriginal": "TRASPLANTE PROCEDENTE DE DONANTE VIVO NO EMPARENTADO",
     "sinonimos": [],
@@ -1362,7 +1362,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc8f"
     },
-    "cieId": "0.93",
+    "cieId": "00.93",
     "descripcion": "TRASPLANTE PROCEDENTE DE CADAVER",
     "descripcionOriginal": "TRASPLANTE PROCEDENTE DE CADAVER",
     "sinonimos": [],
@@ -1375,7 +1375,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc90"
     },
-    "cieId": "0.94",
+    "cieId": "00.94",
     "descripcion": "MONITORIZACION NEUROFISIOLOGICA INTRAOPERATORIA",
     "descripcionOriginal": "MONITORIZACION NEUROFISIOLOGICA INTRAOPERATORIA",
     "sinonimos": [],
@@ -1388,7 +1388,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc91"
     },
-    "cieId": "0.95",
+    "cieId": "00.95",
     "descripcion": "INYECCION O INFUSION DE GLUCARPIDASA",
     "descripcionOriginal": "INYECCION O INFUSION DE GLUCARPIDASA",
     "sinonimos": [],
@@ -1401,7 +1401,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc92"
     },
-    "cieId": "1.0",
+    "cieId": "01.0",
     "descripcion": "PUNCION CRANEAL",
     "descripcionOriginal": "PUNCION CRANEAL",
     "sinonimos": [],
@@ -1414,7 +1414,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc93"
     },
-    "cieId": "1.01",
+    "cieId": "01.01",
     "descripcion": "PUNCION CISTERNAL",
     "descripcionOriginal": "PUNCION CISTERNAL",
     "sinonimos": [],
@@ -1427,7 +1427,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc94"
     },
-    "cieId": "1.02",
+    "cieId": "01.02",
     "descripcion": "PUNCION VENTRICULAR A TRAVES DE CATETER PREVIAMENTE IMPLANTA",
     "descripcionOriginal": "PUNCION VENTRICULAR A TRAVES DE CATETER PREVIAMENTE IMPLANTA",
     "sinonimos": [],
@@ -1440,7 +1440,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc95"
     },
-    "cieId": "1.09",
+    "cieId": "01.09",
     "descripcion": "OTRA PUNCION CRANEAL",
     "descripcionOriginal": "OTRA PUNCION CRANEAL",
     "sinonimos": [],
@@ -1453,7 +1453,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc96"
     },
-    "cieId": "1.1",
+    "cieId": "01.1",
     "descripcion": "PROC.DIAGNOSTICOS SOBRE CRANEO, CEREBRO Y MENINGES CEREBRALE",
     "descripcionOriginal": "PROC.DIAGNOSTICOS SOBRE CRANEO, CEREBRO Y MENINGES CEREBRALE",
     "sinonimos": [],
@@ -1466,7 +1466,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc97"
     },
-    "cieId": "1.1",
+    "cieId": "01.10",
     "descripcion": "MONITORIZACION DE LA PRESION INTRACRANEAL",
     "descripcionOriginal": "MONITORIZACION DE LA PRESION INTRACRANEAL",
     "sinonimos": [],
@@ -1479,7 +1479,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc98"
     },
-    "cieId": "1.11",
+    "cieId": "01.11",
     "descripcion": "BIOPSIA PERCUTANEA DE MENINGES CEREBRALES",
     "descripcionOriginal": "BIOPSIA PERCUTANEA DE MENINGES CEREBRALES",
     "sinonimos": [],
@@ -1492,7 +1492,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc99"
     },
-    "cieId": "1.12",
+    "cieId": "01.12",
     "descripcion": "BIOPSIAS DE MENINGES CEREBRALES ABIERTAS",
     "descripcionOriginal": "BIOPSIAS DE MENINGES CEREBRALES ABIERTAS",
     "sinonimos": [],
@@ -1505,7 +1505,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc9a"
     },
-    "cieId": "1.13",
+    "cieId": "01.13",
     "descripcion": "BIOPSIA PERCUTANEA, AGUJA, DE CEREBRO CERRADA",
     "descripcionOriginal": "BIOPSIA PERCUTANEA, AGUJA, DE CEREBRO CERRADA",
     "sinonimos": [],
@@ -1518,7 +1518,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc9b"
     },
-    "cieId": "1.14",
+    "cieId": "01.14",
     "descripcion": "BIOPSIAS DE CEREBRO ABIERTAS",
     "descripcionOriginal": "BIOPSIAS DE CEREBRO ABIERTAS",
     "sinonimos": [],
@@ -1531,7 +1531,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc9c"
     },
-    "cieId": "1.15",
+    "cieId": "01.15",
     "descripcion": "BIOPSIA DE CRANEO",
     "descripcionOriginal": "BIOPSIA DE CRANEO",
     "sinonimos": [],
@@ -1544,7 +1544,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc9d"
     },
-    "cieId": "1.16",
+    "cieId": "01.16",
     "descripcion": "MONITORIZACION DEL OXIGENO INTRACRANEAL",
     "descripcionOriginal": "MONITORIZACION DEL OXIGENO INTRACRANEAL",
     "sinonimos": [],
@@ -1557,7 +1557,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc9e"
     },
-    "cieId": "1.17",
+    "cieId": "01.17",
     "descripcion": "MONITORIZACION DE LA TEMPERATURA CEREBRAL",
     "descripcionOriginal": "MONITORIZACION DE LA TEMPERATURA CEREBRAL",
     "sinonimos": [],
@@ -1570,7 +1570,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc9f"
     },
-    "cieId": "1.18",
+    "cieId": "01.18",
     "descripcion": "OTROS PROCEDIMIENT.DIAGNOST. SOBRE CEREBRO Y MENINGES CEREBR",
     "descripcionOriginal": "OTROS PROCEDIMIENT.DIAGNOST. SOBRE CEREBRO Y MENINGES CEREBR",
     "sinonimos": [],
@@ -1583,7 +1583,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca0"
     },
-    "cieId": "1.19",
+    "cieId": "01.19",
     "descripcion": "OTROS PROCEDIMIENTOS DIAGNOSTICOS SOBRE EL CRANEO",
     "descripcionOriginal": "OTROS PROCEDIMIENTOS DIAGNOSTICOS SOBRE EL CRANEO",
     "sinonimos": [],
@@ -1596,7 +1596,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca1"
     },
-    "cieId": "1.2",
+    "cieId": "01.2",
     "descripcion": "CRANEOTOMIA Y CRANIECTOMIA",
     "descripcionOriginal": "CRANEOTOMIA Y CRANIECTOMIA",
     "sinonimos": [],
@@ -1609,7 +1609,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca2"
     },
-    "cieId": "1.2",
+    "cieId": "01.20",
     "descripcion": "IMPLANTACION O SUSTITUCION CRANEAL DE NEUROESTIMULADOR GENERADOR DE PULSO",
     "descripcionOriginal": "IMPLANTACION O SUSTITUCION CRANEAL DE NEUROESTIMULADOR GENERADOR DE PULSO",
     "sinonimos": [],
@@ -1622,7 +1622,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca3"
     },
-    "cieId": "1.21",
+    "cieId": "01.21",
     "descripcion": "INCISION Y DRENAJE DE SENO CRANEAL",
     "descripcionOriginal": "INCISION Y DRENAJE DE SENO CRANEAL",
     "sinonimos": [],
@@ -1635,7 +1635,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca4"
     },
-    "cieId": "1.22",
+    "cieId": "01.22",
     "descripcion": "EXTRACCION DE AGUJA(S) DE NEUROESTIMULADOR INTRACRANEAL",
     "descripcionOriginal": "EXTRACCION DE AGUJA(S) DE NEUROESTIMULADOR INTRACRANEAL",
     "sinonimos": [],
@@ -1648,7 +1648,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca5"
     },
-    "cieId": "1.23",
+    "cieId": "01.23",
     "descripcion": "REAPERTURA DE CRANEOTOMIA",
     "descripcionOriginal": "REAPERTURA DE CRANEOTOMIA",
     "sinonimos": [],
@@ -1661,7 +1661,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca6"
     },
-    "cieId": "1.24",
+    "cieId": "01.24",
     "descripcion": "OTRAS CRANEOTOMIAS",
     "descripcionOriginal": "OTRAS CRANEOTOMIAS",
     "sinonimos": [],
@@ -1674,7 +1674,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca7"
     },
-    "cieId": "1.25",
+    "cieId": "01.25",
     "descripcion": "OTRAS CRANIECTOMIAS",
     "descripcionOriginal": "OTRAS CRANIECTOMIAS",
     "sinonimos": [],
@@ -1687,7 +1687,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca8"
     },
-    "cieId": "1.26",
+    "cieId": "01.26",
     "descripcion": "INSERCION DE CATETER(ES) EN CAVIDAD O TEJIDO CRANEAL",
     "descripcionOriginal": "INSERCION DE CATETER(ES) EN CAVIDAD O TEJIDO CRANEAL",
     "sinonimos": [],
@@ -1700,7 +1700,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dca9"
     },
-    "cieId": "1.27",
+    "cieId": "01.27",
     "descripcion": "RETIRADA DE CATETER(ES) DE CAVIDAD O TEJIDO CRANEAL",
     "descripcionOriginal": "RETIRADA DE CATETER(ES) DE CAVIDAD O TEJIDO CRANEAL",
     "sinonimos": [],
@@ -1713,7 +1713,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcaa"
     },
-    "cieId": "1.28",
+    "cieId": "01.28",
     "descripcion": "COLOCACION DE CATETER(ES) INTRACEREBRAL(ES) A TRAVES DE AGUJERO(S) DE TREPANO",
     "descripcionOriginal": "COLOCACION DE CATETER(ES) INTRACEREBRAL(ES) A TRAVES DE AGUJERO(S) DE TREPANO",
     "sinonimos": [],
@@ -1726,7 +1726,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcab"
     },
-    "cieId": "1.29",
+    "cieId": "01.29",
     "descripcion": "EXTRACCION DE GENERADOR DE PULSOS DE NEUROESTIMULADOR CRANEAL",
     "descripcionOriginal": "EXTRACCION DE GENERADOR DE PULSOS DE NEUROESTIMULADOR CRANEAL",
     "sinonimos": [],
@@ -1739,7 +1739,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcac"
     },
-    "cieId": "1.3",
+    "cieId": "01.3",
     "descripcion": "INCISION DE CEREBRO Y MENINGES CEREBRALES",
     "descripcionOriginal": "INCISION DE CEREBRO Y MENINGES CEREBRALES",
     "sinonimos": [],
@@ -1752,7 +1752,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcad"
     },
-    "cieId": "1.31",
+    "cieId": "01.31",
     "descripcion": "INCISION DE MENINGES CEREBRALES",
     "descripcionOriginal": "INCISION DE MENINGES CEREBRALES",
     "sinonimos": [],
@@ -1765,7 +1765,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcae"
     },
-    "cieId": "1.32",
+    "cieId": "01.32",
     "descripcion": "LOBOTOMIA Y TRACTOTOMIA",
     "descripcionOriginal": "LOBOTOMIA Y TRACTOTOMIA",
     "sinonimos": [],
@@ -1778,7 +1778,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcaf"
     },
-    "cieId": "1.39",
+    "cieId": "01.39",
     "descripcion": "OTRAS INCISIONES CEREBRALES",
     "descripcionOriginal": "OTRAS INCISIONES CEREBRALES",
     "sinonimos": [],
@@ -1791,7 +1791,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb0"
     },
-    "cieId": "1.4",
+    "cieId": "01.4",
     "descripcion": "OPERACIONES SOBRE TALAMO Y GLOBO PALIDO",
     "descripcionOriginal": "OPERACIONES SOBRE TALAMO Y GLOBO PALIDO",
     "sinonimos": [],
@@ -1804,7 +1804,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb1"
     },
-    "cieId": "1.41",
+    "cieId": "01.41",
     "descripcion": "OPERACIONES SOBRE TALAMO",
     "descripcionOriginal": "OPERACIONES SOBRE TALAMO",
     "sinonimos": [],
@@ -1817,7 +1817,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb2"
     },
-    "cieId": "1.42",
+    "cieId": "01.42",
     "descripcion": "OPERACIONES SOBRE GLOBO PALIDO",
     "descripcionOriginal": "OPERACIONES SOBRE GLOBO PALIDO",
     "sinonimos": [],
@@ -1830,7 +1830,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb3"
     },
-    "cieId": "1.5",
+    "cieId": "01.5",
     "descripcion": "OTRAS EXCISIONES O DESTRUCCIONES DE CEREBRO Y MENINGES",
     "descripcionOriginal": "OTRAS EXCISIONES O DESTRUCCIONES DE CEREBRO Y MENINGES",
     "sinonimos": [],
@@ -1843,7 +1843,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb4"
     },
-    "cieId": "1.51",
+    "cieId": "01.51",
     "descripcion": "ESCISION DE LESION O TEJIDO DE MENINGES CEREBRALES",
     "descripcionOriginal": "ESCISION DE LESION O TEJIDO DE MENINGES CEREBRALES",
     "sinonimos": [],
@@ -1856,7 +1856,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb5"
     },
-    "cieId": "1.52",
+    "cieId": "01.52",
     "descripcion": "HEMISFERECTOMIA",
     "descripcionOriginal": "HEMISFERECTOMIA",
     "sinonimos": [],
@@ -1869,7 +1869,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb6"
     },
-    "cieId": "1.53",
+    "cieId": "01.53",
     "descripcion": "LOBECTOMIA CEREBRAL",
     "descripcionOriginal": "LOBECTOMIA CEREBRAL",
     "sinonimos": [],
@@ -1882,7 +1882,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb7"
     },
-    "cieId": "1.59",
+    "cieId": "01.59",
     "descripcion": "OTRAS ESCISIONES O DESTRUCCIONES DE LESION O TEJIDO CEREBRAL",
     "descripcionOriginal": "OTRAS ESCISIONES O DESTRUCCIONES DE LESION O TEJIDO CEREBRAL",
     "sinonimos": [],
@@ -1895,7 +1895,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb8"
     },
-    "cieId": "1.6",
+    "cieId": "01.6",
     "descripcion": "ESCISION DE LESION CRANEAL",
     "descripcionOriginal": "ESCISION DE LESION CRANEAL",
     "sinonimos": [],
@@ -1908,7 +1908,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcb9"
     },
-    "cieId": "2.0",
+    "cieId": "02.0",
     "descripcion": "CRANEOPLASTIA",
     "descripcionOriginal": "CRANEOPLASTIA",
     "sinonimos": [],
@@ -1921,7 +1921,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcba"
     },
-    "cieId": "2.01",
+    "cieId": "02.01",
     "descripcion": "APERTURA DE SUTURA CRANEAL",
     "descripcionOriginal": "APERTURA DE SUTURA CRANEAL",
     "sinonimos": [],
@@ -1934,7 +1934,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcbb"
     },
-    "cieId": "2.02",
+    "cieId": "02.02",
     "descripcion": "ELEVACION DE FRAGMENTOS DE FRACTURA DE CRANEO",
     "descripcionOriginal": "ELEVACION DE FRAGMENTOS DE FRACTURA DE CRANEO",
     "sinonimos": [],
@@ -1947,7 +1947,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcbc"
     },
-    "cieId": "2.03",
+    "cieId": "02.03",
     "descripcion": "FORMACION DE PLIEGUE DE HUESO CRANEAL",
     "descripcionOriginal": "FORMACION DE PLIEGUE DE HUESO CRANEAL",
     "sinonimos": [],
@@ -1960,7 +1960,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcbd"
     },
-    "cieId": "2.04",
+    "cieId": "02.04",
     "descripcion": "INJERTO OSEO DE CRANEO",
     "descripcionOriginal": "INJERTO OSEO DE CRANEO",
     "sinonimos": [],
@@ -1973,7 +1973,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcbe"
     },
-    "cieId": "2.05",
+    "cieId": "02.05",
     "descripcion": "COLOCACION DE PLACA CRANEAL",
     "descripcionOriginal": "COLOCACION DE PLACA CRANEAL",
     "sinonimos": [],
@@ -1986,7 +1986,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcbf"
     },
-    "cieId": "2.06",
+    "cieId": "02.06",
     "descripcion": "OTRAS OSTEOPLASTIAS CRANEALES",
     "descripcionOriginal": "OTRAS OSTEOPLASTIAS CRANEALES",
     "sinonimos": [],
@@ -1999,7 +1999,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc0"
     },
-    "cieId": "2.07",
+    "cieId": "02.07",
     "descripcion": "EXTRACCION DE PLACA CRANEAL",
     "descripcionOriginal": "EXTRACCION DE PLACA CRANEAL",
     "sinonimos": [],
@@ -2012,7 +2012,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc1"
     },
-    "cieId": "2.1",
+    "cieId": "02.1",
     "descripcion": "REPARACION DE MENINGES CEREBRALES",
     "descripcionOriginal": "REPARACION DE MENINGES CEREBRALES",
     "sinonimos": [],
@@ -2025,7 +2025,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc2"
     },
-    "cieId": "2.11",
+    "cieId": "02.11",
     "descripcion": "SUTURA SIMPLE DE DURAMADRE CEREBRAL",
     "descripcionOriginal": "SUTURA SIMPLE DE DURAMADRE CEREBRAL",
     "sinonimos": [],
@@ -2038,7 +2038,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc3"
     },
-    "cieId": "2.12",
+    "cieId": "02.12",
     "descripcion": "OTRAS REPARACIONES DE MENINGES CEREBRALES",
     "descripcionOriginal": "OTRAS REPARACIONES DE MENINGES CEREBRALES",
     "sinonimos": [],
@@ -2051,7 +2051,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc4"
     },
-    "cieId": "2.13",
+    "cieId": "02.13",
     "descripcion": "LIGADURA DE VASO MENINGEO",
     "descripcionOriginal": "LIGADURA DE VASO MENINGEO",
     "sinonimos": [],
@@ -2064,7 +2064,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc5"
     },
-    "cieId": "2.14",
+    "cieId": "02.14",
     "descripcion": "PLEXECTOMIA COROIDEA",
     "descripcionOriginal": "PLEXECTOMIA COROIDEA",
     "sinonimos": [],
@@ -2077,7 +2077,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc6"
     },
-    "cieId": "2.2",
+    "cieId": "02.2",
     "descripcion": "VENTRICULOSTOMIA",
     "descripcionOriginal": "VENTRICULOSTOMIA",
     "sinonimos": [],
@@ -2090,7 +2090,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc7"
     },
-    "cieId": "2.21",
+    "cieId": "02.21",
     "descripcion": "INSERCIÓN O SUSTITUCIÓN DE DRENAJE VENTRICULAR EXTERNO [DVE]",
     "descripcionOriginal": "INSERCIÓN O SUSTITUCIÓN DE DRENAJE VENTRICULAR EXTERNO [DVE]",
     "sinonimos": [],
@@ -2103,7 +2103,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc8"
     },
-    "cieId": "2.22",
+    "cieId": "02.22",
     "descripcion": "DERIVACIÓN O ANASTOMOSIS VENTRICULAR INTRACRANEAL",
     "descripcionOriginal": "DERIVACIÓN O ANASTOMOSIS VENTRICULAR INTRACRANEAL",
     "sinonimos": [],
@@ -2116,7 +2116,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcc9"
     },
-    "cieId": "2.3",
+    "cieId": "02.3",
     "descripcion": "DERIVACION VENTRICULAR EXTRACRANEAL",
     "descripcionOriginal": "DERIVACION VENTRICULAR EXTRACRANEAL",
     "sinonimos": [],
@@ -2129,7 +2129,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcca"
     },
-    "cieId": "2.31",
+    "cieId": "02.31",
     "descripcion": "DERIVACION VENTRICULAR A ESTRUCTURAS EN CABEZA Y CUELLO",
     "descripcionOriginal": "DERIVACION VENTRICULAR A ESTRUCTURAS EN CABEZA Y CUELLO",
     "sinonimos": [],
@@ -2142,7 +2142,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dccb"
     },
-    "cieId": "2.32",
+    "cieId": "02.32",
     "descripcion": "DERIVACION VENTRICULAR AL APARATO CIRCULATORIO",
     "descripcionOriginal": "DERIVACION VENTRICULAR AL APARATO CIRCULATORIO",
     "sinonimos": [],
@@ -2155,7 +2155,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dccc"
     },
-    "cieId": "2.33",
+    "cieId": "02.33",
     "descripcion": "DERIVACION VENTRICULAR A LA CAVIDAD TORACICA",
     "descripcionOriginal": "DERIVACION VENTRICULAR A LA CAVIDAD TORACICA",
     "sinonimos": [],
@@ -2168,7 +2168,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dccd"
     },
-    "cieId": "2.34",
+    "cieId": "02.34",
     "descripcion": "DERIVACION VENTRICULAR A LA CAVIDAD Y ORGANOS ABDOMINALES",
     "descripcionOriginal": "DERIVACION VENTRICULAR A LA CAVIDAD Y ORGANOS ABDOMINALES",
     "sinonimos": [],
@@ -2181,7 +2181,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcce"
     },
-    "cieId": "2.35",
+    "cieId": "02.35",
     "descripcion": "DERIVACION VENTRICULAR AL APARATO URINARIO",
     "descripcionOriginal": "DERIVACION VENTRICULAR AL APARATO URINARIO",
     "sinonimos": [],
@@ -2194,7 +2194,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dccf"
     },
-    "cieId": "2.39",
+    "cieId": "02.39",
     "descripcion": "DERIVACIÓN VENTRICULAR A LOCALIZACIÓN EXTRACRANEAL NCOC",
     "descripcionOriginal": "DERIVACIÓN VENTRICULAR A LOCALIZACIÓN EXTRACRANEAL NCOC",
     "sinonimos": [],
@@ -2207,7 +2207,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd0"
     },
-    "cieId": "2.4",
+    "cieId": "02.4",
     "descripcion": "REVISION, EXTRACCION E IRRIGACION DE DERIVACION VENTRICULAR",
     "descripcionOriginal": "REVISION, EXTRACCION E IRRIGACION DE DERIVACION VENTRICULAR",
     "sinonimos": [],
@@ -2220,7 +2220,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd1"
     },
-    "cieId": "2.41",
+    "cieId": "02.41",
     "descripcion": "IRRIGACION Y EXPLORACION DE DERIVACION VENTRICULAR",
     "descripcionOriginal": "IRRIGACION Y EXPLORACION DE DERIVACION VENTRICULAR",
     "sinonimos": [],
@@ -2233,7 +2233,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd2"
     },
-    "cieId": "2.42",
+    "cieId": "02.42",
     "descripcion": "SUSTITUCION DE DERIVACION VENTRICULAR",
     "descripcionOriginal": "SUSTITUCION DE DERIVACION VENTRICULAR",
     "sinonimos": [],
@@ -2246,7 +2246,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd3"
     },
-    "cieId": "2.43",
+    "cieId": "02.43",
     "descripcion": "EXTRACCION DE DERIVACION VENTRICULAR",
     "descripcionOriginal": "EXTRACCION DE DERIVACION VENTRICULAR",
     "sinonimos": [],
@@ -2259,7 +2259,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd4"
     },
-    "cieId": "2.9",
+    "cieId": "02.9",
     "descripcion": "OTRAS OPERACIONES SOBRE CRANEO, CEREBRO Y MENINGES CEREBRALE",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE CRANEO, CEREBRO Y MENINGES CEREBRALE",
     "sinonimos": [],
@@ -2272,7 +2272,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd5"
     },
-    "cieId": "2.91",
+    "cieId": "02.91",
     "descripcion": "LISIS DE ADHERENCIAS CORTICALES",
     "descripcionOriginal": "LISIS DE ADHERENCIAS CORTICALES",
     "sinonimos": [],
@@ -2285,7 +2285,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd6"
     },
-    "cieId": "2.92",
+    "cieId": "02.92",
     "descripcion": "REPARACION CEREBRAL",
     "descripcionOriginal": "REPARACION CEREBRAL",
     "sinonimos": [],
@@ -2298,7 +2298,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd7"
     },
-    "cieId": "2.93",
+    "cieId": "02.93",
     "descripcion": "IMPLANTACION O SUSTITUCION DE AGUJA(S) DE NEUROESTIMULADOR INTRACRANEAL",
     "descripcionOriginal": "IMPLANTACION O SUSTITUCION DE AGUJA(S) DE NEUROESTIMULADOR INTRACRANEAL",
     "sinonimos": [],
@@ -2311,7 +2311,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd8"
     },
-    "cieId": "2.94",
+    "cieId": "02.94",
     "descripcion": "COLOCACION O SUSTITUCION DE COMPAS O DE HALO CRANEAL",
     "descripcionOriginal": "COLOCACION O SUSTITUCION DE COMPAS O DE HALO CRANEAL",
     "sinonimos": [],
@@ -2324,7 +2324,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcd9"
     },
-    "cieId": "2.95",
+    "cieId": "02.95",
     "descripcion": "EXTRACCION DE COMPAS O HALO CRANEAL",
     "descripcionOriginal": "EXTRACCION DE COMPAS O HALO CRANEAL",
     "sinonimos": [],
@@ -2337,7 +2337,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcda"
     },
-    "cieId": "2.96",
+    "cieId": "02.96",
     "descripcion": "INSERCION DE ELECTRODOS ESFENOIDALES",
     "descripcionOriginal": "INSERCION DE ELECTRODOS ESFENOIDALES",
     "sinonimos": [],
@@ -2350,7 +2350,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcdb"
     },
-    "cieId": "2.99",
+    "cieId": "02.99",
     "descripcion": "OTRA OPERACION SOBRE CRANEO,CEREBRO Y MENINGES CEREBRALES",
     "descripcionOriginal": "OTRA OPERACION SOBRE CRANEO,CEREBRO Y MENINGES CEREBRALES",
     "sinonimos": [],
@@ -2363,7 +2363,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcdc"
     },
-    "cieId": "3.0",
+    "cieId": "03.0",
     "descripcion": "EXPLORACION Y DESCOMPRESION DE ESTRUCTURAS DEL CANAL ESPINAL",
     "descripcionOriginal": "EXPLORACION Y DESCOMPRESION DE ESTRUCTURAS DEL CANAL ESPINAL",
     "sinonimos": [],
@@ -2376,7 +2376,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcdd"
     },
-    "cieId": "3.01",
+    "cieId": "03.01",
     "descripcion": "EXTRACCION DE CUERPO EXTRAÑO DEL CANAL ESPINAL",
     "descripcionOriginal": "EXTRACCION DE CUERPO EXTRAÑO DEL CANAL ESPINAL",
     "sinonimos": [],
@@ -2389,7 +2389,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcde"
     },
-    "cieId": "3.02",
+    "cieId": "03.02",
     "descripcion": "REAPERTURA DE SITIO DE LAMINECTOMIA",
     "descripcionOriginal": "REAPERTURA DE SITIO DE LAMINECTOMIA",
     "sinonimos": [],
@@ -2402,7 +2402,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcdf"
     },
-    "cieId": "3.09",
+    "cieId": "03.09",
     "descripcion": "OTRA EXPLORACION Y DESCOMPRESION DEL CANAL ESPINAL",
     "descripcionOriginal": "OTRA EXPLORACION Y DESCOMPRESION DEL CANAL ESPINAL",
     "sinonimos": [],
@@ -2415,7 +2415,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce0"
     },
-    "cieId": "3.1",
+    "cieId": "03.1",
     "descripcion": "DIVISION DE RAIZ DE NERVIO INTRAESPINAL",
     "descripcionOriginal": "DIVISION DE RAIZ DE NERVIO INTRAESPINAL",
     "sinonimos": [],
@@ -2428,7 +2428,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce1"
     },
-    "cieId": "3.2",
+    "cieId": "03.2",
     "descripcion": "CORDOTOMIA",
     "descripcionOriginal": "CORDOTOMIA",
     "sinonimos": [],
@@ -2441,7 +2441,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce2"
     },
-    "cieId": "3.21",
+    "cieId": "03.21",
     "descripcion": "CORDOTOMIA PERCUTANEA",
     "descripcionOriginal": "CORDOTOMIA PERCUTANEA",
     "sinonimos": [],
@@ -2454,7 +2454,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce3"
     },
-    "cieId": "3.29",
+    "cieId": "03.29",
     "descripcion": "OTRA CORDOTOMIA",
     "descripcionOriginal": "OTRA CORDOTOMIA",
     "sinonimos": [],
@@ -2467,7 +2467,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce4"
     },
-    "cieId": "3.3",
+    "cieId": "03.3",
     "descripcion": "PROC.DIAGNOSTICOS SOBRE MEDULA ESPINAL Y ESTRUC. CANAL ESPIN",
     "descripcionOriginal": "PROC.DIAGNOSTICOS SOBRE MEDULA ESPINAL Y ESTRUC. CANAL ESPIN",
     "sinonimos": [],
@@ -2480,7 +2480,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce5"
     },
-    "cieId": "3.31",
+    "cieId": "03.31",
     "descripcion": "PUNCION ESPINAL",
     "descripcionOriginal": "PUNCION ESPINAL",
     "sinonimos": [],
@@ -2493,7 +2493,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce6"
     },
-    "cieId": "3.32",
+    "cieId": "03.32",
     "descripcion": "BIOPSIA DE MEDULA ESPINAL O MENINGES ESPINALES",
     "descripcionOriginal": "BIOPSIA DE MEDULA ESPINAL O MENINGES ESPINALES",
     "sinonimos": [],
@@ -2506,7 +2506,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce7"
     },
-    "cieId": "3.39",
+    "cieId": "03.39",
     "descripcion": "OTROS PROCED.DIAGN.SOBRE LA MEDUL.ESPIN.Y ESTRUC.DEL CANAL E",
     "descripcionOriginal": "OTROS PROCED.DIAGN.SOBRE LA MEDUL.ESPIN.Y ESTRUC.DEL CANAL E",
     "sinonimos": [],
@@ -2519,7 +2519,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce8"
     },
-    "cieId": "3.4",
+    "cieId": "03.4",
     "descripcion": "EXCISION O DESTRUCCION LESION MEDULA ESPINAL/MENINGES ESPINA",
     "descripcionOriginal": "EXCISION O DESTRUCCION LESION MEDULA ESPINAL/MENINGES ESPINA",
     "sinonimos": [],
@@ -2532,7 +2532,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dce9"
     },
-    "cieId": "3.5",
+    "cieId": "03.5",
     "descripcion": "OPERACIONES PLASTICAS SOBRE ESTRUCTURAS DE LA MEDULA",
     "descripcionOriginal": "OPERACIONES PLASTICAS SOBRE ESTRUCTURAS DE LA MEDULA",
     "sinonimos": [],
@@ -2545,7 +2545,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcea"
     },
-    "cieId": "3.51",
+    "cieId": "03.51",
     "descripcion": "REPARACION DE MENINGOCELE ESPINAL",
     "descripcionOriginal": "REPARACION DE MENINGOCELE ESPINAL",
     "sinonimos": [],
@@ -2558,7 +2558,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dceb"
     },
-    "cieId": "3.52",
+    "cieId": "03.52",
     "descripcion": "REPARACION DE MIELOMENINGOCELE ESPINAL",
     "descripcionOriginal": "REPARACION DE MIELOMENINGOCELE ESPINAL",
     "sinonimos": [],
@@ -2571,7 +2571,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcec"
     },
-    "cieId": "3.53",
+    "cieId": "03.53",
     "descripcion": "REPARACION DE FRACTURA VERTEBRAL",
     "descripcionOriginal": "REPARACION DE FRACTURA VERTEBRAL",
     "sinonimos": [],
@@ -2584,7 +2584,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dced"
     },
-    "cieId": "3.59",
+    "cieId": "03.59",
     "descripcion": "OTRAS OPER. DE REPAR. Y PLASTIC. SOBRE ESTRUC. DEL CANAL ESP",
     "descripcionOriginal": "OTRAS OPER. DE REPAR. Y PLASTIC. SOBRE ESTRUC. DEL CANAL ESP",
     "sinonimos": [],
@@ -2597,7 +2597,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcee"
     },
-    "cieId": "3.6",
+    "cieId": "03.6",
     "descripcion": "LISIS DE ADHERENCIAS MEDULA ESPINAL Y RAICES NERVIOS ESPINAL",
     "descripcionOriginal": "LISIS DE ADHERENCIAS MEDULA ESPINAL Y RAICES NERVIOS ESPINAL",
     "sinonimos": [],
@@ -2610,7 +2610,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcef"
     },
-    "cieId": "3.7",
+    "cieId": "03.7",
     "descripcion": "DERIVACION DE TECA ESPINAL",
     "descripcionOriginal": "DERIVACION DE TECA ESPINAL",
     "sinonimos": [],
@@ -2623,7 +2623,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf0"
     },
-    "cieId": "3.71",
+    "cieId": "03.71",
     "descripcion": "DERIVACION SUBARACNOIDE PERITONEAL ESPINAL",
     "descripcionOriginal": "DERIVACION SUBARACNOIDE PERITONEAL ESPINAL",
     "sinonimos": [],
@@ -2636,7 +2636,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf1"
     },
-    "cieId": "3.72",
+    "cieId": "03.72",
     "descripcion": "DERIVACION SUBARACNOIDE URETERAL ESPINAL",
     "descripcionOriginal": "DERIVACION SUBARACNOIDE URETERAL ESPINAL",
     "sinonimos": [],
@@ -2649,7 +2649,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf2"
     },
-    "cieId": "3.79",
+    "cieId": "03.79",
     "descripcion": "OTRA DERIVACION DE TECA ESPINAL",
     "descripcionOriginal": "OTRA DERIVACION DE TECA ESPINAL",
     "sinonimos": [],
@@ -2662,7 +2662,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf3"
     },
-    "cieId": "3.8",
+    "cieId": "03.8",
     "descripcion": "INYECCION DE AGENTE DESTRUCTIVO EN EL CANAL ESPINAL",
     "descripcionOriginal": "INYECCION DE AGENTE DESTRUCTIVO EN EL CANAL ESPINAL",
     "sinonimos": [],
@@ -2675,7 +2675,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf4"
     },
-    "cieId": "3.9",
+    "cieId": "03.9",
     "descripcion": "OTRAS OPERACIONES S/MEDULA ESPINAL Y ESTRUCTURAS CANAL ESPIN",
     "descripcionOriginal": "OTRAS OPERACIONES S/MEDULA ESPINAL Y ESTRUCTURAS CANAL ESPIN",
     "sinonimos": [],
@@ -2688,7 +2688,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf5"
     },
-    "cieId": "3.9",
+    "cieId": "03.90",
     "descripcion": "INSERCION CETETER COND.ESPINAL PARA INF.SUST.TERAP.Y PALIATI",
     "descripcionOriginal": "INSERCION CETETER COND.ESPINAL PARA INF.SUST.TERAP.Y PALIATI",
     "sinonimos": [],
@@ -2701,7 +2701,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf6"
     },
-    "cieId": "3.91",
+    "cieId": "03.91",
     "descripcion": "INYECCION DE ANESTESICO EN CANAL ESPINAL PARA ANALGESIA",
     "descripcionOriginal": "INYECCION DE ANESTESICO EN CANAL ESPINAL PARA ANALGESIA",
     "sinonimos": [],
@@ -2714,7 +2714,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf7"
     },
-    "cieId": "3.92",
+    "cieId": "03.92",
     "descripcion": "INYECCION DE OTRO AGENTE EN CANAL ESPINAL",
     "descripcionOriginal": "INYECCION DE OTRO AGENTE EN CANAL ESPINAL",
     "sinonimos": [],
@@ -2727,7 +2727,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf8"
     },
-    "cieId": "3.93",
+    "cieId": "03.93",
     "descripcion": "INSERCION, IMPLANTACION O SUSTITUCION DE AGUJA(S) DE NEUROESTIMULADOR MEDULAR",
     "descripcionOriginal": "INSERCION, IMPLANTACION O SUSTITUCION DE AGUJA(S) DE NEUROESTIMULADOR MEDULAR",
     "sinonimos": [],
@@ -2740,7 +2740,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcf9"
     },
-    "cieId": "3.94",
+    "cieId": "03.94",
     "descripcion": "EXTRACCION DE AGUJA(S) DE NEUROESTIMULADOR MEDULAR",
     "descripcionOriginal": "EXTRACCION DE AGUJA(S) DE NEUROESTIMULADOR MEDULAR",
     "sinonimos": [],
@@ -2753,7 +2753,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcfa"
     },
-    "cieId": "3.95",
+    "cieId": "03.95",
     "descripcion": "PARCHE HEMATICO ESPINAL",
     "descripcionOriginal": "PARCHE HEMATICO ESPINAL",
     "sinonimos": [],
@@ -2766,7 +2766,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcfb"
     },
-    "cieId": "3.96",
+    "cieId": "03.96",
     "descripcion": "DENERVACION PERCUTANEA DE FACETA",
     "descripcionOriginal": "DENERVACION PERCUTANEA DE FACETA",
     "sinonimos": [],
@@ -2779,7 +2779,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcfc"
     },
-    "cieId": "3.97",
+    "cieId": "03.97",
     "descripcion": "REVISION DE DERIVACION DE TECA ESPINAL",
     "descripcionOriginal": "REVISION DE DERIVACION DE TECA ESPINAL",
     "sinonimos": [],
@@ -2792,7 +2792,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcfd"
     },
-    "cieId": "3.98",
+    "cieId": "03.98",
     "descripcion": "EXTRACCION DE DERIVACION DE TECA ESPINAL",
     "descripcionOriginal": "EXTRACCION DE DERIVACION DE TECA ESPINAL",
     "sinonimos": [],
@@ -2805,7 +2805,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcfe"
     },
-    "cieId": "3.99",
+    "cieId": "03.99",
     "descripcion": "OTRAS OPERACIONES SOBRE MEDULA ESPINAL NCOC",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE MEDULA ESPINAL NCOC",
     "sinonimos": [],
@@ -2818,7 +2818,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dcff"
     },
-    "cieId": "4.0",
+    "cieId": "04.0",
     "descripcion": "INCISION, DIVISION Y EXCISION DE NERVIOS CRANELAES Y PERIFER",
     "descripcionOriginal": "INCISION, DIVISION Y EXCISION DE NERVIOS CRANELAES Y PERIFER",
     "sinonimos": [],
@@ -2831,7 +2831,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd00"
     },
-    "cieId": "4.01",
+    "cieId": "04.01",
     "descripcion": "EXCISION DE NEUROMA ACUSTICO",
     "descripcionOriginal": "EXCISION DE NEUROMA ACUSTICO",
     "sinonimos": [],
@@ -2844,7 +2844,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd01"
     },
-    "cieId": "4.02",
+    "cieId": "04.02",
     "descripcion": "SECCION DE NERVIO TRIGEMINO",
     "descripcionOriginal": "SECCION DE NERVIO TRIGEMINO",
     "sinonimos": [],
@@ -2857,7 +2857,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd02"
     },
-    "cieId": "4.03",
+    "cieId": "04.03",
     "descripcion": "SECCION APLASTAMIENTO DE OTROS NERVIOS CRANEALES Y PERIFERIC",
     "descripcionOriginal": "SECCION APLASTAMIENTO DE OTROS NERVIOS CRANEALES Y PERIFERIC",
     "sinonimos": [],
@@ -2870,7 +2870,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd03"
     },
-    "cieId": "4.04",
+    "cieId": "04.04",
     "descripcion": "OTRAS INCISIONES DE NERVIOS CRANEALES Y PERIFERICOS",
     "descripcionOriginal": "OTRAS INCISIONES DE NERVIOS CRANEALES Y PERIFERICOS",
     "sinonimos": [],
@@ -2883,7 +2883,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd04"
     },
-    "cieId": "4.05",
+    "cieId": "04.05",
     "descripcion": "GANGLIONECTOMIA DE GASSER",
     "descripcionOriginal": "GANGLIONECTOMIA DE GASSER",
     "sinonimos": [],
@@ -2896,7 +2896,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd05"
     },
-    "cieId": "4.06",
+    "cieId": "04.06",
     "descripcion": "OTRAS GANGLIONECTOMIAS CRANEALES O PERIFERICAS",
     "descripcionOriginal": "OTRAS GANGLIONECTOMIAS CRANEALES O PERIFERICAS",
     "sinonimos": [],
@@ -2909,7 +2909,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd06"
     },
-    "cieId": "4.07",
+    "cieId": "04.07",
     "descripcion": "OTRAS EXCISIONES O EVULSIONES DE NERVIOS CRANEALES O PERIFER",
     "descripcionOriginal": "OTRAS EXCISIONES O EVULSIONES DE NERVIOS CRANEALES O PERIFER",
     "sinonimos": [],
@@ -2922,7 +2922,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd07"
     },
-    "cieId": "4.1",
+    "cieId": "04.1",
     "descripcion": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE SISTEMA NERVIOSO PERIFERIC",
     "descripcionOriginal": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE SISTEMA NERVIOSO PERIFERIC",
     "sinonimos": [],
@@ -2935,7 +2935,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd08"
     },
-    "cieId": "4.11",
+    "cieId": "04.11",
     "descripcion": "BIOPSIA PERCUTANEA DE NERVIO O GANGLIO CRANEAL O SIMPATICO",
     "descripcionOriginal": "BIOPSIA PERCUTANEA DE NERVIO O GANGLIO CRANEAL O SIMPATICO",
     "sinonimos": [],
@@ -2948,7 +2948,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd09"
     },
-    "cieId": "4.12",
+    "cieId": "04.12",
     "descripcion": "BIOPSIA ABIERTA DE NERVIO O GANGLIO CRANEAL O PERIFERICO",
     "descripcionOriginal": "BIOPSIA ABIERTA DE NERVIO O GANGLIO CRANEAL O PERIFERICO",
     "sinonimos": [],
@@ -2961,7 +2961,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd0a"
     },
-    "cieId": "4.19",
+    "cieId": "04.19",
     "descripcion": "OTROS PROC. DIAGN. SOBRE NERVIOS Y GANGLIOS CRANEALES Y PERI",
     "descripcionOriginal": "OTROS PROC. DIAGN. SOBRE NERVIOS Y GANGLIOS CRANEALES Y PERI",
     "sinonimos": [],
@@ -2974,7 +2974,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd0b"
     },
-    "cieId": "4.2",
+    "cieId": "04.2",
     "descripcion": "DESTRUCCION DE NERVIOS CRANEALES Y PERIFERICOS",
     "descripcionOriginal": "DESTRUCCION DE NERVIOS CRANEALES Y PERIFERICOS",
     "sinonimos": [],
@@ -2987,7 +2987,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd0c"
     },
-    "cieId": "4.3",
+    "cieId": "04.3",
     "descripcion": "SUTURA DE NERVIOS CRANEALES Y PERIFERICOS",
     "descripcionOriginal": "SUTURA DE NERVIOS CRANEALES Y PERIFERICOS",
     "sinonimos": [],
@@ -3000,7 +3000,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd0d"
     },
-    "cieId": "4.4",
+    "cieId": "04.4",
     "descripcion": "LISIS ADHERENCIAS Y DESCOMPRESION NERVIOS CRANEALES/PERIFERI",
     "descripcionOriginal": "LISIS ADHERENCIAS Y DESCOMPRESION NERVIOS CRANEALES/PERIFERI",
     "sinonimos": [],
@@ -3013,7 +3013,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd0e"
     },
-    "cieId": "4.41",
+    "cieId": "04.41",
     "descripcion": "DECOMPRESION DE RAIZ DE NERVIO TRIGEMINO",
     "descripcionOriginal": "DECOMPRESION DE RAIZ DE NERVIO TRIGEMINO",
     "sinonimos": [],
@@ -3026,7 +3026,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd0f"
     },
-    "cieId": "4.42",
+    "cieId": "04.42",
     "descripcion": "DECOMPRESION DE OTRO NERVIO CRANEAL",
     "descripcionOriginal": "DECOMPRESION DE OTRO NERVIO CRANEAL",
     "sinonimos": [],
@@ -3039,7 +3039,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd10"
     },
-    "cieId": "4.43",
+    "cieId": "04.43",
     "descripcion": "LIBERACION DE TUNEL CARPIANO",
     "descripcionOriginal": "LIBERACION DE TUNEL CARPIANO",
     "sinonimos": [],
@@ -3052,7 +3052,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd11"
     },
-    "cieId": "4.44",
+    "cieId": "04.44",
     "descripcion": "LIBERACION DE TUNEL TARSAL",
     "descripcionOriginal": "LIBERACION DE TUNEL TARSAL",
     "sinonimos": [],
@@ -3065,7 +3065,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd12"
     },
-    "cieId": "4.49",
+    "cieId": "04.49",
     "descripcion": "OTRA DECOMPR. O LISIS DE ADHERENC. DE NERVIO O GANGLIO PERIF",
     "descripcionOriginal": "OTRA DECOMPR. O LISIS DE ADHERENC. DE NERVIO O GANGLIO PERIF",
     "sinonimos": [],
@@ -3078,7 +3078,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd13"
     },
-    "cieId": "4.5",
+    "cieId": "04.5",
     "descripcion": "INJERTO DE NERVIO CRANEAL O PERIFERICO",
     "descripcionOriginal": "INJERTO DE NERVIO CRANEAL O PERIFERICO",
     "sinonimos": [],
@@ -3091,7 +3091,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd14"
     },
-    "cieId": "4.6",
+    "cieId": "04.6",
     "descripcion": "TRANSPOSICION DE NERVIOS CRANEALES Y PERIFERICOS",
     "descripcionOriginal": "TRANSPOSICION DE NERVIOS CRANEALES Y PERIFERICOS",
     "sinonimos": [],
@@ -3104,7 +3104,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd15"
     },
-    "cieId": "4.7",
+    "cieId": "04.7",
     "descripcion": "OTRA NEUROPLASTIA CRANEAL O PERIFERICA",
     "descripcionOriginal": "OTRA NEUROPLASTIA CRANEAL O PERIFERICA",
     "sinonimos": [],
@@ -3117,7 +3117,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd16"
     },
-    "cieId": "4.71",
+    "cieId": "04.71",
     "descripcion": "ANASTOMOSIS HIPOGLOSO FACIAL",
     "descripcionOriginal": "ANASTOMOSIS HIPOGLOSO FACIAL",
     "sinonimos": [],
@@ -3130,7 +3130,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd17"
     },
-    "cieId": "4.72",
+    "cieId": "04.72",
     "descripcion": "ANASTOMOSIS ACCESORIO FACIAL",
     "descripcionOriginal": "ANASTOMOSIS ACCESORIO FACIAL",
     "sinonimos": [],
@@ -3143,7 +3143,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd18"
     },
-    "cieId": "4.73",
+    "cieId": "04.73",
     "descripcion": "ANASTOMOSIS ACCESORIO HIPOGLOSA",
     "descripcionOriginal": "ANASTOMOSIS ACCESORIO HIPOGLOSA",
     "sinonimos": [],
@@ -3156,7 +3156,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd19"
     },
-    "cieId": "4.74",
+    "cieId": "04.74",
     "descripcion": "OTRA ANASTOMOSIS DE NERVIO CRANEAL O PERIFERICO",
     "descripcionOriginal": "OTRA ANASTOMOSIS DE NERVIO CRANEAL O PERIFERICO",
     "sinonimos": [],
@@ -3169,7 +3169,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd1a"
     },
-    "cieId": "4.75",
+    "cieId": "04.75",
     "descripcion": "REVISION DE REPARACION ANTERIOR DE NERVIOS CRANEALES Y PERIF",
     "descripcionOriginal": "REVISION DE REPARACION ANTERIOR DE NERVIOS CRANEALES Y PERIF",
     "sinonimos": [],
@@ -3182,7 +3182,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd1b"
     },
-    "cieId": "4.76",
+    "cieId": "04.76",
     "descripcion": "REPARACION DE HERIDA TRAUM. ANTIGUA DE NERV.CRANEALES Y PERI",
     "descripcionOriginal": "REPARACION DE HERIDA TRAUM. ANTIGUA DE NERV.CRANEALES Y PERI",
     "sinonimos": [],
@@ -3195,7 +3195,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd1c"
     },
-    "cieId": "4.79",
+    "cieId": "04.79",
     "descripcion": "OTRAS NEUROPLASTIAS",
     "descripcionOriginal": "OTRAS NEUROPLASTIAS",
     "sinonimos": [],
@@ -3208,7 +3208,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd1d"
     },
-    "cieId": "4.8",
+    "cieId": "04.8",
     "descripcion": "INYECCION DENTRO DE NERVIO PERIFERICO",
     "descripcionOriginal": "INYECCION DENTRO DE NERVIO PERIFERICO",
     "sinonimos": [],
@@ -3221,7 +3221,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd1e"
     },
-    "cieId": "4.8",
+    "cieId": "04.80",
     "descripcion": "INYECCION DE NERVIO PERIFERICO, NO ESPECIFICADA DE OTRA MANE",
     "descripcionOriginal": "INYECCION DE NERVIO PERIFERICO, NO ESPECIFICADA DE OTRA MANE",
     "sinonimos": [],
@@ -3234,7 +3234,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd1f"
     },
-    "cieId": "4.81",
+    "cieId": "04.81",
     "descripcion": "INYECC. DE ANESTESIA DENTRO DE NERV. PERIF. CON FIN ANALGESI",
     "descripcionOriginal": "INYECC. DE ANESTESIA DENTRO DE NERV. PERIF. CON FIN ANALGESI",
     "sinonimos": [],
@@ -3247,7 +3247,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd20"
     },
-    "cieId": "4.89",
+    "cieId": "04.89",
     "descripcion": "INYECCION DE OTRO AGENTE, SALVO NEUROLITICO",
     "descripcionOriginal": "INYECCION DE OTRO AGENTE, SALVO NEUROLITICO",
     "sinonimos": [],
@@ -3260,7 +3260,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd21"
     },
-    "cieId": "4.9",
+    "cieId": "04.9",
     "descripcion": "OTRAS OPERACIONES SOBRE NERVIOS CRANEALES Y PERIFERICOS",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE NERVIOS CRANEALES Y PERIFERICOS",
     "sinonimos": [],
@@ -3273,7 +3273,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd22"
     },
-    "cieId": "4.91",
+    "cieId": "04.91",
     "descripcion": "NEURECTASIA",
     "descripcionOriginal": "NEURECTASIA",
     "sinonimos": [],
@@ -3286,7 +3286,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd23"
     },
-    "cieId": "4.92",
+    "cieId": "04.92",
     "descripcion": "COLOCACION O SUSTITUCION DE AGUJA(S) DE NEUROESTIMULADOR PERIFERICO",
     "descripcionOriginal": "COLOCACION O SUSTITUCION DE AGUJA(S) DE NEUROESTIMULADOR PERIFERICO",
     "sinonimos": [],
@@ -3299,7 +3299,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd24"
     },
-    "cieId": "4.93",
+    "cieId": "04.93",
     "descripcion": "EXTRACCION DE AGUJA(S) DE NEUROESTIMULADOR PERIFERICO",
     "descripcionOriginal": "EXTRACCION DE AGUJA(S) DE NEUROESTIMULADOR PERIFERICO",
     "sinonimos": [],
@@ -3312,7 +3312,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd25"
     },
-    "cieId": "4.99",
+    "cieId": "04.99",
     "descripcion": "OTRAS OPERACIONES SOBRE NSERVIOS CRANEALES NCOC",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE NSERVIOS CRANEALES NCOC",
     "sinonimos": [],
@@ -3325,7 +3325,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd26"
     },
-    "cieId": "5.0",
+    "cieId": "05.0",
     "descripcion": "DIVISION DE NERVIO O GANGLIO SIMPATICO",
     "descripcionOriginal": "DIVISION DE NERVIO O GANGLIO SIMPATICO",
     "sinonimos": [],
@@ -3338,7 +3338,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd27"
     },
-    "cieId": "5.1",
+    "cieId": "05.1",
     "descripcion": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE NERVIOS O GANGLIOS SIMPATI",
     "descripcionOriginal": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE NERVIOS O GANGLIOS SIMPATI",
     "sinonimos": [],
@@ -3351,7 +3351,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd28"
     },
-    "cieId": "5.11",
+    "cieId": "05.11",
     "descripcion": "BIOPSIA DE NERVIO O GANGLIO SIMPATICO",
     "descripcionOriginal": "BIOPSIA DE NERVIO O GANGLIO SIMPATICO",
     "sinonimos": [],
@@ -3364,7 +3364,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd29"
     },
-    "cieId": "5.19",
+    "cieId": "05.19",
     "descripcion": "OTROS PROCED. DIAGNOSTICOS SOBRE NERVIOS O GANGLIOS SIMPATIC",
     "descripcionOriginal": "OTROS PROCED. DIAGNOSTICOS SOBRE NERVIOS O GANGLIOS SIMPATIC",
     "sinonimos": [],
@@ -3377,7 +3377,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd2a"
     },
-    "cieId": "5.2",
+    "cieId": "05.2",
     "descripcion": "SIMPATECTOMIA",
     "descripcionOriginal": "SIMPATECTOMIA",
     "sinonimos": [],
@@ -3390,7 +3390,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd2b"
     },
-    "cieId": "5.21",
+    "cieId": "05.21",
     "descripcion": "GANGLIONECTOMIA ESFENOPALATINA",
     "descripcionOriginal": "GANGLIONECTOMIA ESFENOPALATINA",
     "sinonimos": [],
@@ -3403,7 +3403,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd2c"
     },
-    "cieId": "5.22",
+    "cieId": "05.22",
     "descripcion": "SIMPATECTOMIA CERVICAL",
     "descripcionOriginal": "SIMPATECTOMIA CERVICAL",
     "sinonimos": [],
@@ -3416,7 +3416,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd2d"
     },
-    "cieId": "5.23",
+    "cieId": "05.23",
     "descripcion": "SIMPATECTOMIA LUMBAR",
     "descripcionOriginal": "SIMPATECTOMIA LUMBAR",
     "sinonimos": [],
@@ -3429,7 +3429,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd2e"
     },
-    "cieId": "5.24",
+    "cieId": "05.24",
     "descripcion": "SIMPATECTOMIA PRESACRAL",
     "descripcionOriginal": "SIMPATECTOMIA PRESACRAL",
     "sinonimos": [],
@@ -3442,7 +3442,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd2f"
     },
-    "cieId": "5.25",
+    "cieId": "05.25",
     "descripcion": "SIMPATECTOMIA PERIARTERIAL",
     "descripcionOriginal": "SIMPATECTOMIA PERIARTERIAL",
     "sinonimos": [],
@@ -3455,7 +3455,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd30"
     },
-    "cieId": "5.29",
+    "cieId": "05.29",
     "descripcion": "OTRAS SIMPATECTOMIAS Y GANGLIONECTOMIAS",
     "descripcionOriginal": "OTRAS SIMPATECTOMIAS Y GANGLIONECTOMIAS",
     "sinonimos": [],
@@ -3468,7 +3468,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd31"
     },
-    "cieId": "5.3",
+    "cieId": "05.3",
     "descripcion": "INYECCION EN NERVIO O GANGLIO SIMPATICO",
     "descripcionOriginal": "INYECCION EN NERVIO O GANGLIO SIMPATICO",
     "sinonimos": [],
@@ -3481,7 +3481,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd32"
     },
-    "cieId": "5.31",
+    "cieId": "05.31",
     "descripcion": "INYECCION DE ANESTESICO EN NERVIO SIMPATICO CON FIN ANALGESI",
     "descripcionOriginal": "INYECCION DE ANESTESICO EN NERVIO SIMPATICO CON FIN ANALGESI",
     "sinonimos": [],
@@ -3494,7 +3494,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd33"
     },
-    "cieId": "5.32",
+    "cieId": "05.32",
     "descripcion": "INYECCION DE AGENTE NEUROLITICO EN NERVIO SIMPATICO",
     "descripcionOriginal": "INYECCION DE AGENTE NEUROLITICO EN NERVIO SIMPATICO",
     "sinonimos": [],
@@ -3507,7 +3507,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd34"
     },
-    "cieId": "5.39",
+    "cieId": "05.39",
     "descripcion": "OTRA INYECCION EN NERVIO O GANGLIO SIMPATICO",
     "descripcionOriginal": "OTRA INYECCION EN NERVIO O GANGLIO SIMPATICO",
     "sinonimos": [],
@@ -3520,7 +3520,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd35"
     },
-    "cieId": "5.8",
+    "cieId": "05.8",
     "descripcion": "OTRAS OPERACIONES SOBRE NERVIOS O GANGLIOS SIMPATICOS",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE NERVIOS O GANGLIOS SIMPATICOS",
     "sinonimos": [],
@@ -3533,7 +3533,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd36"
     },
-    "cieId": "5.81",
+    "cieId": "05.81",
     "descripcion": "REPARACION DE NERVIO O GANGLIO SIMPATICO",
     "descripcionOriginal": "REPARACION DE NERVIO O GANGLIO SIMPATICO",
     "sinonimos": [],
@@ -3546,7 +3546,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd37"
     },
-    "cieId": "5.89",
+    "cieId": "05.89",
     "descripcion": "OTRAS OPERACIONES SOBRE NERVIOS O GANGLIOS SIMPATICOS NCOC",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE NERVIOS O GANGLIOS SIMPATICOS NCOC",
     "sinonimos": [],
@@ -3559,7 +3559,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd38"
     },
-    "cieId": "5.9",
+    "cieId": "05.9",
     "descripcion": "OTRAS OPERACIONES SOBRE EL SISTEMA NERVIOSO",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE EL SISTEMA NERVIOSO",
     "sinonimos": [],
@@ -3572,7 +3572,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd39"
     },
-    "cieId": "6.11",
+    "cieId": "06.11",
     "descripcion": "BIOPSIA DE GLANDULA TIROIDES",
     "descripcionOriginal": "BIOPSIA PERCUTANEA (AGUJA) DE GLANDULA TIROIDES",
     "sinonimos": [],
@@ -3587,7 +3587,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd3a"
     },
-    "cieId": "6.13",
+    "cieId": "06.13",
     "descripcion": "BIOPSIA DE GLANDULA PARATIROIDES",
     "descripcionOriginal": "BIOPSIA DE GLANDULA PARATIROIDES",
     "sinonimos": [],
@@ -3602,7 +3602,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd3b"
     },
-    "cieId": "6.2",
+    "cieId": "06.2",
     "descripcion": "HEMITIROIDECTOMIA",
     "descripcionOriginal": "LOBECTOMIA TIROIDEA UNILATERAL",
     "sinonimos": [],
@@ -3617,7 +3617,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd3c"
     },
-    "cieId": "6.4",
+    "cieId": "06.4",
     "descripcion": "TIROIDECTOMIA TOTAL",
     "descripcionOriginal": "TIROIDECTOMIA TOTAL",
     "sinonimos": [],
@@ -3632,7 +3632,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd3d"
     },
-    "cieId": "6.6",
+    "cieId": "06.6",
     "descripcion": "EXCISION DE TIROIDES LINGUAL",
     "descripcionOriginal": "EXCISION DE TIROIDES LINGUAL",
     "sinonimos": [],
@@ -3647,7 +3647,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd3e"
     },
-    "cieId": "6.7",
+    "cieId": "06.7",
     "descripcion": "EXCISION DEL CONDUCTO TIROGLOSO",
     "descripcionOriginal": "EXCISION DEL CONDUCTO TIROGLOSO",
     "sinonimos": [],
@@ -3662,7 +3662,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd3f"
     },
-    "cieId": "6.8",
+    "cieId": "06.8",
     "descripcion": "PARATIROIDECTOMIA",
     "descripcionOriginal": "PARATIROIDECTOMIA",
     "sinonimos": [],
@@ -3677,7 +3677,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd40"
     },
-    "cieId": "6.91",
+    "cieId": "06.91",
     "descripcion": "DIVISION DEL ISTMO TIROIDEO",
     "descripcionOriginal": "DIVISION DEL ISTMO TIROIDEO",
     "sinonimos": [],
@@ -3692,7 +3692,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd41"
     },
-    "cieId": "6.92",
+    "cieId": "06.92",
     "descripcion": "LIGADURA DE VASOS TIROIDEOS",
     "descripcionOriginal": "LIGADURA DE VASOS TIROIDEOS",
     "sinonimos": [],
@@ -3707,7 +3707,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd42"
     },
-    "cieId": "6.95",
+    "cieId": "06.95",
     "descripcion": "REIMPLANTACION DE TEJIDO PARATIROIDEO",
     "descripcionOriginal": "REIMPLANTACION DE TEJIDO PARATIROIDEO",
     "sinonimos": [],
@@ -3722,7 +3722,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd43"
     },
-    "cieId": "7.11",
+    "cieId": "07.11",
     "descripcion": "BIOPSIA DE GLANDULA SUPRARRENAL",
     "descripcionOriginal": "BIOPSIA PERCUTANEA (AGUJA) DE GLANDULA SUPRARRENAL",
     "sinonimos": [],
@@ -3738,7 +3738,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd44"
     },
-    "cieId": "7.13",
+    "cieId": "07.13",
     "descripcion": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO TRANSFRONTAL",
     "descripcionOriginal": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO TRANSFRONTAL",
     "sinonimos": [],
@@ -3753,7 +3753,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd45"
     },
-    "cieId": "7.14",
+    "cieId": "07.14",
     "descripcion": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO TRANSESFENOIDAL",
     "descripcionOriginal": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO TRANSESFENOIDAL",
     "sinonimos": [],
@@ -3768,7 +3768,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd46"
     },
-    "cieId": "7.15",
+    "cieId": "07.15",
     "descripcion": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO NO ESPECIFICADO",
     "descripcionOriginal": "BIOPSIA DE GLANDULA PITUITARIA, ACCESO NO ESPECIFICADO",
     "sinonimos": [],
@@ -3783,7 +3783,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd47"
     },
-    "cieId": "7.16",
+    "cieId": "07.16",
     "descripcion": "BIOPSIA DE TIMO",
     "descripcionOriginal": "BIOPSIA DE TIMO",
     "sinonimos": [],
@@ -3799,7 +3799,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd48"
     },
-    "cieId": "7.17",
+    "cieId": "07.17",
     "descripcion": "BIOPSIA DE GLANDULA PINEAL",
     "descripcionOriginal": "BIOPSIA DE GLANDULA PINEAL",
     "sinonimos": [],
@@ -3814,7 +3814,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd49"
     },
-    "cieId": "7.2",
+    "cieId": "07.2",
     "descripcion": "SUPRARRENALECTOMIA PARCIAL",
     "descripcionOriginal": "SUPRARRENALECTOMIA PARCIAL",
     "sinonimos": [],
@@ -3830,7 +3830,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd4a"
     },
-    "cieId": "7.22",
+    "cieId": "07.22",
     "descripcion": "SUPRARRENALECTOMIA",
     "descripcionOriginal": "SUPRARRENALECTOMIA UNILATERAL",
     "sinonimos": [],
@@ -3846,7 +3846,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd4b"
     },
-    "cieId": "7.43",
+    "cieId": "07.43",
     "descripcion": "LIGADURA DE VASOS SUPRARRENALES",
     "descripcionOriginal": "LIGADURA DE VASOS SUPRARRENALES",
     "sinonimos": [],
@@ -3862,7 +3862,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd4c"
     },
-    "cieId": "7.5",
+    "cieId": "07.5",
     "descripcion": "OPERACIONES SOBRE GLANDULA PINEAL",
     "descripcionOriginal": "OPERACIONES SOBRE GLANDULA PINEAL",
     "sinonimos": [],
@@ -3875,7 +3875,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd4d"
     },
-    "cieId": "7.51",
+    "cieId": "07.51",
     "descripcion": "EXPLORACION DEL AREA PINEAL",
     "descripcionOriginal": "EXPLORACION DEL AREA PINEAL",
     "sinonimos": [],
@@ -3888,7 +3888,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd4e"
     },
-    "cieId": "7.52",
+    "cieId": "07.52",
     "descripcion": "INCISION DE GLANDULA PINEAL",
     "descripcionOriginal": "INCISION DE GLANDULA PINEAL",
     "sinonimos": [],
@@ -3901,7 +3901,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd4f"
     },
-    "cieId": "7.53",
+    "cieId": "07.53",
     "descripcion": "EXCISION PARCIAL DE GLANDULA PINEAL",
     "descripcionOriginal": "EXCISION PARCIAL DE GLANDULA PINEAL",
     "sinonimos": [],
@@ -3914,7 +3914,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd50"
     },
-    "cieId": "7.54",
+    "cieId": "07.54",
     "descripcion": "EXCISION TOTAL DE GLANDULA PINEAL",
     "descripcionOriginal": "EXCISION TOTAL DE GLANDULA PINEAL",
     "sinonimos": [],
@@ -3927,7 +3927,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd51"
     },
-    "cieId": "7.59",
+    "cieId": "07.59",
     "descripcion": "OTRAS OPERACIONES SOBRE GLANDULA PINEAL",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE GLANDULA PINEAL",
     "sinonimos": [],
@@ -3940,7 +3940,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd52"
     },
-    "cieId": "7.6",
+    "cieId": "07.6",
     "descripcion": "HIPOFISECTOMIA",
     "descripcionOriginal": "HIPOFISECTOMIA",
     "sinonimos": [],
@@ -3953,7 +3953,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd53"
     },
-    "cieId": "7.61",
+    "cieId": "07.61",
     "descripcion": "EXCISION PARCIAL DE GLANDULA PITUITARIA, ACCESO TRANSFRONTAL",
     "descripcionOriginal": "EXCISION PARCIAL DE GLANDULA PITUITARIA, ACCESO TRANSFRONTAL",
     "sinonimos": [],
@@ -3966,7 +3966,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd54"
     },
-    "cieId": "7.62",
+    "cieId": "07.62",
     "descripcion": "EXCISION PARCIAL DE GLANDULA PITUITARIA, ACCESO TRANSESFENOI",
     "descripcionOriginal": "EXCISION PARCIAL DE GLANDULA PITUITARIA, ACCESO TRANSESFENOI",
     "sinonimos": [],
@@ -3979,7 +3979,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd55"
     },
-    "cieId": "7.63",
+    "cieId": "07.63",
     "descripcion": "EXCISION PARCIAL DE GLANDULA PITUITARIA, ACCESO NO ESPECIFIC",
     "descripcionOriginal": "EXCISION PARCIAL DE GLANDULA PITUITARIA, ACCESO NO ESPECIFIC",
     "sinonimos": [],
@@ -3992,7 +3992,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd56"
     },
-    "cieId": "7.64",
+    "cieId": "07.64",
     "descripcion": "EXCISION TOTAL DE GLANDULA PITUITARIA, ACCESO TRANSFRONTAL",
     "descripcionOriginal": "EXCISION TOTAL DE GLANDULA PITUITARIA, ACCESO TRANSFRONTAL",
     "sinonimos": [],
@@ -4005,7 +4005,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd57"
     },
-    "cieId": "7.65",
+    "cieId": "07.65",
     "descripcion": "EXCISION TOTAL DE GLANDULA PITUITARIA, ACCESO TRANSESFENOIDA",
     "descripcionOriginal": "EXCISION TOTAL DE GLANDULA PITUITARIA, ACCESO TRANSESFENOIDA",
     "sinonimos": [],
@@ -4018,7 +4018,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd58"
     },
-    "cieId": "7.68",
+    "cieId": "07.68",
     "descripcion": "EXCISION TOTAL DE GLANDULA PITUITARIA, OTRO ACCESO ESPECIFIC",
     "descripcionOriginal": "EXCISION TOTAL DE GLANDULA PITUITARIA, OTRO ACCESO ESPECIFIC",
     "sinonimos": [],
@@ -4031,7 +4031,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd59"
     },
-    "cieId": "7.69",
+    "cieId": "07.69",
     "descripcion": "EXCISION TOTAL DE GLANDULA PITUITARIA, ACCESO NO ESPECIFICAD",
     "descripcionOriginal": "EXCISION TOTAL DE GLANDULA PITUITARIA, ACCESO NO ESPECIFICAD",
     "sinonimos": [],
@@ -4044,7 +4044,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd5a"
     },
-    "cieId": "7.7",
+    "cieId": "07.7",
     "descripcion": "OTRAS OPERACIONES SOBRE HIPOFISIS",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE HIPOFISIS",
     "sinonimos": [],
@@ -4057,7 +4057,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd5b"
     },
-    "cieId": "7.71",
+    "cieId": "07.71",
     "descripcion": "EXPLORACION DE FOSA PITUITARIA",
     "descripcionOriginal": "EXPLORACION DE FOSA PITUITARIA",
     "sinonimos": [],
@@ -4070,7 +4070,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd5c"
     },
-    "cieId": "7.72",
+    "cieId": "07.72",
     "descripcion": "INCISION DE GLANDULA PITUITARIA",
     "descripcionOriginal": "INCISION DE GLANDULA PITUITARIA",
     "sinonimos": [],
@@ -4083,7 +4083,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd5d"
     },
-    "cieId": "7.79",
+    "cieId": "07.79",
     "descripcion": "OTRA OPERACION SOBRE HIPOFISIS NCOC",
     "descripcionOriginal": "OTRA OPERACION SOBRE HIPOFISIS NCOC",
     "sinonimos": [],
@@ -4096,7 +4096,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd5e"
     },
-    "cieId": "7.8",
+    "cieId": "07.8",
     "descripcion": "TIMECTOMIA",
     "descripcionOriginal": "TIMECTOMIA",
     "sinonimos": [],
@@ -4110,7 +4110,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd5f"
     },
-    "cieId": "8.0",
+    "cieId": "08.0",
     "descripcion": "INCISION DE PARPADO",
     "descripcionOriginal": "INCISION DE PARPADO",
     "sinonimos": [],
@@ -4123,7 +4123,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd60"
     },
-    "cieId": "8.01",
+    "cieId": "08.01",
     "descripcion": "INCISION DEL MARGEN DEL PARPADO",
     "descripcionOriginal": "INCISION DEL MARGEN DEL PARPADO",
     "sinonimos": [],
@@ -4136,7 +4136,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd61"
     },
-    "cieId": "8.02",
+    "cieId": "08.02",
     "descripcion": "SECCIONADO DE BLEFARORRAFIA",
     "descripcionOriginal": "SECCIONADO DE BLEFARORRAFIA",
     "sinonimos": [],
@@ -4149,7 +4149,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd62"
     },
-    "cieId": "8.09",
+    "cieId": "08.09",
     "descripcion": "OTRA INCISION DE PARPADO",
     "descripcionOriginal": "OTRA INCISION DE PARPADO",
     "sinonimos": [],
@@ -4162,7 +4162,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd63"
     },
-    "cieId": "8.1",
+    "cieId": "08.1",
     "descripcion": "PROCEDIMIENTOS DIAGNOSTICO SOBRE PARPADO",
     "descripcionOriginal": "PROCEDIMIENTOS DIAGNOSTICO SOBRE PARPADO",
     "sinonimos": [],
@@ -4175,7 +4175,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd64"
     },
-    "cieId": "8.11",
+    "cieId": "08.11",
     "descripcion": "BIOPSIA DE PARPADO",
     "descripcionOriginal": "BIOPSIA DE PARPADO",
     "sinonimos": [],
@@ -4188,7 +4188,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd65"
     },
-    "cieId": "8.19",
+    "cieId": "08.19",
     "descripcion": "OTROS PROCEDIMIENTOS DIAGNOSTICOS SOBRE PARPADO",
     "descripcionOriginal": "OTROS PROCEDIMIENTOS DIAGNOSTICOS SOBRE PARPADO",
     "sinonimos": [],
@@ -4201,7 +4201,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd66"
     },
-    "cieId": "8.2",
+    "cieId": "08.2",
     "descripcion": "EXCISION O DESTRUCCION DE LESION O TEJIDO DE PARPADO",
     "descripcionOriginal": "EXCISION O DESTRUCCION DE LESION O TEJIDO DE PARPADO",
     "sinonimos": [],
@@ -4214,7 +4214,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd67"
     },
-    "cieId": "8.2",
+    "cieId": "08.20",
     "descripcion": "ELIMINACION DE LESION DE PARPADO, NEOM",
     "descripcionOriginal": "ELIMINACION DE LESION DE PARPADO, NEOM",
     "sinonimos": [],
@@ -4227,7 +4227,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd68"
     },
-    "cieId": "8.21",
+    "cieId": "08.21",
     "descripcion": "EXCISION DE CHALACION",
     "descripcionOriginal": "EXCISION DE CHALACION",
     "sinonimos": [],
@@ -4240,7 +4240,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd69"
     },
-    "cieId": "8.22",
+    "cieId": "08.22",
     "descripcion": "EXCISION DE OTRA LESION MENOR DE PARPADO",
     "descripcionOriginal": "EXCISION DE OTRA LESION MENOR DE PARPADO",
     "sinonimos": [],
@@ -4253,7 +4253,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd6a"
     },
-    "cieId": "8.23",
+    "cieId": "08.23",
     "descripcion": "EXCISION DE LESION IMPORTANTE DE PARPADO, ESPESOR PARCIAL",
     "descripcionOriginal": "EXCISION DE LESION IMPORTANTE DE PARPADO, ESPESOR PARCIAL",
     "sinonimos": [],
@@ -4266,7 +4266,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd6b"
     },
-    "cieId": "8.24",
+    "cieId": "08.24",
     "descripcion": "EXCISION DE LESION IMPORTANTE DE PARPADO, ESPESOR TOTAL",
     "descripcionOriginal": "EXCISION DE LESION IMPORTANTE DE PARPADO, ESPESOR TOTAL",
     "sinonimos": [],
@@ -4279,7 +4279,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd6c"
     },
-    "cieId": "8.25",
+    "cieId": "08.25",
     "descripcion": "DESTRUCCION DE LESION DE PARPADO",
     "descripcionOriginal": "DESTRUCCION DE LESION DE PARPADO",
     "sinonimos": [],
@@ -4292,7 +4292,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd6d"
     },
-    "cieId": "8.3",
+    "cieId": "08.3",
     "descripcion": "REPARACION DE BLEFAROPTOSIS Y RETRACCION DEL PARPADO",
     "descripcionOriginal": "REPARACION DE BLEFAROPTOSIS Y RETRACCION DEL PARPADO",
     "sinonimos": [],
@@ -4305,7 +4305,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd6e"
     },
-    "cieId": "8.31",
+    "cieId": "08.31",
     "descripcion": "REPARACION DE BLEFAROPTOSIS POR TECN.DE MUSC.FRONT.CON SUTUR",
     "descripcionOriginal": "REPARACION DE BLEFAROPTOSIS POR TECN.DE MUSC.FRONT.CON SUTUR",
     "sinonimos": [],
@@ -4318,7 +4318,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd6f"
     },
-    "cieId": "8.32",
+    "cieId": "08.32",
     "descripcion": "REP.DE BLEFAROPTOSIS POR TEC.DE M.FRON.CON SUSPENSION FACIAL",
     "descripcionOriginal": "REP.DE BLEFAROPTOSIS POR TEC.DE M.FRON.CON SUSPENSION FACIAL",
     "sinonimos": [],
@@ -4331,7 +4331,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd70"
     },
-    "cieId": "8.33",
+    "cieId": "08.33",
     "descripcion": "R.DE BLEF.POR RESECC.O AVANCE DE MUSC.ELEVADOR O APONEUROSIS",
     "descripcionOriginal": "R.DE BLEF.POR RESECC.O AVANCE DE MUSC.ELEVADOR O APONEUROSIS",
     "sinonimos": [],
@@ -4344,7 +4344,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd71"
     },
-    "cieId": "8.34",
+    "cieId": "08.34",
     "descripcion": "REPARACION DE BLEFAROPTOSIS POR OTRAS TECN.DEL MUSCULO ELEVA",
     "descripcionOriginal": "REPARACION DE BLEFAROPTOSIS POR OTRAS TECN.DEL MUSCULO ELEVA",
     "sinonimos": [],
@@ -4357,7 +4357,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd72"
     },
-    "cieId": "8.35",
+    "cieId": "08.35",
     "descripcion": "REPARACION DE BLEFAROPTOSIS POR OTRA TECNICA TARSIANA",
     "descripcionOriginal": "REPARACION DE BLEFAROPTOSIS POR OTRA TECNICA TARSIANA",
     "sinonimos": [],
@@ -4370,7 +4370,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd73"
     },
-    "cieId": "8.36",
+    "cieId": "08.36",
     "descripcion": "REPARACION DE BLEFAROPTOSIS POR OTRAS TECNICAS",
     "descripcionOriginal": "REPARACION DE BLEFAROPTOSIS POR OTRAS TECNICAS",
     "sinonimos": [],
@@ -4383,7 +4383,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd74"
     },
-    "cieId": "8.37",
+    "cieId": "08.37",
     "descripcion": "REDUCCION DE CORRECION EXCESIVA DE PTOSIS",
     "descripcionOriginal": "REDUCCION DE CORRECION EXCESIVA DE PTOSIS",
     "sinonimos": [],
@@ -4396,7 +4396,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd75"
     },
-    "cieId": "8.38",
+    "cieId": "08.38",
     "descripcion": "CORRECCION DE RETRACCION DEL PARPADO",
     "descripcionOriginal": "CORRECCION DE RETRACCION DEL PARPADO",
     "sinonimos": [],
@@ -4409,7 +4409,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd76"
     },
-    "cieId": "8.4",
+    "cieId": "08.4",
     "descripcion": "REPARACION DE ENTROPION O ECTROPION",
     "descripcionOriginal": "REPARACION DE ENTROPION O ECTROPION",
     "sinonimos": [],
@@ -4422,7 +4422,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd77"
     },
-    "cieId": "8.41",
+    "cieId": "08.41",
     "descripcion": "REPARACION DE ENTROPION O ECTROPION POR TERMOCAUTERIZACION",
     "descripcionOriginal": "REPARACION DE ENTROPION O ECTROPION POR TERMOCAUTERIZACION",
     "sinonimos": [],
@@ -4435,7 +4435,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd78"
     },
-    "cieId": "8.42",
+    "cieId": "08.42",
     "descripcion": "REPARACION DE ENTROPION O ECTROPION POR TECNICA DE SUTURA",
     "descripcionOriginal": "REPARACION DE ENTROPION O ECTROPION POR TECNICA DE SUTURA",
     "sinonimos": [],
@@ -4448,7 +4448,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd79"
     },
-    "cieId": "8.43",
+    "cieId": "08.43",
     "descripcion": "REPARACION DE ENTROPION O ECTROPION CON RESECCION EN CUÑA",
     "descripcionOriginal": "REPARACION DE ENTROPION O ECTROPION CON RESECCION EN CUÑA",
     "sinonimos": [],
@@ -4461,7 +4461,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd7a"
     },
-    "cieId": "8.44",
+    "cieId": "08.44",
     "descripcion": "REPAR.DE ENTROPION O ECTROPION CON RECONSTRUCCION DE PARPADO",
     "descripcionOriginal": "REPAR.DE ENTROPION O ECTROPION CON RECONSTRUCCION DE PARPADO",
     "sinonimos": [],
@@ -4474,7 +4474,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd7b"
     },
-    "cieId": "8.49",
+    "cieId": "08.49",
     "descripcion": "OTRA REPARACION DE ENTROPION O ECTROPION",
     "descripcionOriginal": "OTRA REPARACION DE ENTROPION O ECTROPION",
     "sinonimos": [],
@@ -4487,7 +4487,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd7c"
     },
-    "cieId": "8.5",
+    "cieId": "08.5",
     "descripcion": "OTRO AJUSTE DE POSICION DE PARPADO",
     "descripcionOriginal": "OTRO AJUSTE DE POSICION DE PARPADO",
     "sinonimos": [],
@@ -4500,7 +4500,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd7d"
     },
-    "cieId": "8.51",
+    "cieId": "08.51",
     "descripcion": "CANTOTOMIA",
     "descripcionOriginal": "CANTOTOMIA",
     "sinonimos": [],
@@ -4513,7 +4513,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd7e"
     },
-    "cieId": "8.52",
+    "cieId": "08.52",
     "descripcion": "BLEFARORRAFIA",
     "descripcionOriginal": "BLEFARORRAFIA",
     "sinonimos": [],
@@ -4526,7 +4526,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd7f"
     },
-    "cieId": "8.59",
+    "cieId": "08.59",
     "descripcion": "OTRO AJUSTE DE POSICION DE PARPADO NCOC",
     "descripcionOriginal": "OTRO AJUSTE DE POSICION DE PARPADO NCOC",
     "sinonimos": [],
@@ -4539,7 +4539,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd80"
     },
-    "cieId": "8.6",
+    "cieId": "08.6",
     "descripcion": "RECONSTRUCCION DE PARPADO CON COLGAJO O INJERTO",
     "descripcionOriginal": "RECONSTRUCCION DE PARPADO CON COLGAJO O INJERTO",
     "sinonimos": [],
@@ -4552,7 +4552,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd81"
     },
-    "cieId": "8.61",
+    "cieId": "08.61",
     "descripcion": "RECONSTRUCCION DE PARPADO CON COLGAJO O INJERTO DE PIEL",
     "descripcionOriginal": "RECONSTRUCCION DE PARPADO CON COLGAJO O INJERTO DE PIEL",
     "sinonimos": [],
@@ -4565,7 +4565,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd82"
     },
-    "cieId": "8.62",
+    "cieId": "08.62",
     "descripcion": "RECONST. DE PARPADO CON COLGAJO O INJERTO DE MEMBRANA MUCOSA",
     "descripcionOriginal": "RECONST. DE PARPADO CON COLGAJO O INJERTO DE MEMBRANA MUCOSA",
     "sinonimos": [],
@@ -4578,7 +4578,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd83"
     },
-    "cieId": "8.63",
+    "cieId": "08.63",
     "descripcion": "RECOSTRUCCION DE PARPADO CON INJERTO DE FOLICULO PILOSO",
     "descripcionOriginal": "RECOSTRUCCION DE PARPADO CON INJERTO DE FOLICULO PILOSO",
     "sinonimos": [],
@@ -4591,7 +4591,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd84"
     },
-    "cieId": "8.64",
+    "cieId": "08.64",
     "descripcion": "RECONSTRUCCION DE PARPADO CON COLGAJO TARSOCONJUNTIVAL",
     "descripcionOriginal": "RECONSTRUCCION DE PARPADO CON COLGAJO TARSOCONJUNTIVAL",
     "sinonimos": [],
@@ -4604,7 +4604,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd85"
     },
-    "cieId": "8.69",
+    "cieId": "08.69",
     "descripcion": "OTRA RECONSTRUCCION DE PARPADO CON COLGAJOS O INJERTOS",
     "descripcionOriginal": "OTRA RECONSTRUCCION DE PARPADO CON COLGAJOS O INJERTOS",
     "sinonimos": [],
@@ -4617,7 +4617,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd86"
     },
-    "cieId": "8.7",
+    "cieId": "08.7",
     "descripcion": "OTRA RECONSTRUCCION DE PARPADO",
     "descripcionOriginal": "OTRA RECONSTRUCCION DE PARPADO",
     "sinonimos": [],
@@ -4630,7 +4630,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd87"
     },
-    "cieId": "8.7",
+    "cieId": "08.70",
     "descripcion": "RECONSTRUCCION DE PARPADO, NEOM",
     "descripcionOriginal": "RECONSTRUCCION DE PARPADO, NEOM",
     "sinonimos": [],
@@ -4643,7 +4643,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd88"
     },
-    "cieId": "8.71",
+    "cieId": "08.71",
     "descripcion": "REC.DE PARP.CON IMPLICACION DE MARGEN DE PARP.,GROSOR PARCIA",
     "descripcionOriginal": "REC.DE PARP.CON IMPLICACION DE MARGEN DE PARP.,GROSOR PARCIA",
     "sinonimos": [],
@@ -4656,7 +4656,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd89"
     },
-    "cieId": "8.72",
+    "cieId": "08.72",
     "descripcion": "OTRA RECONSTRUCCION DE PARPADO, GROSOR PARCIAL",
     "descripcionOriginal": "OTRA RECONSTRUCCION DE PARPADO, GROSOR PARCIAL",
     "sinonimos": [],
@@ -4669,7 +4669,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd8a"
     },
-    "cieId": "8.73",
+    "cieId": "08.73",
     "descripcion": "REC.DE PARP.CON IMPLICACION DE MARGEN DE PARP., GROSOR TOTAL",
     "descripcionOriginal": "REC.DE PARP.CON IMPLICACION DE MARGEN DE PARP., GROSOR TOTAL",
     "sinonimos": [],
@@ -4682,7 +4682,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd8b"
     },
-    "cieId": "8.74",
+    "cieId": "08.74",
     "descripcion": "OTRA RECONSTRUCCION DEL PARPADO, GROSOR TOTAL",
     "descripcionOriginal": "OTRA RECONSTRUCCION DEL PARPADO, GROSOR TOTAL",
     "sinonimos": [],
@@ -4695,7 +4695,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd8c"
     },
-    "cieId": "8.8",
+    "cieId": "08.8",
     "descripcion": "OTRA REPARACION DEL PARPADO",
     "descripcionOriginal": "OTRA REPARACION DEL PARPADO",
     "sinonimos": [],
@@ -4708,7 +4708,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd8d"
     },
-    "cieId": "8.81",
+    "cieId": "08.81",
     "descripcion": "REPARACION LINEAL DE LACERACION DE PARPADO O CEJA",
     "descripcionOriginal": "REPARACION LINEAL DE LACERACION DE PARPADO O CEJA",
     "sinonimos": [],
@@ -4721,7 +4721,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd8e"
     },
-    "cieId": "8.82",
+    "cieId": "08.82",
     "descripcion": "R.DE LACERACION CON IMPLICACI.DE MARGEN PARP.,GROSOR PARCIAL",
     "descripcionOriginal": "R.DE LACERACION CON IMPLICACI.DE MARGEN PARP.,GROSOR PARCIAL",
     "sinonimos": [],
@@ -4734,7 +4734,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd8f"
     },
-    "cieId": "8.83",
+    "cieId": "08.83",
     "descripcion": "OTRA REPARACION DE LACERACION DE PARPADO, GROSOR PARCIAL",
     "descripcionOriginal": "OTRA REPARACION DE LACERACION DE PARPADO, GROSOR PARCIAL",
     "sinonimos": [],
@@ -4747,7 +4747,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd90"
     },
-    "cieId": "8.84",
+    "cieId": "08.84",
     "descripcion": "R. DE LACERACION CON IMPLICACION DE MARGEN DE PARP.,GROSOR T",
     "descripcionOriginal": "R. DE LACERACION CON IMPLICACION DE MARGEN DE PARP.,GROSOR T",
     "sinonimos": [],
@@ -4760,7 +4760,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd91"
     },
-    "cieId": "8.85",
+    "cieId": "08.85",
     "descripcion": "OTRA REPARACION DE LACERACION DE PARPADO, GROSOR TOTAL",
     "descripcionOriginal": "OTRA REPARACION DE LACERACION DE PARPADO, GROSOR TOTAL",
     "sinonimos": [],
@@ -4773,7 +4773,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd92"
     },
-    "cieId": "8.86",
+    "cieId": "08.86",
     "descripcion": "RITIDECTOMIA DE PARPADO INFERIOR",
     "descripcionOriginal": "RITIDECTOMIA DE PARPADO INFERIOR",
     "sinonimos": [],
@@ -4786,7 +4786,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd93"
     },
-    "cieId": "8.87",
+    "cieId": "08.87",
     "descripcion": "RITIDECTOMIA DE PARPADO SUPERIOR",
     "descripcionOriginal": "RITIDECTOMIA DE PARPADO SUPERIOR",
     "sinonimos": [],
@@ -4799,7 +4799,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd94"
     },
-    "cieId": "8.89",
+    "cieId": "08.89",
     "descripcion": "OTRA REPARACION DE PARPADO",
     "descripcionOriginal": "OTRA REPARACION DE PARPADO",
     "sinonimos": [],
@@ -4812,7 +4812,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd95"
     },
-    "cieId": "8.9",
+    "cieId": "08.9",
     "descripcion": "OTRAS OPERACIONES SOBRE PARPADOS",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE PARPADOS",
     "sinonimos": [],
@@ -4825,7 +4825,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd96"
     },
-    "cieId": "8.91",
+    "cieId": "08.91",
     "descripcion": "EPILACION ELECTROQUIRURGICA DE PARPADO",
     "descripcionOriginal": "EPILACION ELECTROQUIRURGICA DE PARPADO",
     "sinonimos": [],
@@ -4838,7 +4838,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd97"
     },
-    "cieId": "8.92",
+    "cieId": "08.92",
     "descripcion": "EPILACION CRIOQUIRURGICA DE PARPADO",
     "descripcionOriginal": "EPILACION CRIOQUIRURGICA DE PARPADO",
     "sinonimos": [],
@@ -4851,7 +4851,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd98"
     },
-    "cieId": "8.93",
+    "cieId": "08.93",
     "descripcion": "OTRA EPILACION DE PARPADO",
     "descripcionOriginal": "OTRA EPILACION DE PARPADO",
     "sinonimos": [],
@@ -4864,7 +4864,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd99"
     },
-    "cieId": "8.99",
+    "cieId": "08.99",
     "descripcion": "OTRA OPERACION SOBRE PARPADO NCOC",
     "descripcionOriginal": "OTRA OPERACION SOBRE PARPADO NCOC",
     "sinonimos": [],
@@ -4877,7 +4877,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd9a"
     },
-    "cieId": "9.0",
+    "cieId": "09.0",
     "descripcion": "INCISION DE GLANDULA LAGRIMAL",
     "descripcionOriginal": "INCISION DE GLANDULA LAGRIMAL",
     "sinonimos": [],
@@ -4890,7 +4890,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd9b"
     },
-    "cieId": "9.1",
+    "cieId": "09.1",
     "descripcion": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE APARATO LAGRIMAL",
     "descripcionOriginal": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE APARATO LAGRIMAL",
     "sinonimos": [],
@@ -4903,7 +4903,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd9c"
     },
-    "cieId": "9.11",
+    "cieId": "09.11",
     "descripcion": "BIOPSIA DE GLANDULA LAGRIMAL",
     "descripcionOriginal": "BIOPSIA DE GLANDULA LAGRIMAL",
     "sinonimos": [],
@@ -4916,7 +4916,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd9d"
     },
-    "cieId": "9.12",
+    "cieId": "09.12",
     "descripcion": "BIOPSIA DE SACO LAGRIMAL",
     "descripcionOriginal": "BIOPSIA DE SACO LAGRIMAL",
     "sinonimos": [],
@@ -4929,7 +4929,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd9e"
     },
-    "cieId": "9.19",
+    "cieId": "09.19",
     "descripcion": "OTROS PROCEDIMIENTOS DIAGNOSTICOS SOBRE APARATO LAGRIMAL",
     "descripcionOriginal": "OTROS PROCEDIMIENTOS DIAGNOSTICOS SOBRE APARATO LAGRIMAL",
     "sinonimos": [],
@@ -4942,7 +4942,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dd9f"
     },
-    "cieId": "9.2",
+    "cieId": "09.2",
     "descripcion": "EXCISION DE LESION O TEJIDO DE GLANDULA LAGRIMAL",
     "descripcionOriginal": "EXCISION DE LESION O TEJIDO DE GLANDULA LAGRIMAL",
     "sinonimos": [],
@@ -4955,7 +4955,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda0"
     },
-    "cieId": "9.2",
+    "cieId": "09.20",
     "descripcion": "EXCISION DE GLANDULA LAGRIMAL, NEOM",
     "descripcionOriginal": "EXCISION DE GLANDULA LAGRIMAL, NEOM",
     "sinonimos": [],
@@ -4968,7 +4968,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda1"
     },
-    "cieId": "9.21",
+    "cieId": "09.21",
     "descripcion": "EXCISION DE LESION DE GLANDULA LAGRIMAL",
     "descripcionOriginal": "EXCISION DE LESION DE GLANDULA LAGRIMAL",
     "sinonimos": [],
@@ -4981,7 +4981,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda2"
     },
-    "cieId": "9.22",
+    "cieId": "09.22",
     "descripcion": "OTRA DACRIADENECTOMIA PARCIAL",
     "descripcionOriginal": "OTRA DACRIADENECTOMIA PARCIAL",
     "sinonimos": [],
@@ -4994,7 +4994,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda3"
     },
-    "cieId": "9.23",
+    "cieId": "09.23",
     "descripcion": "DACRIADENECTOMIA TOTAL",
     "descripcionOriginal": "DACRIADENECTOMIA TOTAL",
     "sinonimos": [],
@@ -5007,7 +5007,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda4"
     },
-    "cieId": "9.3",
+    "cieId": "09.3",
     "descripcion": "OTRAS OPERACIONES SOBRE GLANDULA LAGRIMAL",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE GLANDULA LAGRIMAL",
     "sinonimos": [],
@@ -5020,7 +5020,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda5"
     },
-    "cieId": "9.4",
+    "cieId": "09.4",
     "descripcion": "MANIPULACION DEL CONDUCTO LAGRIMAL",
     "descripcionOriginal": "MANIPULACION DEL CONDUCTO LAGRIMAL",
     "sinonimos": [],
@@ -5033,7 +5033,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda6"
     },
-    "cieId": "9.41",
+    "cieId": "09.41",
     "descripcion": "SONDAJE DEL PUNTO LAGRIMAL",
     "descripcionOriginal": "SONDAJE DEL PUNTO LAGRIMAL",
     "sinonimos": [],
@@ -5046,7 +5046,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda7"
     },
-    "cieId": "9.42",
+    "cieId": "09.42",
     "descripcion": "SONDAJE DE CONDUCTO NASOLAGRIMAL",
     "descripcionOriginal": "SONDAJE DE CONDUCTO NASOLAGRIMAL",
     "sinonimos": [],
@@ -5059,7 +5059,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda8"
     },
-    "cieId": "9.43",
+    "cieId": "09.43",
     "descripcion": "SONDAJE DE CONDUCTO NASOLAGRIMAL",
     "descripcionOriginal": "SONDAJE DE CONDUCTO NASOLAGRIMAL",
     "sinonimos": [],
@@ -5072,7 +5072,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dda9"
     },
-    "cieId": "9.44",
+    "cieId": "09.44",
     "descripcion": "INTUBACION DE CONDUCTO NASOLAGRIMAL",
     "descripcionOriginal": "INTUBACION DE CONDUCTO NASOLAGRIMAL",
     "sinonimos": [],
@@ -5085,7 +5085,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddaa"
     },
-    "cieId": "9.49",
+    "cieId": "09.49",
     "descripcion": "OTRA MANIPULACION DE CONDUCTO LAGRIMAL",
     "descripcionOriginal": "OTRA MANIPULACION DE CONDUCTO LAGRIMAL",
     "sinonimos": [],
@@ -5098,7 +5098,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddab"
     },
-    "cieId": "9.5",
+    "cieId": "09.5",
     "descripcion": "INCISION DE SACO Y CONDUCTOS LAGRIMALES",
     "descripcionOriginal": "INCISION DE SACO Y CONDUCTOS LAGRIMALES",
     "sinonimos": [],
@@ -5111,7 +5111,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddac"
     },
-    "cieId": "9.51",
+    "cieId": "09.51",
     "descripcion": "INCISION DE PUNTO LAGRIMAL",
     "descripcionOriginal": "INCISION DE PUNTO LAGRIMAL",
     "sinonimos": [],
@@ -5124,7 +5124,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddad"
     },
-    "cieId": "9.52",
+    "cieId": "09.52",
     "descripcion": "INCISION DE CANALICULOS LAGRIMALES",
     "descripcionOriginal": "INCISION DE CANALICULOS LAGRIMALES",
     "sinonimos": [],
@@ -5137,7 +5137,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddae"
     },
-    "cieId": "9.53",
+    "cieId": "09.53",
     "descripcion": "INCISION DE SACO LAGRIMAL",
     "descripcionOriginal": "INCISION DE SACO LAGRIMAL",
     "sinonimos": [],
@@ -5150,7 +5150,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddaf"
     },
-    "cieId": "9.59",
+    "cieId": "09.59",
     "descripcion": "OTRA INCISION DE CONDUCTOS LAGRIMALES",
     "descripcionOriginal": "OTRA INCISION DE CONDUCTOS LAGRIMALES",
     "sinonimos": [],
@@ -5163,7 +5163,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb0"
     },
-    "cieId": "9.6",
+    "cieId": "09.6",
     "descripcion": "EXCISION DE SACO Y CONDUCTO LAGRIMAL",
     "descripcionOriginal": "EXCISION DE SACO Y CONDUCTO LAGRIMAL",
     "sinonimos": [],
@@ -5176,7 +5176,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb1"
     },
-    "cieId": "9.7",
+    "cieId": "09.7",
     "descripcion": "REPARACION DE CANALICULO Y PUNTO",
     "descripcionOriginal": "REPARACION DE CANALICULO Y PUNTO",
     "sinonimos": [],
@@ -5189,7 +5189,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb2"
     },
-    "cieId": "9.71",
+    "cieId": "09.71",
     "descripcion": "CORRECCION DE PUNTO EVERTIDO",
     "descripcionOriginal": "CORRECCION DE PUNTO EVERTIDO",
     "sinonimos": [],
@@ -5202,7 +5202,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb3"
     },
-    "cieId": "9.72",
+    "cieId": "09.72",
     "descripcion": "OTRA REPARACION DE PUNTO",
     "descripcionOriginal": "OTRA REPARACION DE PUNTO",
     "sinonimos": [],
@@ -5215,7 +5215,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb4"
     },
-    "cieId": "9.73",
+    "cieId": "09.73",
     "descripcion": "REPARACION DE CANALICULOS",
     "descripcionOriginal": "REPARACION DE CANALICULOS",
     "sinonimos": [],
@@ -5228,7 +5228,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb5"
     },
-    "cieId": "9.8",
+    "cieId": "09.8",
     "descripcion": "FISTULIZACION DEL TRACTO LAGRIMAL HASTA LA CAVIDAD NASAL",
     "descripcionOriginal": "FISTULIZACION DEL TRACTO LAGRIMAL HASTA LA CAVIDAD NASAL",
     "sinonimos": [],
@@ -5241,7 +5241,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb6"
     },
-    "cieId": "9.81",
+    "cieId": "09.81",
     "descripcion": "DACRIOCISTORINOSTOMIA (DCR)",
     "descripcionOriginal": "DACRIOCISTORINOSTOMIA (DCR)",
     "sinonimos": [],
@@ -5254,7 +5254,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb7"
     },
-    "cieId": "9.82",
+    "cieId": "09.82",
     "descripcion": "CONJUNTIVOCISTORINOSTOMIA",
     "descripcionOriginal": "CONJUNTIVOCISTORINOSTOMIA",
     "sinonimos": [],
@@ -5267,7 +5267,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb8"
     },
-    "cieId": "9.83",
+    "cieId": "09.83",
     "descripcion": "CONJUNTIVORINOSTOMIA CON INSERCION DE TUBO O VARILLA",
     "descripcionOriginal": "CONJUNTIVORINOSTOMIA CON INSERCION DE TUBO O VARILLA",
     "sinonimos": [],
@@ -5280,7 +5280,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddb9"
     },
-    "cieId": "9.9",
+    "cieId": "09.9",
     "descripcion": "OTRAS OPERACIONES SOBRE EL APARATO LAGRIMAL",
     "descripcionOriginal": "OTRAS OPERACIONES SOBRE EL APARATO LAGRIMAL",
     "sinonimos": [],
@@ -5293,7 +5293,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddba"
     },
-    "cieId": "9.91",
+    "cieId": "09.91",
     "descripcion": "OBLITERACION DEL PUNTO LAGRIMAL",
     "descripcionOriginal": "OBLITERACION DEL PUNTO LAGRIMAL",
     "sinonimos": [],
@@ -5306,7 +5306,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddbb"
     },
-    "cieId": "9.99",
+    "cieId": "09.99",
     "descripcion": "OTRA OPERACION SOBRE APARATO LAGRIMAL NCOC",
     "descripcionOriginal": "OTRA OPERACION SOBRE APARATO LAGRIMAL NCOC",
     "sinonimos": [],
@@ -5852,7 +5852,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dde5"
     },
-    "cieId": "11.6",
+    "cieId": "11.60",
     "descripcion": "TRANSPLANTE CORNEAL, NEOM",
     "descripcionOriginal": "TRANSPLANTE CORNEAL, NEOM",
     "sinonimos": [],
@@ -6099,7 +6099,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ddf8"
     },
-    "cieId": "12.0",
+    "cieId": "12.00",
     "descripcion": "EXTRAC.DE CUERPO EXTR.INTRAOC.DEL SEGM.ANT.DEL OJO, N.E.O.M.",
     "descripcionOriginal": "EXTRAC.DE CUERPO EXTR.INTRAOC.DEL SEGM.ANT.DEL OJO, N.E.O.M.",
     "sinonimos": [],
@@ -6359,7 +6359,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814de0c"
     },
-    "cieId": "12.4",
+    "cieId": "12.40",
     "descripcion": "EXTIRPACION DE LESION DEL SEGMENTO ANTERIOR DEL OJO,N.E.O.M.",
     "descripcionOriginal": "EXTIRPACION DE LESION DEL SEGMENTO ANTERIOR DEL OJO,N.E.O.M.",
     "sinonimos": [],
@@ -6944,7 +6944,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814de39"
     },
-    "cieId": "13.0",
+    "cieId": "13.00",
     "descripcion": "EXTRACCION DE CUERPO EXTRAÑO DEL CRISTALINO, NEOM",
     "descripcionOriginal": "EXTRACCION DE CUERPO EXTRAÑO DEL CRISTALINO, NEOM",
     "sinonimos": [],
@@ -7217,7 +7217,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814de4e"
     },
-    "cieId": "13.7",
+    "cieId": "13.70",
     "descripcion": "INSERCION DE PSEUDOCRISTALINO, NEOM",
     "descripcionOriginal": "INSERCION DE PSEUDOCRISTALINO, NEOM",
     "sinonimos": [],
@@ -7282,7 +7282,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814de53"
     },
-    "cieId": "13.9",
+    "cieId": "13.90",
     "descripcion": "OPERACION SOBRE CRISTALINO, NO CLASIFICADA BAJO OTRO CONCEPTO",
     "descripcionOriginal": "OPERACION SOBRE CRISTALINO, NO CLASIFICADA BAJO OTRO CONCEPTO",
     "sinonimos": [],
@@ -7321,7 +7321,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814de56"
     },
-    "cieId": "14.0",
+    "cieId": "14.00",
     "descripcion": "EXTRAC.DE CUERPO EXTRAÑO DEL SEGMENTO POSTERIOR OJO,N.E.O.M.",
     "descripcionOriginal": "EXTRAC.DE CUERPO EXTRAÑO DEL SEGMENTO POSTERIOR OJO,N.E.O.M.",
     "sinonimos": [],
@@ -9026,7 +9026,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ded7"
     },
-    "cieId": "17.7",
+    "cieId": "17.70",
     "descripcion": "INFUSION INTRAVENOSA DE CLOFARABINA",
     "descripcionOriginal": "INFUSION INTRAVENOSA DE CLOFARABINA",
     "sinonimos": [],
@@ -10066,7 +10066,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814df27"
     },
-    "cieId": "21.0",
+    "cieId": "21.00",
     "descripcion": "CONTROL DE EPISTAXIS, NEOM",
     "descripcionOriginal": "CONTROL DE EPISTAXIS, NEOM",
     "sinonimos": [],
@@ -10261,7 +10261,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814df36"
     },
-    "cieId": "21.3",
+    "cieId": "21.30",
     "descripcion": "EXCISION O EXTIRPACION DE LESION DE NARIZ, NEOM",
     "descripcionOriginal": "EXCISION O EXTIRPACION DE LESION DE NARIZ, NEOM",
     "sinonimos": [],
@@ -10599,7 +10599,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814df50"
     },
-    "cieId": "22.0",
+    "cieId": "22.00",
     "descripcion": "ASPIRACION Y LAVADO DE SENO NASAL, NEOM",
     "descripcionOriginal": "ASPIRACION Y LAVADO DE SENO NASAL, NEOM",
     "sinonimos": [],
@@ -10794,7 +10794,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814df5f"
     },
-    "cieId": "22.5",
+    "cieId": "22.50",
     "descripcion": "SINUSOTOMIA, NEOM",
     "descripcionOriginal": "SINUSOTOMIA, NEOM",
     "sinonimos": [],
@@ -10859,7 +10859,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814df64"
     },
-    "cieId": "22.6",
+    "cieId": "22.60",
     "descripcion": "SINUSECTOMIA, NEOM",
     "descripcionOriginal": "SINUSECTOMIA, NEOM",
     "sinonimos": [],
@@ -11184,7 +11184,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814df7d"
     },
-    "cieId": "23.7",
+    "cieId": "23.70",
     "descripcion": "CONDUCTO RADICULAR, NEOM",
     "descripcionOriginal": "CONDUCTO RADICULAR, NEOM",
     "sinonimos": [],
@@ -11808,7 +11808,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dfad"
     },
-    "cieId": "26.3",
+    "cieId": "26.30",
     "descripcion": "SIALOADENECTOMIA, NEOM",
     "descripcionOriginal": "SIALOADENECTOMIA, NEOM",
     "sinonimos": [],
@@ -13576,7 +13576,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e035"
     },
-    "cieId": "32.2",
+    "cieId": "32.20",
     "descripcion": "ESCISION TORACOSCOPICA DE LESION O TEJIDO DE PULMON",
     "descripcionOriginal": "ESCISION TORACOSCOPICA DE LESION O TEJIDO DE PULMON",
     "sinonimos": [],
@@ -13706,7 +13706,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e03f"
     },
-    "cieId": "32.3",
+    "cieId": "32.30",
     "descripcion": "RESECCION SEGMENTARIA TORACOSCOPICA DE PULMON",
     "descripcionOriginal": "RESECCION SEGMENTARIA TORACOSCOPICA DE PULMON",
     "sinonimos": [],
@@ -13758,7 +13758,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e043"
     },
-    "cieId": "32.5",
+    "cieId": "32.50",
     "descripcion": "NEUMONECTOMIA  TORACOSCOPICA",
     "descripcionOriginal": "NEUMONECTOMIA  TORACOSCOPICA",
     "sinonimos": [],
@@ -13849,7 +13849,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e04a"
     },
-    "cieId": "33.2",
+    "cieId": "33.20",
     "descripcion": "BIOPSIA  TORACOSCOPICA DE PULMON",
     "descripcionOriginal": "BIOPSIA  TORACOSCOPICA DE PULMON",
     "sinonimos": [],
@@ -14148,7 +14148,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e061"
     },
-    "cieId": "33.5",
+    "cieId": "33.50",
     "descripcion": "TRASPLANTE DE PULMON NO ESPECIFICADO DE OTRA MANERA",
     "descripcionOriginal": "TRASPLANTE DE PULMON NO ESPECIFICADO DE OTRA MANERA",
     "sinonimos": [],
@@ -14489,7 +14489,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e07b"
     },
-    "cieId": "34.2",
+    "cieId": "34.20",
     "descripcion": "BIOPSIA TORACOSCOPICA PLEURAL",
     "descripcionOriginal": "BIOPSIA TORACOSCOPICA PLEURAL",
     "sinonimos": [],
@@ -14957,7 +14957,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e09f"
     },
-    "cieId": "35.0",
+    "cieId": "35.00",
     "descripcion": "VALVULOTOMIA CARDIACA CERRADA, VALVULA NO ESPECIFICADA",
     "descripcionOriginal": "VALVULOTOMIA CARDIACA CERRADA, VALVULA NO ESPECIFICADA",
     "sinonimos": [],
@@ -15100,7 +15100,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e0aa"
     },
-    "cieId": "35.1",
+    "cieId": "35.10",
     "descripcion": "VALVULOPLASTIA CARDIACA ABIERTA SIN SUSTITUCION,VALVULA NO ESP.",
     "descripcionOriginal": "VALVULOPLASTIA CARDIACA ABIERTA SIN SUSTITUCION,VALVULA NO ESP.",
     "sinonimos": [],
@@ -15178,7 +15178,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e0b0"
     },
-    "cieId": "35.2",
+    "cieId": "35.20",
     "descripcion": "SUSTITUCION DE VALVULA CARDIACA NO ESPECIFICADA ABIERTA Y DE OTRO TIPO",
     "descripcionOriginal": "SUSTITUCION DE VALVULA CARDIACA NO ESPECIFICADA ABIERTA Y DE OTRO TIPO",
     "sinonimos": [],
@@ -15438,7 +15438,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e0c4"
     },
-    "cieId": "35.5",
+    "cieId": "35.50",
     "descripcion": "REPARACION DE DEFECTO N. E. DE TABIQUES CARDIACOS CON PROTESIS",
     "descripcionOriginal": "REPARACION DE DEFECTO N. E. DE TABIQUES CARDIACOS CON PROTESIS",
     "sinonimos": [],
@@ -15529,7 +15529,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e0cb"
     },
-    "cieId": "35.6",
+    "cieId": "35.60",
     "descripcion": "REP. DE DEFECTO DE TABIQUE CARDIACO N. ESP. CON INJERTO DE TEJ.",
     "descripcionOriginal": "REP. DE DEFECTO DE TABIQUE CARDIACO N. ESP. CON INJERTO DE TEJ.",
     "sinonimos": [],
@@ -15594,7 +15594,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e0d0"
     },
-    "cieId": "35.7",
+    "cieId": "35.70",
     "descripcion": "OTRA REPARACION NO ESPECIFICADA DEFECTOS DE TABIQUES CARDIACOS",
     "descripcionOriginal": "OTRA REPARACION NO ESPECIFICADA DEFECTOS DE TABIQUES CARDIACOS",
     "sinonimos": [],
@@ -15971,7 +15971,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e0ed"
     },
-    "cieId": "36.1",
+    "cieId": "36.10",
     "descripcion": "ANASTOMOSIS AORTOCORONARIA PARA REVASCULARIZACION CARDIACA",
     "descripcionOriginal": "ANASTOMOSIS AORTOCORONARIA PARA REVASCULARIZACION CARDIACA",
     "sinonimos": [],
@@ -16244,7 +16244,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e102"
     },
-    "cieId": "37.1",
+    "cieId": "37.10",
     "descripcion": "INCISION DE CORAZON, NEOM",
     "descripcionOriginal": "INCISION DE CORAZON, NEOM",
     "sinonimos": [],
@@ -16296,7 +16296,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e106"
     },
-    "cieId": "37.2",
+    "cieId": "37.20",
     "descripcion": "ESTIMULACION ELECTRICA PROGRAMADA NO INVASIVA [EEPNI]",
     "descripcionOriginal": "ESTIMULACION ELECTRICA PROGRAMADA NO INVASIVA [EEPNI]",
     "sinonimos": [],
@@ -16660,7 +16660,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e122"
     },
-    "cieId": "37.6",
+    "cieId": "37.60",
     "descripcion": "IMPLANTACION O INSERCION DE SISTEMA DE ASISTENCIA CARDIACA EXTERNO BIVENTRICULAR",
     "descripcionOriginal": "IMPLANTACION O INSERCION DE SISTEMA DE ASISTENCIA CARDIACA EXTERNO BIVENTRICULAR",
     "sinonimos": [],
@@ -16790,7 +16790,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e12c"
     },
-    "cieId": "37.7",
+    "cieId": "37.70",
     "descripcion": "INSERCION INICIAL DE DERIVACIONES ELECTRODOS, NEOM",
     "descripcionOriginal": "INSERCION INICIAL DE DERIVACIONES ELECTRODOS, NEOM",
     "sinonimos": [],
@@ -16933,7 +16933,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e137"
     },
-    "cieId": "37.8",
+    "cieId": "37.80",
     "descripcion": "INSERCION MARCAPASOS PERMANENTE,INICIAL O SUST.SIN ESP.APARA",
     "descripcionOriginal": "INSERCION MARCAPASOS PERMANENTE,INICIAL O SUST.SIN ESP.APARA",
     "sinonimos": [],
@@ -17050,7 +17050,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e140"
     },
-    "cieId": "37.9",
+    "cieId": "37.90",
     "descripcion": "INSERCION DE DISPOSITIVO ACCESORIO AURICULAR IZQUIERDO",
     "descripcionOriginal": "INSERCION DE DISPOSITIVO ACCESORIO AURICULAR IZQUIERDO",
     "sinonimos": [],
@@ -17193,7 +17193,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e14b"
     },
-    "cieId": "38.0",
+    "cieId": "38.00",
     "descripcion": "INCISION, ESCISION Y OCLUSION DE VASOS SITIO NO ESPECIFICADO",
     "descripcionOriginal": "INCISION, ESCISION Y OCLUSION DE VASOS SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -17336,7 +17336,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e156"
     },
-    "cieId": "38.1",
+    "cieId": "38.10",
     "descripcion": "ENDARTERECTOMIA DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "ENDARTERECTOMIA DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -17557,7 +17557,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e167"
     },
-    "cieId": "38.3",
+    "cieId": "38.30",
     "descripcion": "RESECCION CON ANASTOMOSIS DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "RESECCION CON ANASTOMOSIS DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -17700,7 +17700,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e172"
     },
-    "cieId": "38.4",
+    "cieId": "38.40",
     "descripcion": "RESECCION DE VASO CON SUSTITUCION DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "RESECCION DE VASO CON SUSTITUCION DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -17843,7 +17843,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e17d"
     },
-    "cieId": "38.5",
+    "cieId": "38.50",
     "descripcion": "LIGADURA Y EXTIRPACION DE V. VARICOSASE SITIO NO ESPECIFICAD",
     "descripcionOriginal": "LIGADURA Y EXTIRPACION DE V. VARICOSASE SITIO NO ESPECIFICAD",
     "sinonimos": [],
@@ -17947,7 +17947,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e185"
     },
-    "cieId": "38.6",
+    "cieId": "38.60",
     "descripcion": "OTRA EXCISION DE VASOS DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OTRA EXCISION DE VASOS DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -18103,7 +18103,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e191"
     },
-    "cieId": "38.8",
+    "cieId": "38.80",
     "descripcion": "OTRA OCLUSION QUIRURGICA DE VASOS SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OTRA OCLUSION QUIRURGICA DE VASOS SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -18519,7 +18519,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e1b1"
     },
-    "cieId": "39.3",
+    "cieId": "39.30",
     "descripcion": "SUTURA DE VASO SANGUINEO NO ESPECIFICADO",
     "descripcionOriginal": "SUTURA DE VASO SANGUINEO NO ESPECIFICADO",
     "sinonimos": [],
@@ -18636,7 +18636,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e1ba"
     },
-    "cieId": "39.5",
+    "cieId": "39.50",
     "descripcion": "ANGIOPLASTIA DE OTRO(S) VASO(S) NO CORONARIO(S)",
     "descripcionOriginal": "ANGIOPLASTIA DE OTRO(S) VASO(S) NO CORONARIO(S)",
     "sinonimos": [],
@@ -19130,7 +19130,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e1e0"
     },
-    "cieId": "39.9",
+    "cieId": "39.90",
     "descripcion": "INSERCION DE STENT(S) NO LIBERADOR(ES) DE FARMACOS EN VASOS PERIFERICOS (NO CORONARIOS)",
     "descripcionOriginal": "INSERCION DE STENT(S) NO LIBERADOR(ES) DE FARMACOS EN VASOS PERIFERICOS (NO CORONARIOS)",
     "sinonimos": [],
@@ -19392,7 +19392,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e1f4"
     },
-    "cieId": "40.4",
+    "cieId": "40.40",
     "descripcion": "DISECCION RADICAL DE CUELLO, NEOM",
     "descripcionOriginal": "DISECCION RADICAL DE CUELLO, NEOM",
     "sinonimos": [],
@@ -19444,7 +19444,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e1f8"
     },
-    "cieId": "40.5",
+    "cieId": "40.50",
     "descripcion": "EXCISION RADICAL DE GANGLIOS LINFATICOS,  NEOM",
     "descripcionOriginal": "EXCISION RADICAL DE GANGLIOS LINFATICOS,  NEOM",
     "sinonimos": [],
@@ -19613,7 +19613,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e205"
     },
-    "cieId": "41.0",
+    "cieId": "41.00",
     "descripcion": "TRASPLANTE DE MEDULA OSEA, NEOM",
     "descripcionOriginal": "TRASPLANTE DE MEDULA OSEA, NEOM",
     "sinonimos": [],
@@ -20899,7 +20899,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e25d"
     },
-    "cieId": "44.7",
+    "cieId": "44.70",
     "descripcion": "FUNDUPLICATURA NISSEN LAPAROSCÓPICA",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -21219,7 +21219,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e275"
     },
-    "cieId": "45.3",
+    "cieId": "45.30",
     "descripcion": "RESECCION ENDOSCOPICA DUODENAL",
     "descripcionOriginal": "EXCISION O DESTRUCCION ENDOSCOPICA DE LESION DE DUODENO",
     "sinonimos": [],
@@ -21434,7 +21434,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e284"
     },
-    "cieId": "45.9",
+    "cieId": "45.90",
     "descripcion": "ANASTOMOSIS INTESTINAL",
     "descripcionOriginal": "ANASTOMOSIS INTESTINAL, NEOM",
     "sinonimos": [],
@@ -21517,7 +21517,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e289"
     },
-    "cieId": "46.1",
+    "cieId": "46.10",
     "descripcion": "COLOSTOMIA TERMINAL",
     "descripcionOriginal": "COLOSTOMIA, NEOM",
     "sinonimos": [],
@@ -21550,7 +21550,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e28b"
     },
-    "cieId": "46.2",
+    "cieId": "46.20",
     "descripcion": "ILEOSTOMIA TERMINAL",
     "descripcionOriginal": "ILEOSTOMIA, NEOM",
     "sinonimos": [],
@@ -22929,7 +22929,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e2e8"
     },
-    "cieId": "51.1",
+    "cieId": "51.10",
     "descripcion": "COLANGIO PANCREATOGRAFIA RETROGRADA ENDOSCOPICA (CPRE)",
     "descripcionOriginal": "COLANGIO PANCREATOGRAFIA RETROGRADA ENDOSCOPICA (CPRE)",
     "sinonimos": [],
@@ -23630,7 +23630,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e316"
     },
-    "cieId": "53.0",
+    "cieId": "53.00",
     "descripcion": "HERNIOPLASTIA INGUINAL ABIERTA (LICHTENSTEIN)",
     "descripcionOriginal": "REPARACION UNILATERAL DE HERNIA INGUINAL, NEOM",
     "sinonimos": [
@@ -23647,7 +23647,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e317"
     },
-    "cieId": "53.1",
+    "cieId": "53.10",
     "descripcion": "HERNIOPLASTIA INGUINAL BILATERAL ABIERTA (LICHTENSTEIN)",
     "descripcionOriginal": "REPARACION BILATERAL DE HERNIA INGUINAL, N. E . O. M.",
     "sinonimos": [
@@ -25094,7 +25094,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e37f"
     },
-    "cieId": "56.4",
+    "cieId": "56.40",
     "descripcion": "URETERECTOMIA NEOM",
     "descripcionOriginal": "URETERECTOMIA NEOM",
     "sinonimos": [],
@@ -26459,7 +26459,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e3e8"
     },
-    "cieId": "59.0",
+    "cieId": "59.00",
     "descripcion": "DISECCION RETROPERITONEAL N. E .O .M.",
     "descripcionOriginal": "DISECCION RETROPERITONEAL N. E .O .M.",
     "sinonimos": [],
@@ -27902,7 +27902,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e457"
     },
-    "cieId": "63.7",
+    "cieId": "63.70",
     "descripcion": "PROCEDIMIENTO DE ESTERILIZACION MASCULINA, NEOM",
     "descripcionOriginal": "PROCEDIMIENTO DE ESTERILIZACION MASCULINA, NEOM",
     "sinonimos": [],
@@ -30931,7 +30931,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e540"
     },
-    "cieId": "70.5",
+    "cieId": "70.50",
     "descripcion": "REPARACION DE CISTOCELE Y RECTOCELE",
     "descripcionOriginal": "REPARACION DE CISTOCELE Y RECTOCELE",
     "sinonimos": [],
@@ -32413,7 +32413,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e5b2"
     },
-    "cieId": "75.5",
+    "cieId": "75.50",
     "descripcion": "REPARACION DE DESGARRO OBSTETRICO ACTUAL DE UTERO, N. E. O.M",
     "descripcionOriginal": "REPARACION DE DESGARRO OBSTETRICO ACTUAL DE UTERO, N. E. O.M",
     "sinonimos": [],
@@ -32985,7 +32985,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e5de"
     },
-    "cieId": "76.7",
+    "cieId": "76.70",
     "descripcion": "REDUCCION DE FRACTURA FACIAL, NEOM",
     "descripcionOriginal": "REDUCCION DE FRACTURA FACIAL, NEOM",
     "sinonimos": [],
@@ -33245,7 +33245,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e5f2"
     },
-    "cieId": "77.0",
+    "cieId": "77.00",
     "descripcion": "SECUESTRECTOMIA SITIO NO ESPECIFICADO",
     "descripcionOriginal": "SECUESTRECTOMIA SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -33388,7 +33388,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e5fd"
     },
-    "cieId": "77.1",
+    "cieId": "77.10",
     "descripcion": "OTRA INCISION DE HUESO SIN DIVISION SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OTRA INCISION DE HUESO SIN DIVISION SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -33531,7 +33531,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e608"
     },
-    "cieId": "77.2",
+    "cieId": "77.20",
     "descripcion": "OSTEOTOMIA EN CUÑA DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OSTEOTOMIA EN CUÑA DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -33674,7 +33674,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e613"
     },
-    "cieId": "77.3",
+    "cieId": "77.30",
     "descripcion": "OSTEOARTROTOMIA SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OSTEOARTROTOMIA SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -33817,7 +33817,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e61e"
     },
-    "cieId": "77.4",
+    "cieId": "77.40",
     "descripcion": "BIOPSIA DE HUESO SITIO NO ESPECIFICADO",
     "descripcionOriginal": "BIOPSIA DE HUESO SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -34077,7 +34077,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e632"
     },
-    "cieId": "77.6",
+    "cieId": "77.60",
     "descripcion": "ESCISION LOCAL DE LESION O TEJ.HUESO SITIO NO ESPECIFICADO",
     "descripcionOriginal": "ESCISION LOCAL DE LESION O TEJ.HUESO SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -34220,7 +34220,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e63d"
     },
-    "cieId": "77.7",
+    "cieId": "77.70",
     "descripcion": "ESCISION DE HUESO PARA INJERTO SITIO NO ESPECIFICADO",
     "descripcionOriginal": "ESCISION DE HUESO PARA INJERTO SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -34363,7 +34363,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e648"
     },
-    "cieId": "77.8",
+    "cieId": "77.80",
     "descripcion": "OTRA OSTECTOMIA PARCIAL SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OTRA OSTECTOMIA PARCIAL SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -34506,7 +34506,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e653"
     },
-    "cieId": "77.9",
+    "cieId": "77.90",
     "descripcion": "OSTECTOMIA TOTAL DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OSTECTOMIA TOTAL DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -34649,7 +34649,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e65e"
     },
-    "cieId": "78.0",
+    "cieId": "78.00",
     "descripcion": "INJERTO DE HUESO EN SITIO NO ESPECIFICA",
     "descripcionOriginal": "INJERTO DE HUESO EN SITIO NO ESPECIFICA",
     "sinonimos": [],
@@ -34792,7 +34792,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e669"
     },
-    "cieId": "78.1",
+    "cieId": "78.10",
     "descripcion": "APLICACION DE DISPOSITIVO EXTERNO SITIO NO ESPECIFICADO",
     "descripcionOriginal": "APLICACION DE DISPOSITIVO EXTERNO SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -34935,7 +34935,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e674"
     },
-    "cieId": "78.2",
+    "cieId": "78.20",
     "descripcion": "PROCED.DE ACORTAMIENTO DE EXTREMIDADES SITIO NO ESPECIFICADO",
     "descripcionOriginal": "PROCED.DE ACORTAMIENTO DE EXTREMIDADES SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -35052,7 +35052,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e67d"
     },
-    "cieId": "78.3",
+    "cieId": "78.30",
     "descripcion": "PROCED.ALAR. DE HUESO DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "PROCED.ALAR. DE HUESO DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -35169,7 +35169,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e686"
     },
-    "cieId": "78.4",
+    "cieId": "78.40",
     "descripcion": "PLASTA SOBRE HUESO SITIO NO ESPECIFICADO",
     "descripcionOriginal": "PLASTA SOBRE HUESO SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -35312,7 +35312,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e691"
     },
-    "cieId": "78.5",
+    "cieId": "78.50",
     "descripcion": "FIJ. INT. DE HUESO SIN REDUCC. DE FRACT.SITIO NO ESPECIFICAD",
     "descripcionOriginal": "FIJ. INT. DE HUESO SIN REDUCC. DE FRACT.SITIO NO ESPECIFICAD",
     "sinonimos": [],
@@ -35455,7 +35455,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e69c"
     },
-    "cieId": "78.6",
+    "cieId": "78.60",
     "descripcion": "EXTRA.DISP.INT. SITIO NO ESPECIFICADO",
     "descripcionOriginal": "EXTRA.DISP.INT. SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -35598,7 +35598,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6a7"
     },
-    "cieId": "78.7",
+    "cieId": "78.70",
     "descripcion": "OSTEOCLASIA DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OSTEOCLASIA DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -35741,7 +35741,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6b2"
     },
-    "cieId": "78.8",
+    "cieId": "78.80",
     "descripcion": "PROC.DIAG.SOBRE HUESO NCOC SITIO NO ESPECIFICADO",
     "descripcionOriginal": "PROC.DIAG.SOBRE HUESO NCOC SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -35884,7 +35884,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6bd"
     },
-    "cieId": "78.9",
+    "cieId": "78.90",
     "descripcion": "INSERCION DE ESTIMULADOR DEL CREC. OSEO SITIO NO ESPECIFICAD",
     "descripcionOriginal": "INSERCION DE ESTIMULADOR DEL CREC. OSEO SITIO NO ESPECIFICAD",
     "sinonimos": [],
@@ -36027,7 +36027,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6c8"
     },
-    "cieId": "79.0",
+    "cieId": "79.00",
     "descripcion": "RED. CERRADA DE FRACT. SIN FIJ.INT.SITIO NO ESPECIFICADO",
     "descripcionOriginal": "RED. CERRADA DE FRACT. SIN FIJ.INT.SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -36170,7 +36170,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6d3"
     },
-    "cieId": "79.1",
+    "cieId": "79.10",
     "descripcion": "RED. CERRADA DE FRACT. CON FIJ.INT. SITIO NO ESPECIFICADO",
     "descripcionOriginal": "RED. CERRADA DE FRACT. CON FIJ.INT. SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -36313,7 +36313,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6de"
     },
-    "cieId": "79.2",
+    "cieId": "79.20",
     "descripcion": "RED. ABIERTA DE FRACT. SIN FIJ.INT. SITIO NO ESPECIFICADO",
     "descripcionOriginal": "RED. ABIERTA DE FRACT. SIN FIJ.INT. SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -36456,7 +36456,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6e9"
     },
-    "cieId": "79.3",
+    "cieId": "79.30",
     "descripcion": "RED. ABIERTA DE FRACT. CON FIJ.INT SITIO NO ESPECIFICADO",
     "descripcionOriginal": "RED. ABIERTA DE FRACT. CON FIJ.INT SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -36599,7 +36599,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6f4"
     },
-    "cieId": "79.4",
+    "cieId": "79.40",
     "descripcion": "RED. CERRADA PARA EPIFISIOLISIS SITIO NO ESPECIFICADO",
     "descripcionOriginal": "RED. CERRADA PARA EPIFISIOLISIS SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -36690,7 +36690,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e6fb"
     },
-    "cieId": "79.5",
+    "cieId": "79.50",
     "descripcion": "RED. ABIERTA DE EPIFISIOLISIS SITIO NO ESPECIFICADO",
     "descripcionOriginal": "RED. ABIERTA DE EPIFISIOLISIS SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -36781,7 +36781,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e702"
     },
-    "cieId": "79.6",
+    "cieId": "79.60",
     "descripcion": "DESBRIDAMIENTO FRACT. ABIERTA EN SITIO NO ESPECIFICADO",
     "descripcionOriginal": "DESBRIDAMIENTO FRACT. ABIERTA EN SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -36924,7 +36924,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e70d"
     },
-    "cieId": "79.7",
+    "cieId": "79.70",
     "descripcion": "REDUCCION CERRADA DE LUXACION DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "REDUCCION CERRADA DE LUXACION DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -37067,7 +37067,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e718"
     },
-    "cieId": "79.8",
+    "cieId": "79.80",
     "descripcion": "REDUCCION ABIERTA DE LUXACION DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "REDUCCION ABIERTA DE LUXACION DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -37210,7 +37210,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e723"
     },
-    "cieId": "79.9",
+    "cieId": "79.90",
     "descripcion": "OPERACION NO ESPECIF. SOBRE HUESO SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OPERACION NO ESPECIF. SOBRE HUESO SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -37353,7 +37353,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e72e"
     },
-    "cieId": "80.0",
+    "cieId": "80.00",
     "descripcion": "ARTROTOMIA PARA RETIRADA DE PROTESIS SIN SUSTITUCION, SITIO NO ESPECIFICADO",
     "descripcionOriginal": "ARTROTOMIA PARA RETIRADA DE PROTESIS SIN SUSTITUCION, SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -37496,7 +37496,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e739"
     },
-    "cieId": "80.1",
+    "cieId": "80.10",
     "descripcion": "OTRA ARTROTOMIA DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OTRA ARTROTOMIA DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -37639,7 +37639,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e744"
     },
-    "cieId": "80.2",
+    "cieId": "80.20",
     "descripcion": "ARTROSCOPIA DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "ARTROSCOPIA DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -37782,7 +37782,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e74f"
     },
-    "cieId": "80.3",
+    "cieId": "80.30",
     "descripcion": "BIOPSIA ARTICULAR DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "BIOPSIA ARTICULAR DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -37925,7 +37925,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e75a"
     },
-    "cieId": "80.4",
+    "cieId": "80.40",
     "descripcion": "DIV.CAPS.LIG.O CART. DE ARTICULACION DE SITIO NO ESPECIFICAD",
     "descripcionOriginal": "DIV.CAPS.LIG.O CART. DE ARTICULACION DE SITIO NO ESPECIFICAD",
     "sinonimos": [],
@@ -38068,7 +38068,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e765"
     },
-    "cieId": "80.5",
+    "cieId": "80.50",
     "descripcion": "ESCISION O DESTRUCCION DE DISCO INTERVERTEBRAL, NO ESPECIFIC",
     "descripcionOriginal": "ESCISION O DESTRUCCION DE DISCO INTERVERTEBRAL, NO ESPECIFIC",
     "sinonimos": [],
@@ -38172,7 +38172,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e76d"
     },
-    "cieId": "80.7",
+    "cieId": "80.70",
     "descripcion": "SINOVECTOMIA DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "SINOVECTOMIA DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -38315,7 +38315,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e778"
     },
-    "cieId": "80.8",
+    "cieId": "80.80",
     "descripcion": "EXCISION LOCAL O DESTRUC. LESION ART.SITIO NO ESPECIFICADO",
     "descripcionOriginal": "EXCISION LOCAL O DESTRUC. LESION ART.SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -38458,7 +38458,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e783"
     },
-    "cieId": "80.9",
+    "cieId": "80.90",
     "descripcion": "OTRA ESCISION DE LA ARTICULACION DE SITIO NO ESPECIFICADO",
     "descripcionOriginal": "OTRA ESCISION DE LA ARTICULACION DE SITIO NO ESPECIFICADO",
     "sinonimos": [],
@@ -38601,7 +38601,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e78e"
     },
-    "cieId": "81.0",
+    "cieId": "81.00",
     "descripcion": "ARTRODESIS VERTEBRAL, NEOM",
     "descripcionOriginal": "ARTRODESIS VERTEBRAL, NEOM",
     "sinonimos": [],
@@ -38861,7 +38861,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e7a2"
     },
-    "cieId": "81.2",
+    "cieId": "81.20",
     "descripcion": "ARTRODESIS DE ARTICULACION NO ESPECIFICADA",
     "descripcionOriginal": "ARTRODESIS DE ARTICULACION NO ESPECIFICADA",
     "sinonimos": [],
@@ -39004,7 +39004,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e7ad"
     },
-    "cieId": "81.3",
+    "cieId": "81.30",
     "descripcion": "REFUSION VERTEBRAL, NO ESPECIFICADA DE OTRA MANERA",
     "descripcionOriginal": "REFUSION VERTEBRAL, NO ESPECIFICADA DE OTRA MANERA",
     "sinonimos": [],
@@ -39147,7 +39147,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e7b8"
     },
-    "cieId": "81.4",
+    "cieId": "81.40",
     "descripcion": "REPARACION DE CADERA, NO CLASIFICADA DE OTRA MANERA",
     "descripcionOriginal": "REPARACION DE CADERA, NO CLASIFICADA DE OTRA MANERA",
     "sinonimos": [],
@@ -39550,7 +39550,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e7d7"
     },
-    "cieId": "81.8",
+    "cieId": "81.80",
     "descripcion": "OTRA SUSTITUCION TOTAL DE HOMBRO",
     "descripcionOriginal": "OTRA SUSTITUCION TOTAL DE HOMBRO",
     "sinonimos": [],
@@ -41383,7 +41383,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e864"
     },
-    "cieId": "84.0",
+    "cieId": "84.00",
     "descripcion": "AMPUTACION DE MIEMBRO SUPERIOR, NEOM",
     "descripcionOriginal": "AMPUTACION DE MIEMBRO SUPERIOR, NEOM",
     "sinonimos": [],
@@ -41526,7 +41526,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e86f"
     },
-    "cieId": "84.1",
+    "cieId": "84.10",
     "descripcion": "AMPUTACION DE MIEMBRO INFERIOR, NEOM",
     "descripcionOriginal": "AMPUTACION DE MIEMBRO INFERIOR, NEOM",
     "sinonimos": [],
@@ -41812,7 +41812,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e885"
     },
-    "cieId": "84.4",
+    "cieId": "84.40",
     "descripcion": "IMPLANTAC.O COLOCAC.DE DISPOSITIVO DE MIEMBRO PROTESICO,N.E.",
     "descripcionOriginal": "IMPLANTAC.O COLOCAC.DE DISPOSITIVO DE MIEMBRO PROTESICO,N.E.",
     "sinonimos": [],
@@ -42059,7 +42059,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e898"
     },
-    "cieId": "84.6",
+    "cieId": "84.60",
     "descripcion": "INSERCION DE PROTESIS DE DISCO INTERVERTEBRAL, NO ESPECIFICADO DE OTRA MANERA",
     "descripcionOriginal": "INSERCION DE PROTESIS DE DISCO INTERVERTEBRAL, NO ESPECIFICADO DE OTRA MANERA",
     "sinonimos": [],
@@ -42254,7 +42254,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e8a7"
     },
-    "cieId": "84.8",
+    "cieId": "84.80",
     "descripcion": "INSERCION O SUSTITUCION DE DISPOSITIVO(S)  INTERESPINOSO",
     "descripcionOriginal": "INSERCION O SUSTITUCION DE DISPOSITIVO(S)  INTERESPINOSO",
     "sinonimos": [],
@@ -42654,7 +42654,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e8c2"
     },
-    "cieId": "85.5",
+    "cieId": "85.50",
     "descripcion": "MAMOPLASTIA DE AUMENTO",
     "descripcionOriginal": "MAMOPLASTIA DE AUMENTO, NEOM",
     "sinonimos": [],
@@ -43229,7 +43229,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e8ea"
     },
-    "cieId": "86.6",
+    "cieId": "86.60",
     "descripcion": "INJERTO CUTANEO LIBRE, NEOM",
     "descripcionOriginal": "INJERTO CUTANEO LIBRE, NEOM",
     "sinonimos": [],
@@ -43359,7 +43359,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e8f4"
     },
-    "cieId": "86.7",
+    "cieId": "86.70",
     "descripcion": "INJERTO DE PEDICULO O COLGAJO, NEOM",
     "descripcionOriginal": "INJERTO DE PEDICULO O COLGAJO, NEOM",
     "sinonimos": [],
@@ -43567,7 +43567,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e904"
     },
-    "cieId": "86.9",
+    "cieId": "86.90",
     "descripcion": "EXTRACION DE GRASA PARA INJERTO O DEPOSITO",
     "descripcionOriginal": "EXTRACION DE GRASA PARA INJERTO O DEPOSITO",
     "sinonimos": [],
@@ -45166,7 +45166,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e97f"
     },
-    "cieId": "88.4",
+    "cieId": "88.40",
     "descripcion": "ARTERIOGRAFIA CON EMPLEO DE MATERIAL DE CONTRASTE,SITIO NO E",
     "descripcionOriginal": "ARTERIOGRAFIA CON EMPLEO DE MATERIAL DE CONTRASTE,SITIO NO E",
     "sinonimos": [],
@@ -45309,7 +45309,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e98a"
     },
-    "cieId": "88.5",
+    "cieId": "88.50",
     "descripcion": "ANGIOCARDIOGRAFIA, NEOM",
     "descripcionOriginal": "ANGIOCARDIOGRAFIA, NEOM",
     "sinonimos": [],
@@ -45452,7 +45452,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e995"
     },
-    "cieId": "88.6",
+    "cieId": "88.60",
     "descripcion": "FLEBOGRAFIA CON EMPLEO DE MATERIAL DE CONTRASTE,SITIO NO ESP",
     "descripcionOriginal": "FLEBOGRAFIA CON EMPLEO DE MATERIAL DE CONTRASTE,SITIO NO ESP",
     "sinonimos": [],
@@ -45816,7 +45816,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e9b1"
     },
-    "cieId": "88.9",
+    "cieId": "88.90",
     "descripcion": "DIAGNOSTICO POR IMAGENES, NO CLASIFICADO DE OTRO MODO",
     "descripcionOriginal": "DIAGNOSTICO POR IMAGENES, NO CLASIFICADO DE OTRO MODO",
     "sinonimos": [],
@@ -46076,7 +46076,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e9c5"
     },
-    "cieId": "89.1",
+    "cieId": "89.10",
     "descripcion": "PRUEBA DEL AMOBARBITAL INTRACAROTIDO",
     "descripcionOriginal": "PRUEBA DEL AMOBARBITAL INTRACAROTIDO",
     "sinonimos": [],
@@ -46583,7 +46583,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e9ec"
     },
-    "cieId": "89.5",
+    "cieId": "89.50",
     "descripcion": "MONITORIZACION CARDIACA AMBULATORIA",
     "descripcionOriginal": "MONITORIZACION CARDIACA AMBULATORIA",
     "sinonimos": [],
@@ -46726,7 +46726,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814e9f7"
     },
-    "cieId": "89.6",
+    "cieId": "89.60",
     "descripcion": "GASOMETRIA  INTRAARTERIAL CONTINUA",
     "descripcionOriginal": "GASOMETRIA  INTRAARTERIAL CONTINUA",
     "sinonimos": [],
@@ -49196,7 +49196,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814eab5"
     },
-    "cieId": "92.2",
+    "cieId": "92.20",
     "descripcion": "INFUSION DE RADIOISOTOPO LIQUIDO PARA BRAQUITERAPIA",
     "descripcionOriginal": "INFUSION DE RADIOISOTOPO LIQUIDO PARA BRAQUITERAPIA",
     "sinonimos": [],
@@ -49339,7 +49339,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814eac0"
     },
-    "cieId": "92.3",
+    "cieId": "92.30",
     "descripcion": "RADIOCIRUGIA ESTEREOTAXICA NO ESPECIFICADAA DE OTRA MANERA",
     "descripcionOriginal": "RADIOCIRUGIA ESTEREOTAXICA NO ESPECIFICADAA DE OTRA MANERA",
     "sinonimos": [],
@@ -50496,7 +50496,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814eb19"
     },
-    "cieId": "93.9",
+    "cieId": "93.90",
     "descripcion": "VENTILACION MECANICA NO INVASIVA",
     "descripcionOriginal": "VENTILACION MECANICA NO INVASIVA",
     "sinonimos": [],
@@ -52031,7 +52031,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814eb8c"
     },
-    "cieId": "96.1",
+    "cieId": "96.10",
     "descripcion": "TACTO RECTAL",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -52681,7 +52681,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ebbe"
     },
-    "cieId": "96.7",
+    "cieId": "96.70",
     "descripcion": "VENTILACION MECANICA INVASIVA CONTINUA DE DURACION NO ESPECIFICADA",
     "descripcionOriginal": "VENTILACION MECANICA INVASIVA CONTINUA DE DURACION NO ESPECIFICADA",
     "sinonimos": [],
@@ -53854,7 +53854,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ec18"
     },
-    "cieId": "98.2",
+    "cieId": "98.20",
     "descripcion": "EXTRACCION DE CUERPO EXTRAÑO, NEOM",
     "descripcionOriginal": "EXTRACCION DE CUERPO EXTRAÑO, NEOM",
     "sinonimos": [],
@@ -54049,7 +54049,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ec27"
     },
-    "cieId": "99.0",
+    "cieId": "99.00",
     "descripcion": "TRANSFUSION AUTOLOGA PERIOPERATIVA DE SANGRE TOTAL O SUS COM",
     "descripcionOriginal": "TRANSFUSION AUTOLOGA PERIOPERATIVA DE SANGRE TOTAL O SUS COM",
     "sinonimos": [],
@@ -54192,7 +54192,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ec32"
     },
-    "cieId": "99.1",
+    "cieId": "99.10",
     "descripcion": "INYECCION O INFUSION DE AGENTE TROMBOLITICO",
     "descripcionOriginal": "INYECCION O INFUSION DE AGENTE TROMBOLITICO",
     "sinonimos": [],
@@ -54335,7 +54335,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ec3d"
     },
-    "cieId": "99.2",
+    "cieId": "99.20",
     "descripcion": "INYECCION O INFUSION DE INHIBIDOR PLAQUETARIO",
     "descripcionOriginal": "INYECCION O INFUSION DE INHIBIDOR PLAQUETARIO",
     "sinonimos": [],
@@ -54855,7 +54855,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814ec65"
     },
-    "cieId": "99.6",
+    "cieId": "99.60",
     "descripcion": "RESUSCITACION CARDIOPULMONAR, NEOM",
     "descripcionOriginal": "RESUSCITACION CARDIOPULMONAR, NEOM",
     "sinonimos": [],
