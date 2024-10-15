@@ -3,8 +3,8 @@ import pandas as pd
 import json
 
 def generate_json_from_excel():
-    # Read the Excel file
-    df = pd.read_excel('procedimientos_liraec.xlsx')
+    # Read the Excel file, specifying dtype for 'cieId' as object
+    df = pd.read_excel('procedimientos_liraec.xlsx', dtype={'cieId': object})
     
     # Drop the 'hide' column if it exists
     if 'hide' in df.columns:
@@ -34,9 +34,9 @@ def generate_json_from_excel():
             else:
                 item[field] = []
         
-        # Handle 'cieId' as a string, preserving the exact representation from Excel
+        # Handle 'cieId', preserving the exact representation from Excel
         if 'cieId' in item and pd.notna(item['cieId']):
-            item['cieId'] = str(item['cieId']).strip()
+            item['cieId'] = item['cieId']  # This line ensures we keep the original value
         else:
             item['cieId'] = ''
 
