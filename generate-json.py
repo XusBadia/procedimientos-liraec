@@ -34,13 +34,9 @@ def generate_json_from_excel():
             else:
                 item[field] = []
         
-        # Handle 'cieId' as a string, preserving leading zeros and decimal points
+        # Handle 'cieId' as a string, preserving the exact representation from Excel
         if 'cieId' in item and pd.notna(item['cieId']):
             item['cieId'] = str(item['cieId']).strip()
-            # Preserve trailing zeros for decimal numbers
-            if '.' in item['cieId']:
-                integer_part, decimal_part = item['cieId'].split('.')
-                item['cieId'] = f"{integer_part}.{decimal_part.ljust(2, '0')}"
         else:
             item['cieId'] = ''
 
