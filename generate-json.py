@@ -34,9 +34,9 @@ def generate_json_from_excel():
             else:
                 item[field] = []
         
-        # Handle 'cieId', preserving the exact representation from Excel
+        # Handle 'cieId', ensuring it's always a string
         if 'cieId' in item and pd.notna(item['cieId']):
-            item['cieId'] = item['cieId']  # This line ensures we keep the original value
+            item['cieId'] = str(item['cieId'])  # Convert to string
         else:
             item['cieId'] = ''
 
