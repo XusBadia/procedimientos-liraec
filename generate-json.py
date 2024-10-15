@@ -1,29 +1,38 @@
 import pandas as pd
-import json
 from bson import ObjectId
+import json
 
-# Function to add ObjectId to each object
-def add_object_id(obj):
-    obj['_id'] = {'$oid': str(ObjectId())}
-    return obj
-
-# Function to convert Excel to JSON with ObjectIds
-def excel_to_json_with_objectid(excel_file, json_file):
+def generate_json_from_excel():
     # Read the Excel file
-    df = pd.read_excel(excel_file)
+    df = pd.read_excel('procedimientos_liraec.xlsx')
+    
+    # Drop the 'hide' column if it exists
+    if 'hide' in df.columns:
+        df = df.drop(columns=['hide'])
+
+    # Replace NaN values with empty strings
+    df = df.fillna('')
 
     # Convert DataFrame to list of dictionaries
     data = df.to_dict('records')
 
-    # Add ObjectId to each object
+    # Add ObjectId to each row and process 'especialidad', 'sinonimos', and 'subespecialidad'
     for item in data:
-        item = add_object_id(item)
+        item['_id'] = {"$oid": str(ObjectId())}
+        
+        for field in ['especialidad', 'sinonimos', 'subespecialidad']:
+            if field in item and isinstance(item[field], str):
+                # Split by comma, strip whitespace, and filter out empty strings
+                values = [value.strip() for value in item[field].split(',') if value.strip()]
+                item[field] = values if values else []
+            else:
+                item[field] = []
 
-    # Write the data to a JSON file
-    with open(json_file, 'w', encoding='utf-8') as f:
+    # Write to JSON file
+    with open('procedimientos_liraec.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"JSON file with ObjectIds has been created: {json_file}")
+    print("JSON file 'procedimientos_liraec.json' has been generated successfully.")
 
-# Use the function
-excel_to_json_with_objectid('procedimientos_liraec.xlsx', 'procedimientos_liraec.json')
+if __name__ == "__main__":
+    generate_json_from_excel()
