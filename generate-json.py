@@ -1,5 +1,5 @@
 import pandas as pd
-from bson import ObjectId
+# from bson import ObjectId  # This import is no longer needed
 import json
 
 def generate_json_from_excel():
@@ -16,10 +16,16 @@ def generate_json_from_excel():
     # Convert DataFrame to list of dictionaries
     data = df.to_dict('records')
 
-    # Add ObjectId to each row and process 'especialidad', 'sinonimos', 'subespecialidad', and 'cieId'
+    # Process each row
     for item in data:
-        item['_id'] = {"$oid": str(ObjectId())}
+        # Use the '_id' from the Excel file instead of generating a new ObjectId
+        if '_id' in item:
+            item['_id'] = {"$oid": str(item['_id'])}
+        else:
+            # If '_id' is not present in the Excel, you might want to handle this case
+            print(f"Warning: No '_id' found for item: {item}")
         
+        # The rest of the processing remains the same
         for field in ['especialidad', 'sinonimos', 'subespecialidad']:
             if field in item and isinstance(item[field], str):
                 # Split by comma, strip whitespace, and filter out empty strings
@@ -40,3 +46,6 @@ def generate_json_from_excel():
 
 if __name__ == "__main__":
     generate_json_from_excel()
+
+# Previous ObjectId generation (commented out):
+# item['_id'] = {"$oid": str(ObjectId())}
