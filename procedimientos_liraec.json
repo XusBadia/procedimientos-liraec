@@ -3,7 +3,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2a"
     },
-    "cieId": 17,
+    "cieId": "17",
     "descripcion": "OTROS PROCEDIMIENTOS DIVERSOS",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -16,7 +16,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2b"
     },
-    "cieId": 48,
+    "cieId": "48",
     "descripcion": "OPERACIONES SOBRE RECTO, RECTOSIGMOIDE Y TEJIDO PERIRRECTAL",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -31,7 +31,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2c"
     },
-    "cieId": 62,
+    "cieId": "62",
     "descripcion": "OPERACIONES SOBRE TESTICULOS",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -44,7 +44,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2d"
     },
-    "cieId": 85,
+    "cieId": "85",
     "descripcion": "OPERACIONES SOBRE LA MAMA",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -58,7 +58,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2e"
     },
-    "cieId": 86,
+    "cieId": "86",
     "descripcion": "OPERACIONES SOBRE PIEL Y TEJIDO SUBCUTANEO",
     "descripcionOriginal": "",
     "sinonimos": [],
@@ -72,7 +72,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc2f"
     },
-    "cieId": 100,
+    "cieId": "100",
     "descripcion": "DAMAGE CONTROL",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -89,7 +89,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc30"
     },
-    "cieId": 17361,
+    "cieId": "17361",
     "descripcion": "SIGMOIDECTOMIA LAPAROSCOPICA CON COLOSTOMIA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -106,7 +106,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc31"
     },
-    "cieId": 45721,
+    "cieId": "45721",
     "descripcion": "CECECTOMIA CONVERTIDA",
     "descripcionOriginal": "CECECTOMIA ABIERTA Y OTRAS",
     "sinonimos": [],
@@ -121,7 +121,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc32"
     },
-    "cieId": 45731,
+    "cieId": "45731",
     "descripcion": "HEMICOLECTOMIA DERECHA CONVERTIDA",
     "descripcionOriginal": "HEMICOLECTOMIA DERECHA ABIERTA Y OTRAS",
     "sinonimos": [],
@@ -136,7 +136,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc33"
     },
-    "cieId": 45741,
+    "cieId": "45741",
     "descripcion": "RESECCION DE COLON TRANSVERSO CONVERTIDA",
     "descripcionOriginal": "RESECCION DE COLON TRANSVERSO ABIERTA Y OTRAS",
     "sinonimos": [],
@@ -151,7 +151,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc34"
     },
-    "cieId": 45751,
+    "cieId": "45751",
     "descripcion": "HEMICOLECTOMIA IZQUIERDA CONVERTIDA",
     "descripcionOriginal": "HEMICOLECTOMIA IZQUIERDA ABIERTA Y OTRAS",
     "sinonimos": [],
@@ -166,7 +166,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc35"
     },
-    "cieId": 45761,
+    "cieId": "45761",
     "descripcion": "SIGMOIDECTOMIA CONVERTIDA",
     "descripcionOriginal": "SIGMOIDECTOMIA",
     "sinonimos": [],
@@ -181,7 +181,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc36"
     },
-    "cieId": 45762,
+    "cieId": "45762",
     "descripcion": "SIGMOIDECTOMIA CON COLOSTOMIA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -198,7 +198,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc37"
     },
-    "cieId": 48611,
+    "cieId": "48611",
     "descripcion": "RESECCION ANTERIOR ALTA DE RECTO LAPAROSCOPICA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -215,7 +215,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc38"
     },
-    "cieId": 48621,
+    "cieId": "48621",
     "descripcion": "RESECCION ANTERIOR BAJA DE RECTO LAPAROSCOPICA",
     "descripcionOriginal": "",
     "sinonimos": [
@@ -232,7 +232,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc39"
     },
-    "cieId": 48631,
+    "cieId": "48631",
     "descripcion": "RESECCION ANTERIOR ULTRABAJA DE RECTO LAPAROSCOPICA",
     "descripcionOriginal": "",
     "sinonimos": [
