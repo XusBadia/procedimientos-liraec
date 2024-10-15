@@ -249,7 +249,7 @@
     "_id": {
       "$oid": "670e9129402aa3989814dc3a"
     },
-    "cieId": "0.0",
+    "cieId": "",
     "descripcion": "ULTRASONIDO TERAPEUTICO",
     "descripcionOriginal": "ULTRASONIDO TERAPEUTICO",
     "sinonimos": [],
