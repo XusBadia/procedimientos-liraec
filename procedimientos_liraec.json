@@ -20935,6 +20935,21 @@
   },
   {
     "_id": {
+      "$oid": "670feb469b772dda91a0373f"
+    },
+    "cieId": "44.65",
+    "descripcion": "ESOFAGOGASTROPLASTIA",
+    "descripcionOriginal": "",
+    "sinonimos": [],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
+  },
+  {
+    "_id": {
       "$oid": "670e9129402aa3989814e25d"
     },
     "cieId": "44.70",
