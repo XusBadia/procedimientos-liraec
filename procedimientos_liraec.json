@@ -20795,10 +20795,10 @@
       "$oid": "670e9129402aa3989814e256"
     },
     "cieId": "44.41",
-    "descripcion": "SUTURA DE ULCERA GASTRICA",
+    "descripcion": "SUTURA DE ULCERA GASTRICA PERFORADA",
     "descripcionOriginal": "SUTURA DE ULCERA GASTRICA",
     "sinonimos": [
-      "SUTURA DE ULCUS GASTRICO"
+      "SUTURA DE ULCUS GASTRICO PERFORADO"
     ],
     "especialidad": [
       "CIRGEN"
@@ -20812,10 +20812,10 @@
       "$oid": "670e9129402aa3989814e257"
     },
     "cieId": "44.42",
-    "descripcion": "SUTURA DE ULCERA DUODENAL",
+    "descripcion": "SUTURA DE ULCERA DUODENAL PERFORADA",
     "descripcionOriginal": "SUTURA DE ULCERA DUODENAL",
     "sinonimos": [
-      "SUTURA DE ULCUS DUODENAL"
+      "SUTURA DE ULCUS DUODENAL PERFORADO"
     ],
     "especialidad": [
       "CIRGEN"
@@ -20847,6 +20847,40 @@
     "descripcion": "EMBOLIZACION TRANSCATETER POR HEMORRAGIA GASTRICA O DUODENAL",
     "descripcionOriginal": "EMBOLIZACION TRANSCATETER POR HEMORRAGIA GASTRICA O DUODENAL",
     "sinonimos": [],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "670fe74f122dee3a5eafc0be"
+    },
+    "cieId": "44.45",
+    "descripcion": "SUTURA DE ULCERA GASTRICA SANGRANTE",
+    "descripcionOriginal": "",
+    "sinonimos": [
+      "SUTURA DE ULCUS GASTRICO SANGRANTE"
+    ],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "670fe752783730fcf1a536e1"
+    },
+    "cieId": "44.46",
+    "descripcion": "SUTURA DE ULCERA DUODENAL SANGRANTE",
+    "descripcionOriginal": "",
+    "sinonimos": [
+      "SUTURA DE ULCUS DUODENAL SANGRANTE"
+    ],
     "especialidad": [
       "CIRGEN"
     ],
@@ -21935,6 +21969,21 @@
   },
   {
     "_id": {
+      "$oid": "670fe7b12edda2fa765b7d63"
+    },
+    "cieId": "46.94",
+    "descripcion": "REVISION DE ANASTOMOSIS DE INTESTINO GRUESO",
+    "descripcionOriginal": "",
+    "sinonimos": [],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
+  },
+  {
+    "_id": {
       "$oid": "670e9129402aa3989814e2a0"
     },
     "cieId": "47.0",
@@ -22300,6 +22349,21 @@
     "sinonimos": [
       "RAuB"
     ],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "670fe7c06118aac93c31e1fb"
+    },
+    "cieId": "48.64",
+    "descripcion": "RESECCION POSTERIOR DE RECTO",
+    "descripcionOriginal": "",
+    "sinonimos": [],
     "especialidad": [
       "CIRGEN"
     ],
