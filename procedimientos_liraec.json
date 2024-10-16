@@ -20753,8 +20753,12 @@
     "descripcion": "GASTROENTEROSTOMIA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -20903,8 +20907,12 @@
     "descripcion": "FUNDUPLICATURA NISSEN LAPAROSCÓPICA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -20914,8 +20922,12 @@
     "descripcion": "FUNDUPLICATURA DOR LAPAROSCÓPICA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -20925,8 +20937,12 @@
     "descripcion": "FUNDUPLICATURA TOUPET LAPAROSCÓPICA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -20936,8 +20952,12 @@
     "descripcion": "FUNDUPLICATURA NISSEN ABIERTA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -20947,8 +20967,12 @@
     "descripcion": "FUNDUPLICATURA DOR ABIERTA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -20958,8 +20982,12 @@
     "descripcion": "FUNDUPLICATURA TOUPET ABIERTA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -21029,8 +21057,12 @@
     "descripcion": "CIRUGÍA BARIÁTRICA REVISIONAL",
     "descripcionOriginal": "REVISION LAPAROSCOPICA DE PROCEDIMIENTO GASTRICO RESTRICTIVO",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -21058,7 +21090,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -21071,7 +21105,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -21084,7 +21120,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -21097,7 +21135,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -21110,7 +21150,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -21123,7 +21165,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "GASTRICA"
+    ]
   },
   {
     "_id": {
@@ -21226,7 +21270,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21239,7 +21285,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21252,7 +21300,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21262,8 +21312,12 @@
     "descripcion": "RESECCION DE LESION DE INTESTINO DELGADO",
     "descripcionOriginal": "OTRA ELIMIN.O EXERESIS DE LESION DE INT.DELGADO,SALVO DUODEN",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21308,7 +21362,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21602,7 +21658,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21615,7 +21673,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21628,7 +21688,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21638,8 +21700,12 @@
     "descripcion": "REVISION DE ILEOSTOMIA",
     "descripcionOriginal": "REVISION DE ESTOMA DE INTESTINO DELGADO",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21709,7 +21775,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21724,7 +21792,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21737,7 +21807,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21750,7 +21822,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21765,7 +21839,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21778,7 +21854,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21791,7 +21869,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21846,8 +21926,12 @@
     "descripcion": "REVISION DE ANASTOMOSIS DE INTESTINO DELGADO",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21860,7 +21944,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21873,7 +21959,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21886,7 +21974,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21899,7 +21989,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21912,7 +22004,9 @@
     "especialidad": [
       "CIRGEN"
     ],
-    "subespecialidad": []
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -21997,8 +22091,12 @@
     "descripcion": "PROCEDIMIENTOS DIAGNOSTICOS DE RECTO",
     "descripcionOriginal": "OTROS PROC.DIAG. SOBRE RECTO,RECTOSIGMOIDE Y TEJ.PERIRRECTAL",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -22381,8 +22479,12 @@
     "descripcion": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE ANO Y TEJIDO PERIANAL",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -22482,8 +22584,12 @@
     "descripcion": "HEMORROIDECTOMIA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -22508,8 +22614,12 @@
     "descripcion": "CAUTERIZACION DE HEMORROIDES",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -22583,8 +22693,12 @@
     "descripcion": "OTROS PROCEDIMIENTOS SOBRE HEMORROIDES",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -22611,8 +22725,12 @@
     "descripcion": "REPARACION DE ANO",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -22697,8 +22815,12 @@
     "descripcion": "CONTROL DE RECTORRAGIA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "COLOPROCTOLOGIA"
+    ]
   },
   {
     "_id": {
@@ -22714,6 +22836,17 @@
     "subespecialidad": [
       "HEPATOBILIAR"
     ]
+  },
+  {
+    "_id": {
+      "$oid": "670fde5830de285c814d4f9a"
+    },
+    "cieId": "50.1",
+    "descripcion": "\tPROCEDIMIENTOS DIAGNOSTICOS SOBRE HIGADO",
+    "descripcionOriginal": "\tPROCEDIMIENTOS DIAGNOSTICOS SOBRE HIGADO",
+    "sinonimos": [],
+    "especialidad": [],
+    "subespecialidad": []
   },
   {
     "_id": {
@@ -22892,8 +23025,12 @@
     "descripcion": "TRASPLANTE DE HIGADO",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "HEPATOBILIAR"
+    ]
   },
   {
     "_id": {
@@ -22917,6 +23054,21 @@
     "cieId": "51.02",
     "descripcion": "COLECISTOSTOMIA",
     "descripcionOriginal": "COLECISTOSTOMIA POR TROCAR",
+    "sinonimos": [],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "HEPATOBILIAR"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "670fe498cfac8d7804228aeb"
+    },
+    "cieId": "51.1",
+    "descripcion": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE LA VIA BILIAR PRINCIPAL",
+    "descripcionOriginal": "PROCEDIMIENTOS DIAGNOSTICOS SOBRE LA VIA BILIAR PRINCIPAL",
     "sinonimos": [],
     "especialidad": [
       "CIRGEN"
@@ -23195,6 +23347,21 @@
     "cieId": "51.62",
     "descripcion": "AMPULECTOMÍA",
     "descripcionOriginal": "EXC.DE LA AMPOLLA DE VATER(CON REIMPLANTACION DE COLEDOCO",
+    "sinonimos": [],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "HEPATOBILIAR"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "670fe4a3aa40f3aede7b487c"
+    },
+    "cieId": "51.69",
+    "descripcion": "EXCISION DE VIA BILIAR",
+    "descripcionOriginal": "EXCISION DE OTRA VIA BILIAR",
     "sinonimos": [],
     "especialidad": [
       "CIRGEN"
@@ -23498,8 +23665,12 @@
     "descripcion": "DRENAJE INTERNO DE QUISTE PANCREATICO",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "PANCREAS"
+    ]
   },
   {
     "_id": {
@@ -23970,8 +24141,12 @@
     "descripcion": "OTRA REPARACION DE HERNIA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": [
+      "PARED"
+    ]
   },
   {
     "_id": {
@@ -24180,7 +24355,9 @@
     "descripcion": "EXCISION O ELIMINACION DE TEJIDO PERITONEAL",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
+    "especialidad": [
+      "CIRGEN"
+    ],
     "subespecialidad": []
   },
   {
@@ -24235,6 +24412,32 @@
     "cieId": "54.71",
     "descripcion": "REPARACION DE GASTROSQUISIS",
     "descripcionOriginal": "REPARACION DE GASTROSQUISIS",
+    "sinonimos": [],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": []
+  },
+  {
+    "_id": {
+      "$oid": "670fe2f69119721e6189674b"
+    },
+    "cieId": "54.74",
+    "descripcion": "EPIPLOPLASTIA",
+    "descripcionOriginal": "OTRA REPARACION DE EPIPLON",
+    "sinonimos": [],
+    "especialidad": [
+      "CIRGEN"
+    ],
+    "subespecialidad": []
+  },
+  {
+    "_id": {
+      "$oid": "670fe31bc3720e14f961cf8d"
+    },
+    "cieId": "54.75",
+    "descripcion": "OTRA REPARACION DE MESENTERIO",
+    "descripcionOriginal": "",
     "sinonimos": [],
     "especialidad": [
       "CIRGEN"
@@ -42740,8 +42943,13 @@
     "descripcion": "RECONSTRUCCION TOTAL DE MAMA",
     "descripcionOriginal": "",
     "sinonimos": [],
-    "especialidad": [],
-    "subespecialidad": []
+    "especialidad": [
+      "CIRGEN",
+      "GINECOLOGIA"
+    ],
+    "subespecialidad": [
+      "MAMA"
+    ]
   },
   {
     "_id": {
@@ -42830,6 +43038,22 @@
     "cieId": "85.86",
     "descripcion": "TRASPOSICION DE PEZON",
     "descripcionOriginal": "TRASPOSICION DE PEZON",
+    "sinonimos": [],
+    "especialidad": [
+      "CIRGEN",
+      "GINECOLOGIA"
+    ],
+    "subespecialidad": [
+      "MAMA"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "670fe43d56fce39c5ee10cb0"
+    },
+    "cieId": "85.9",
+    "descripcion": "\tOTRAS OPERACIONES SOBRE LA MAMA",
+    "descripcionOriginal": "",
     "sinonimos": [],
     "especialidad": [
       "CIRGEN",
